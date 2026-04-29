@@ -7,7 +7,9 @@ URL = [
     "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile-2.txt",
     "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt"
 ]
+
 CD = 5
+
 country_order = [
     "Russia", "Germany", "Netherlands", "Finland", "Sweden", "Norway", "Denmark",
     "Poland", "Czech", "Austria", "Switzerland", "France", "Spain", "Italy",
@@ -88,15 +90,16 @@ def main():
         all_final_links.append(transform_link(link, "Other"))
     total = len(all_final_links)
     chunk_size = math.ceil(total / CD)
+    header = "# profile-title: V I A R • VPN\n# profile-update-interval: 5\n"
     with open("all.txt", "w", encoding="utf-8") as f:
-        f.write("\n".join(all_final_links))
+        f.write(header + "\n".join(all_final_links))
     for i in range(CD):
         start = i * chunk_size
         end = min(start + chunk_size, total)
         if start >= total:
             break
         with open(f"{i+1}.txt", "w", encoding="utf-8") as f:
-            f.write("\n".join(all_final_links[start:end]))
+            f.write(header + "\n".join(all_final_links[start:end]))
 
 if __name__ == "__main__":
     main()
