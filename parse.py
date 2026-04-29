@@ -90,7 +90,7 @@ def main():
         all_final_links.append(transform_link(link, "Other"))
     total = len(all_final_links)
     chunk_size = math.ceil(total / CD)
-    header = "# profile-title: V I A R • VPN\n# profile-update-interval: 5\n"
+    header = "# profile-title: V I A R • VPN | Free\n# profile-update-interval: 5\n"
     with open("all.txt", "w", encoding="utf-8") as f:
         f.write(header + "\n".join(all_final_links))
     for i in range(CD):
