@@ -1,4 +1,4 @@
-# profile-title: V I A R • VPN
+# profile-title: V I A R • VPN | Free
 # profile-update-interval: 5
 vless://291364ee-d321-473f-9e14-7581bb7ffee4@77.232.136.114:4443?encryption=&flow=xtls-rprx-vision&fp=chrome&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&security=reality&sid=&sni=www.avito.ru&type=#🇷🇺 Россия | viarvpn_free.t.me
 vless://69a2af58-d74a-44ca-864a-e09b493f4274@141.98.191.78:443?type=xhttp&encryption=none&path=/&mode=auto&security=reality&pbk=wpLAX1ax15YI3H8kmmE8PH6S4vCjAwE2gYw6hG6QIh4&fp=chrome&sni=login.vk.ru&sid=a0#🇷🇺 Россия | viarvpn_free.t.me

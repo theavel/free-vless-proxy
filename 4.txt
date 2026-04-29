@@ -1,4 +1,4 @@
-# profile-title: V I A R • VPN
+# profile-title: V I A R • VPN | Free
 # profile-update-interval: 5
 vless://adf1c918-43a1-4f53-a2dc-499c64d33bca@91.84.125.161:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=rbc.ru&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&sid=331a8c3fe668c1ee#🇳🇱 Нидерланды | viarvpn_free.t.me
 vless://adf1c918-43a1-4f53-a2dc-499c64d33bca@93.183.88.73:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=rbc.ru&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&sid=808e2d36726ee97e#🇳🇱 Нидерланды | viarvpn_free.t.me

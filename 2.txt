@@ -1,4 +1,4 @@
-# profile-title: V I A R • VPN
+# profile-title: V I A R • VPN | Free
 # profile-update-interval: 5
 vless://f6b71e78-e065-4cf8-9fbb-b9e25ff67eff@5.188.224.73:2083?type=tcp&security=reality&fp=chrome&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&sni=ir.ozone.ru#🇷🇺 Россия | viarvpn_free.t.me
 vless://f993de15-4cc2-49bb-b64b-2d248687b819@5.188.224.136:2083?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=ir.ozone.ru&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38#🇷🇺 Россия | viarvpn_free.t.me

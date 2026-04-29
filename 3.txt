@@ -1,4 +1,4 @@
-# profile-title: V I A R • VPN
+# profile-title: V I A R • VPN | Free
 # profile-update-interval: 5
 vless://25b49732-bf5d-4bb5-96da-6982e417d69a@159.195.56.34:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇩🇪 Германия | viarvpn_free.t.me
 vless://25b49732-bf5d-4bb5-96da-6982e417d69a@85.193.86.56:8446?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇩🇪 Германия | viarvpn_free.t.me

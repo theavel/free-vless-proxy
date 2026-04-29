@@ -1,4 +1,4 @@
-# profile-title: V I A R • VPN
+# profile-title: V I A R • VPN | Free
 # profile-update-interval: 5
 vless://19ef3d02-1c55-4fec-9794-6def8cbac396@150.241.75.3:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eu-latdeliver.onnstreaming.ru&pbk=JgDfe0nB3kM-pi0YtkfSxx9MgWUwDv17qYkHisDul2M&sid=0c1de03e22ef2156#🇱🇻 Латвия | viarvpn_free.t.me
 vless://19ef3d02-1c55-4fec-9794-6def8cbac396@150.241.75.3:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=eu-latdeliver.onnstreaming.ru&pbk=JgDfe0nB3kM-pi0YtkfSxx9MgWUwDv17qYkHisDul2M&sid=0c1de03e22ef2156#🇱🇻 Латвия | viarvpn_free.t.me
