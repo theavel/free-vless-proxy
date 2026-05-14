@@ -1,12 +1,6 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://75807638-6f19-2710-ae08-38492ee85c88@de.active-engine.ru:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=de.active-engine.ru&type=tcp&id=a6a238ed#🇵🇱 Польша | viarvpn_free.t.me
-vless://75807638-6f19-2710-ae08-38492ee85c88@de.active-engine.ru:52006?type=tcp&headerType=none&security=tls&encryption=none&sni=de.active-engine.ru&flow=xtls-rprx-vision&insecure=1#🇵🇱 Польша | viarvpn_free.t.me
-vless://31216f81-3139-0021-bac4-646680314264@fr.musicperec.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=4c8d1e0f&sni=www.amd.com#🇫🇷 Франция | viarvpn_free.t.me
+vless://75807638-6f19-2710-ae08-38492ee85c88@87.228.29.131:52006?type=tcp&headerType=none&security=tls&encryption=none&sni=de.active-engine.ru&flow=xtls-rprx-vision&insecure=1#🇵🇱 Польша | viarvpn_free.t.me
 vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@84.32.209.6:443?flow=xtls-rprx-vision&host=vltch.mostserv.xyz&path=%2F&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&security=reality&sid=226509f017e4c36d&sni=vltch.mostserv.xyz&type=tcp#🇱🇹 Литва | viarvpn_free.t.me
 vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@84.32.209.6:443?flow=xtls-rprx-vision&security=reality&sni=vltch.mostserv.xyz&fp=chrome&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&sid=226509f017e4c36d&host=vltch.mostserv.xyz&path=/#🇱🇹 Литва | viarvpn_free.t.me
 vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@84.32.209.6:443?flow=xtls-rprx-vision&security=reality&sni=vltch.mostserv.xyz&fp=chrome&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&sid=226509f017e4c36d&path=%2f#🇱🇹 Литва | viarvpn_free.t.me
-vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@84.32.209.6:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&sid=226509f017e4c36d&sni=vltch.mostserv.xyz#🇱🇹 Литва | viarvpn_free.t.me
-vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@vltch.mostserv.xyz:443?&security=reality&flow=xtls-rprx-vision&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&sid=226509f017e4c36d&fp=chrome&sni=vltch.mostserv.xyz&type=tcp&headerType=none&host=vltch.mostserv.xyz&path=%2F#🇱🇹 Литва | viarvpn_free.t.me
-vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@vltch.mostserv.xyz:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=vltch.mostserv.xyz&fp=&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&sid=226509f017e4c36d#🇱🇹 Литва | viarvpn_free.t.me
-vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@vltch.mostserv.xyz:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&sid=226509f017e4c36d&sni=vltch.mostserv.xyz#🇱🇹 Литва | viarvpn_free.t.me
