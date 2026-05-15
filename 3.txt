@@ -1,14 +1,17 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://5b2fc182-a497-4fbe-aeb8-1841dae99022@72.56.96.93:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=FSq5DVYJ8UaKArP3FtCmlZKqOQ08dKkqB2fefjRkA0M&sni=eh.vk.com#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://6784aee2-0dfe-474f-8446-480259ff9918@212.41.9.204:9443?fp=chrome&mode=auto&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&security=reality&sid=965af8960474c29c&sni=stats.vk-portal.net&type=xhttp#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://6784aee2-0dfe-474f-8446-480259ff9918@212.41.9.238:443?encryption=none&type=xhttp&security=reality&mode=auto&extra=null&fp=chrome&sni=stats.vk-portal.net&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&sid=965af8960474c29c#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://6784aee2-0dfe-474f-8446-480259ff9918@212.41.9.238:9443?fp=chrome&mode=auto&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&security=reality&sid=965af8960474c29c&sni=stats.vk-portal.net&type=xhttp#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://6784aee2-0dfe-474f-8446-480259ff9918@37.9.13.174:443?encryption=none&type=xhttp&security=reality&mode=auto&extra=null&fp=chrome&sni=stats.vk-portal.net&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&sid=965af8960474c29c#🇳🇱 Нидерланды | viarvpn_free.t.me
 vless://3bd48b98-b398-448a-8a63-5771057e0135@147.45.111.65:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=apple.com&pbk=GsKY4XpP6sr905aHvCrj0JEHhgcAD5aEcmbjyLSNjAU&sid=ca5096&spx=%2F#🇳🇱 Нидерланды | viarvpn_free.t.me
 vless://c38fe780-40bb-536d-9c91-8807ebd4215d@server9magic.magicvpssub.ru:48992?type=grpc&security=reality&encryption=none&pbk=NNLOTRAoti6W6lXToGZJiuU281iJ501qcarJu3LtcmE&fp=chrome&sni=vk.com&sid=f2&spx=%2F&mode=gun#🇫🇮 Финляндия | viarvpn_free.t.me
 vless://cf287014-034c-59aa-832f-714e11a73340@server9magic.magicvpssub.ru:443?type=grpc&security=reality&encryption=none&pbk=NNLOTRAoti6W6lXToGZJiuU281iJ501qcarJu3LtcmE&fp=chrome&sni=www.vk.com&sid=f2&spx=%2F&mode=gun#🇫🇮 Финляндия | viarvpn_free.t.me
 vless://c286cb84-1a5c-4543-bc9e-d7727a0ad823@158.160.224.147:8443?encryption=none&type=ws&security=tls&path=%2F&host=e.genesis1780.ru&sni=e.genesis1780.ru#🇫🇮 Финляндия | viarvpn_free.t.me
 vless://c286cb84-1a5c-4543-bc9e-d7727a0ad823@158.160.50.116:8443?encryption=none&type=ws&security=tls&path=%2F&host=e.genesis1780.ru&sni=e.genesis1780.ru#🇫🇮 Финляндия | viarvpn_free.t.me
-vless://c286cb84-1a5c-4543-bc9e-d7727a0ad823@84.201.129.19:4433?encryption=none&type=ws&security=tls&host=e.genesis1780.ru&sni=e.genesis1780.ru#🇫🇮 Финляндия | viarvpn_free.t.me
 vless://75807638-6f19-0bb8-ae08-38492ee85c88@82.202.197.2:52006?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&insecure=1#🇫🇮 Финляндия | viarvpn_free.t.me
 vless://5b2fc182-a497-4fbe-aeb8-1841dae99022@212.113.117.239:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=FSq5DVYJ8UaKArP3FtCmlZKqOQ08dKkqB2fefjRkA0M&sni=eh.vk.com#🇳🇴 Норвегия | viarvpn_free.t.me
+vless://c8b6167c-615a-53ec-ae23-87054336339e@81.17.159.63:443?fp=chrome&host=www.kinopoisk.ru&mode=auto&path=%2FVu-Nf1cGVrkTt3qJrz&pbk=XDBvi6U6TnvlyuCdsIUtQ_yjrjyTEvr0KLHvuo-pF0Q&security=reality&sid=cf53a10184e17998&sni=www.kinopoisk.ru&type=xhttp#🇩🇰 Дания | viarvpn_free.t.me
 vless://25f1947f-63a8-2040-8f3b-b101eed550e7@146.185.241.40:443?encryption=none&type=ws&security=tls&path=%2Fupload%2Fsession&fp=chrome&sni=w2ws.listwhite.cc#🇵🇱 Польша | viarvpn_free.t.me
 vless://25f1947f-63a8-2040-8f3b-b101eed550e7@146.185.241.40:443?encryption=none&type=ws&security=tls&path=%2Fupload%2Fsession&host=s2.ws.listwhite.cc&fp=chrome&sni=w2ws.listwhite.cc#🇵🇱 Польша | viarvpn_free.t.me
 vless://25f1947f-63a8-2040-8f3b-b101eed550e7@146.185.241.45:443?encryption=none&type=ws&security=tls&path=%2Fupload%2Fsession&fp=chrome&sni=w1ws.listwhite.cc#🇵🇱 Польша | viarvpn_free.t.me
@@ -16,6 +19,3 @@ vless://25f1947f-63a8-2040-8f3b-b101eed550e7@146.185.241.45:443?encryption=none&
 vless://25f1947f-63a8-2040-8f3b-b101eed550e7@146.185.243.233:443?encryption=none&type=ws&security=tls&path=%2Fupload%2Fsession&fp=chrome&sni=s3.listwhite.cc#🇵🇱 Польша | viarvpn_free.t.me
 vless://25f1947f-63a8-2040-8f3b-b101eed550e7@146.185.243.233:443?encryption=none&type=ws&security=tls&path=%2Fupload%2Fsession&host=s2.ws.listwhite.cc&fp=chrome&sni=s3.listwhite.cc#🇵🇱 Польша | viarvpn_free.t.me
 vless://25f1947f-63a8-2040-8f3b-b101eed550e7@87.239.107.130:443?encryption=none&type=ws&security=tls&path=%2Fupload%2Fsession&host=s1.ws.listwhite.cc&fp=chrome&sni=s1.ws.listwhite.cc#🇵🇱 Польша | viarvpn_free.t.me
-vless://25f1947f-63a8-2040-8f3b-b101eed550e7@87.239.107.130:443?encryption=none&type=ws&security=tls&path=/upload/session&fp=chrome&sni=s1.ws.listwhite.cc#🇵🇱 Польша | viarvpn_free.t.me
-vless://25f1947f-63a8-2040-8f3b-b101eed550e7@s1.ws.listwhite.cc:443?type=ws&headerType=none&security=tls&encryption=none&sni=s1.ws.listwhite.cc&fp=chrome&path=%2Fupload%2Fsession&host=s1.ws.listwhite.cc&insecure=0#🇵🇱 Польша | viarvpn_free.t.me
-vless://25f1947f-63a8-2040-8f3b-b101eed550e7@s3.listwhite.cc:443?type=ws&headerType=none&security=tls&encryption=none&sni=s3.listwhite.cc&fp=chrome&path=%2Fupload%2Fsession&host=s2.ws.listwhite.cc&insecure=0#🇵🇱 Польша | viarvpn_free.t.me
