@@ -1,7 +1,5 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://95458338-6666-47c1-beb8-7d6b95bc10f0@84.201.147.213:2443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=hxpWlr-5EgNUPr__9gnoDdF9spsl4W4sfNKv_NJM_FY&sid=6ba85179e30d4fc2#🇵🇱 Польша | viarvpn_free.t.me
-vless://95458338-6666-47c1-beb8-7d6b95bc10f0@84.201.147.213:3443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=7ibca15-im9GR65wrb0N-ij1qdUftpcxTwNxHn9HPUw&sid=6ba85179e30d4fc2#🇵🇱 Польша | viarvpn_free.t.me
-vless://95458338-6666-47c1-beb8-7d6b95bc10f0@84.201.147.213:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=y9hgkaFKFTgKL5PHsksGNKuSrd7jBysJ6rBHktu2k1o&sid=6ba85179e30d4fc2#🇵🇱 Польша | viarvpn_free.t.me
-vless://66036ae7-f4b4-4dd9-b72f-88b571c6ba26@176.109.109.66:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=bc8ceae578236c#🇵🇱 Польша | viarvpn_free.t.me
-vless://66036ae7-f4b4-4dd9-b72f-88b571c6ba26@91.224.87.225:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=452c#🇵🇱 Польша | viarvpn_free.t.me
+vless://b4186875-7023-4f20-88b2-125a04943b2b@162.120.17.58:443?fp=chrome&headertype=none&host=storage.yandexcloud.net&path=%2Ftopschool.backet%2Fpublic%2Fcourse_cover%2Fe20b56b6-8679-4123-89c4-963142e1bb7c.png&pbk=n5P9loBH9eKY7Lj6uVi2CMh7vZcAclKWYjbSOWG0mkU&security=reality&sid=54c7c13b52eea5f3&sni=storage.yandexcloud.net&type=xhttp#Other | viarvpn_free.t.me
+vless://0a21537c-314a-44d0-ba19-b445a78275aa@partner.zoom.us:80?path=%2F&security=&encryption=none&host=lk.zerosyntax.org&type=ws#Other | viarvpn_free.t.me
+vless://66036ae7-f4b4-4dd9-b72f-88b571c6ba26@gbr.nodsvpnspace.com:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=06bf5b24acb9#Other | viarvpn_free.t.me
