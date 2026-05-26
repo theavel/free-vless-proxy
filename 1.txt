@@ -1,11 +1,8 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
+vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@158.160.250.45:443?type=tcp&security=reality&fp=chrome&pbk=mDtiIWLFPJoPVrDLOCvKn6lvlS8r0TdRO9MxmmdIDmo&sid=917fd5a45e8840&sni=ads.x5.ru#🇷🇺 Россия | viarvpn_free.t.me
+vless://bd6acaa8-4579-3d31-9bcb-0dae59f756e9@178.154.243.251:443?type=tcp&security=reality&fp=random&pbk=JkiFzvTq6FFDb44V8ifby6-P7QZo7Z1B5VOrGTgAQEY&sid=a1e1a7&sni=www.google.com#🇷🇺 Россия | viarvpn_free.t.me
+vless://106c376f-431d-4ea0-bc61-f82308fefb4e@45.12.114.81:80?mode=auto&path=%2F&security=tls&sni=obhod.riotvpn.eu&type=xhttp#🇷🇺 Россия | viarvpn_free.t.me
+vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?encryption=none&type=tcp&security=none#🇷🇺 Россия | viarvpn_free.t.me
+vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?encryption=none&type=tcp&security=none#🇷🇺 Россия | viarvpn_free.t.me
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru3.alexanderoff.ru:4443?&security=false&fp=chrome&type=tcp&headerType=none&host=ru3.alexanderoff.ru&path=%2F#🇷🇺 Россия | viarvpn_free.t.me
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru3.alexanderoff.ru:4443?type=tcp&headerType=none&security=none&encryption=none#🇷🇺 Россия | viarvpn_free.t.me
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru3.alexanderoff.ru:4443?type=tcp&security=false&path=%2F&host=ru3.alexanderoff.ru&sni=ru3.alexanderoff.ru&fp=chrome#🇷🇺 Россия | viarvpn_free.t.me
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru7.alexanderoff.ru:4443?security=none&type=tcp#🇷🇺 Россия | viarvpn_free.t.me
-vless://88926075-7b7b-4c44-aa83-201efd3e0319@auto.trahodrom.fun:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&sni=cdn.trahodrom.fun#🇷🇺 Россия | viarvpn_free.t.me
-vless://ccbbd3a3-db22-4f82-956e-d65178de2743@37.77.106.113:443?type=xhttp&security=reality&fp=chrome&pbk=tFKuLI3W0VZ7IxAL6hFQhD7DWmxAl0_NCjLya_I64zQ&sid=b2d4f6e8&sni=okko.tv&path=/berketgo&mode=auto#🇩🇪 Германия | viarvpn_free.t.me
-vless://b4186875-7023-4f20-88b2-125a04943b2b@gegege.lightforum.su:443?fp=random&host=storage.yandexcloud.net&mode=auto&path=%2Ftopschool.backet%2Fpublic%2Fcourse_cover%2Fe20b56b6-8679-4123-89c4-963142e1bb7c.png&pbk=n5P9loBH9eKY7Lj6uVi2CMh7vZcAclKWYjbSOWG0mkU&security=reality&sid=54c7c13b52eea5f3&sni=storage.yandexcloud.net&type=xhttp#🇩🇪 Германия | viarvpn_free.t.me
-vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@62.217.179.4:443?mode=auto&path=/api/v3/f29479507adb&security=reality&encryption=none&pbk=AhQkw1Ydp_ZkXnE7UbIZvwHk9KE_Bf5_TkojYZZUuGs&host=ads.x5.ru&fp=chrome&allowinsecure=0&type=xhttp&sni=ads.x5.ru&sid=2da46294d6a521b2#🇩🇪 Германия | viarvpn_free.t.me
-vless://88926075-7b7b-0114-aa83-201efd3e0319@auto.trahodrom.fun:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&sni=cdn.trahodrom.fun#🇩🇪 Германия | viarvpn_free.t.me
