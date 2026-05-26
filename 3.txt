@@ -1,7 +1,8 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://f6781b03-16d1-471f-85c9-c1fb0cd17de5@158.160.122.237:1443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=firefox&security=reality&pbk=h8BDQnylBOkY67mfYEWv47OtXIo8FOjL5Y1tlozo8D0&sid=#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://f6781b03-16d1-471f-85c9-c1fb0cd17de5@84.201.160.220:1443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=firefox&security=reality&pbk=h8BDQnylBOkY67mfYEWv47OtXIo8FOjL5Y1tlozo8D0&sid=#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://15949cf2-2edb-438a-bda0-63fd7007f0c4@185.91.53.153:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=kDGigLxn2RUJ8HqhPVUb8pRAcjn5zMhR0-QrORmbIDk&sid=be6abde66d48cd13&spx=%2F#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://15949cf2-2edb-438a-bda0-63fd7007f0c4@185.91.53.153:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=max.ru&pbk=kDGigLxn2RUJ8HqhPVUb8pRAcjn5zMhR0-QrORmbIDk&sid=be6abde66d48cd13&spx=%2F#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://15949cf2-2edb-438a-bda0-63fd7007f0c4@185.91.53.153:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=rutube.ru&pbk=HhzAvJmqEjt_CeifAJmDfg7DgeD2t2cvzWqvyyPSVz0&sid=664b8a28e735af5f&spx=%2F#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://bda4d409-ed8e-41e6-b8aa-0f8361837fcb@51.250.4.2:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&sid=226509f017e4c36d#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://f1455742-b50b-4ce3-b993-1902db62a40f@158.160.255.35:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&sid=226509f017e4c36d#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://f1455742-b50b-4ce3-b993-1902db62a40f@51.250.4.2:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&sid=226509f017e4c36d#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://4e783039-6260-4107-9a11-2ab7dc18ded8@185.242.19.251:80?encryption=none&type=ws&security=none&path=%2Fstatic&host=top1847871446.mwscdn.ru#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://4e783039-6260-4107-9a11-2ab7dc18ded8@185.242.19.251:80?encryption=none&type=ws&security=none&path=%2Fstatic&host=top2019950683.mwscdn.ru#🇫🇮 Финляндия | viarvpn_free.t.me
+vless://dc3440ed-d55b-4380-861f-b78ae7ca39fc@185.241.195.44:5443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=yandex.ru&pbk=NMyNPis9i5DIDbs1Nl1v-HA3ciw_ris2II9D_beSGhc&sid=7ebb10bb916e8a#🇵🇱 Польша | viarvpn_free.t.me

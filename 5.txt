@@ -1,6 +1,6 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@159.194.239.37:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=ads.x5.ru&fp=chrome&pbk=AhQkw1Ydp_ZkXnE7UbIZvwHk9KE_Bf5_TkojYZZUuGs&sid=2da46294d6a521b2&path=%2Fapi%2Fv3%2Ff29479507adb&host=ads.x5.ru#Other | viarvpn_free.t.me
-vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@155.212.146.195:443?path=%2Fapi%2Fv3%2Ff29479507adb&security=reality&encryption=none&pbk=AhQkw1Ydp_ZkXnE7UbIZvwHk9KE_Bf5_TkojYZZUuGs&host=ads.x5.ru&fp=chrome&type=xhttp&sni=ads.x5.ru&sid=2da46294d6a521B2#Other | viarvpn_free.t.me
-vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@155.212.146.195:443?type=xhttp&security=reality&fp=chrome&pbk=AhQkw1Ydp_ZkXnE7UbIZvwHk9KE_Bf5_TkojYZZUuGs&sid=2da46294d6a521B2&sni=ads.x5.ru&path=%2Fapi%2Fv3%2Ff29479507adb&mode=auto#Other | viarvpn_free.t.me
-vless://c6c1c62f-b788-4dce-9e9c-e43b2505d2db@185.33.86.34:51608/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ya.ru&fp=chrome&security=reality&pbk=FuP-t3bufgX252PbrvA0lc8wgj5x5xNsTAwzOeWL5yE&sid=aabbccdd#Other | viarvpn_free.t.me
+vless://dc3440ed-d55b-4380-861f-b78ae7ca39fc@87.239.107.213:5443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=DrScIRqdhnlME-hbyn6NANptliElsJ4hqm-3yHhpbAQ&sid=b416fe8430b75ee9#Other | viarvpn_free.t.me
+vless://dc3440ed-d55b-4380-861f-b78ae7ca39fc@89.208.84.119:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=nUf0NwhDrX-6JTHXVAqorbutWc9R1yzVV9K-NljsW38&sid=07eb164f8911b3bd#Other | viarvpn_free.t.me
+vless://dc3440ed-d55b-4380-861f-b78ae7ca39fc@37.139.42.150:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=Q8jo4A5UbFrnZZC2f_ffqMQ-Uv0cdFKFzQXo-mnTMGU&sid=1cfa39bdf376ea#Other | viarvpn_free.t.me
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@est-def.sbrf-cdn342.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision&insecure=0#Other | viarvpn_free.t.me
