@@ -1,8 +1,7 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@158.160.250.45:443?type=tcp&security=reality&fp=chrome&pbk=mDtiIWLFPJoPVrDLOCvKn6lvlS8r0TdRO9MxmmdIDmo&sid=917fd5a45e8840&sni=ads.x5.ru#🇷🇺 Россия | viarvpn_free.t.me
 vless://bd6acaa8-4579-3d31-9bcb-0dae59f756e9@178.154.243.251:443?type=tcp&security=reality&fp=random&pbk=JkiFzvTq6FFDb44V8ifby6-P7QZo7Z1B5VOrGTgAQEY&sid=a1e1a7&sni=www.google.com#🇷🇺 Россия | viarvpn_free.t.me
-vless://106c376f-431d-4ea0-bc61-f82308fefb4e@45.12.114.81:80?mode=auto&path=%2F&security=tls&sni=obhod.riotvpn.eu&type=xhttp#🇷🇺 Россия | viarvpn_free.t.me
+vless://f6781b03-16d1-471f-85c9-c1fb0cd17de5@158.160.113.155:2053/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=b905247956cd04ec.topology.gslb.yccdn.ru&fp=firefox&security=reality&pbk=fE_tNhtVWrjKh7ZXuj19AZ7fzSTgp_C1340YI3FFN1w&sid=e3b6a1f8#🇷🇺 Россия | viarvpn_free.t.me
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?encryption=none&type=tcp&security=none#🇷🇺 Россия | viarvpn_free.t.me
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?encryption=none&type=tcp&security=none#🇷🇺 Россия | viarvpn_free.t.me
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru3.alexanderoff.ru:4443?&security=false&fp=chrome&type=tcp&headerType=none&host=ru3.alexanderoff.ru&path=%2F#🇷🇺 Россия | viarvpn_free.t.me
