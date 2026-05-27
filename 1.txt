@@ -1,14 +1,7 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
+vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@84.201.187.42:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=8zVjmI0JrsjZBlImD8TbPAb_de26b_YKRARmp-T_eH4&sid=6b26829083#🇷🇺 Россия | viarvpn_free.t.me
+vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@84.201.187.42:443?encryption=none&type=tcp&security=reality&fp=randomized&sni=ads.x5.ru&pbk=8zVjmI0JrsjZBlImD8TbPAb_de26b_YKRARmp-T_eH4&sid=6b26829083#🇷🇺 Россия | viarvpn_free.t.me
+vless://b7c919a8-888d-4522-a33f-e07e9af91d52@51.250.84.76:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ads.x5.ru&fp=random&pbk=Py03aPnCma9Ip4xCvtBsK77NScUYphSw46RmdjFSvls&sid=aa0f6654e6b37476&flow=xtls-rprx-vision#🇷🇺 Россия | viarvpn_free.t.me
 vless://bd6acaa8-4579-3d31-9bcb-0dae59f756e9@178.154.243.251:443?encryption=none&type=tcp&security=reality&fp=randomized&sni=www.google.com&pbk=JkiFzvTq6FFDb44V8ifby6-P7QZo7Z1B5VOrGTgAQEY&sid=a1e1a7#🇷🇺 Россия | viarvpn_free.t.me
-vless://232627e4-1bec-41cc-8f91-6dd9235df1ce@ru.c2horizon.app:443/?type=tcp&encryption=none&flow=#🇷🇺 Россия | viarvpn_free.t.me
-vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@212.192.14.50:61825?encryption=none&type=grpc&security=reality&mode=gun&serviceName=newinsight&fp=randomized&sni=github.com&pbk=G8hjZomMXOCmbVboqMiuf2sVvcnihjQ4BdyVo3XewW4&sid=6bcde426#🇷🇺 Россия | viarvpn_free.t.me
-vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@212.192.14.50:61825?mode=gun&type=grpc&security=reality&sni=github.com&fp=chrome&pbk=G8hjZomMXOCmbVboqMiuf2sVvcnihjQ4BdyVo3XewW4&sid=6bcde426&serviceName=newinsight#🇷🇺 Россия | viarvpn_free.t.me
-vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@212.192.14.50:61825?type=grpc&security=reality&pbk=G8hjZomMXOCmbVboqMiuf2sVvcnihjQ4BdyVo3XewW4&sid=6bcde426&sni=github.com&mode=&serviceName=newinsight&authority=#🇷🇺 Россия | viarvpn_free.t.me
-vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@62.217.179.4:443?mode=auto&path=/api/v3/f29479507adb&security=reality&encryption=none&pbk=AhQkw1Ydp_ZkXnE7UbIZvwHk9KE_Bf5_TkojYZZUuGs&host=ads.x5.ru&fp=chrome&allowinsecure=0&type=xhttp&sni=ads.x5.ru&sid=2da46294d6a521b2#🇩🇪 Германия | viarvpn_free.t.me
-vless://3c3c3969-b06a-43ff-ad1e-11621c542946@ruporkzov.com:443?security=reality&encryption=none&echfq=none&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ruporkzov.com&sid=2b145d99dc39e2cc#🇩🇪 Германия | viarvpn_free.t.me
-vless://9ebab373-19fe-4535-aa95-4e348ea300f1@212.193.155.32:443?encryption=none&type=ws&security=tls&path=%2Fws&host=s28315.cdn.ngenix.net&sni=s28315.cdn.ngenix.net#🇩🇪 Германия | viarvpn_free.t.me
-vless://9ebab373-19fe-4535-aa95-4e348ea300f1@46.235.185.25:443?encryption=none&type=ws&security=tls&path=%2Fws&host=s28315.cdn.ngenix.net&sni=s28315.cdn.ngenix.net#🇩🇪 Германия | viarvpn_free.t.me
-vless://9ebab373-19fe-4535-aa95-4e348ea300f1@46.235.186.50:443?encryption=none&type=ws&security=tls&path=%2Fws&host=s28315.cdn.ngenix.net&sni=s28315.cdn.ngenix.net#🇩🇪 Германия | viarvpn_free.t.me
-vless://9ebab373-19fe-4535-aa95-4e348ea300f1@s28315.cdn.ngenix.net:443?encryption=none&host=s28315.cdn.ngenix.net&path=%2Fws&security=tls&sni=s28315.cdn.ngenix.net&type=ws#🇩🇪 Германия | viarvpn_free.t.me
-vless://f5261682-e0c4-4a1b-8c4b-585391dbf4f8@158.160.130.173:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://106c376f-431d-4ea0-bc61-f82308fefb4e@45.12.114.81:80?mode=auto&path=%2F&security=tls&sni=obhod.riotvpn.eu&type=xhttp#🇷🇺 Россия | viarvpn_free.t.me
