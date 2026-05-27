@@ -1,11 +1,13 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@89.126.229.40:443?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sid=a1b2c3d4#🇵🇱 Польша | viarvpn_free.t.me
-vless://4e783787-4de7-51de-ae32-01ce7203b838@185.171.202.76:42652?allowInsecure=1&alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&host=omm.kotlet.org&mode=stream-one&path=%2Fskkwkqknsjejejwj&security=tls&sni=yahoo.com&type=xhttp#🇫🇷 Франция | viarvpn_free.t.me
-vless://Tel%3AArshiacomplus@185.171.202.76:42652?encryption=none&security=tls&sni=yahoo.com&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=xhttp&host=omm.kotlet.org&path=%2Fskkwkqknsjejejwj&mode=stream-one#🇫🇷 Франция | viarvpn_free.t.me
 vless://Tel%3AArshiacomplus@185.171.202.76:42652?encryption=none&type=xhttp&security=tls&path=%2Fskkwkqknsjejejwj&host=omm.kotlet.org&mode=stream-one&sni=www.speedtest.com&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=1#🇫🇷 Франция | viarvpn_free.t.me
 vless://Tel%3AArshiacomplus@185.171.202.76:42652?mode=stream-one&path=%2Fskkwkqknsjejejwj&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=omm.kotlet.org&fp=firefox&type=xhttp&allowInsecure=1&sni=soft98.ir#🇫🇷 Франция | viarvpn_free.t.me
 vless://Tel%3AArshiacomplus@185.171.202.76:42652?mode=stream-one&path=%2Fskkwkqknsjejejwj&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=omm.kotlet.org&fp=firefox&type=xhttp&allowInsecure=1&sni=www.wikipedia.com#🇫🇷 Франция | viarvpn_free.t.me
-vless://Tel%3AArshiacomplus@185.171.202.76:42652?mode=stream-one&path=%2Fskkwkqknsjejejwj&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=omm.kotlet.org&fp=firefox&type=xhttp&allowInsecure=1&sni=yahoo.com#🇫🇷 Франция | viarvpn_free.t.me
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@195.96.132.125:443?type=tcp&security=reality&pbk=WM-LMz6slGkGPD3zEM8Ntat27n6p6EfbxRsjYmTykV4&fp=chrome&sni=www.vk.ru&sid=8237eb&flow=xtls-rprx-vision#🇪🇸 Испания | viarvpn_free.t.me
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@185.215.184.97:443?type=tcp&headerType=none&security=tls&encryption=none&sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision&insecure=0#🇪🇪 Эстония | viarvpn_free.t.me
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@185.215.184.97:443?type=tcp&headerType=none&security=tls&encryption=none&sni=sub.sbrf-cdn342.ru&fp=chrome&flow=xtls-rprx-vision-udp443&insecure=0#🇪🇪 Эстония | viarvpn_free.t.me
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@est-def.sbrf-cdn342.ru:443?security=tls&type=tcp&sni=sub.sbrf-cdn342.ru&fp=chrome&flow=xtls-rprx-vision&encryption=none#🇪🇪 Эстония | viarvpn_free.t.me
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@est-def.sbrf-cdn342.ru:443?sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇪🇪 Эстония | viarvpn_free.t.me
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@est-def.sbrf-cdn342.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision&insecure=0#🇪🇪 Эстония | viarvpn_free.t.me
+vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@62.192.174.111:443?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sid=a1b2c3d4#🇱🇻 Латвия | viarvpn_free.t.me
+vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@155.212.146.195:443?encryption=none&security=reality&sni=ads.x5.ru&fp=chrome&pbk=AhQkw1Ydp_ZkXnE7UbIZvwHk9KE_Bf5_TkojYZZUuGs&sid=2da46294d6a521B2&type=xhttp&host=ads.x5.ru&path=/api/v3/f29479507adb#Other | viarvpn_free.t.me
+vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@155.212.146.195:443?type=xhttp&security=reality&path=/api/v3/f29479507adb&sni=ads.x5.ru&fp=chrome&pbk=AhQkw1Ydp_ZkXnE7UbIZvwHk9KE_Bf5_TkojYZZUuGs&sid=2da46294d6a521B2#Other | viarvpn_free.t.me
