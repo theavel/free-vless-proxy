@@ -1,17 +1,16 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
+vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@158.160.250.45:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=mDtiIWLFPJoPVrDLOCvKn6lvlS8r0TdRO9MxmmdIDmo&sid=917fd5a45e8840#🇷🇺 Россия | viarvpn_free.t.me
+vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@158.160.250.45:443?encryption=none&type=tcp&security=reality&fp=randomized&sni=ads.x5.ru&pbk=mDtiIWLFPJoPVrDLOCvKn6lvlS8r0TdRO9MxmmdIDmo&sid=917fd5a45e8840#🇷🇺 Россия | viarvpn_free.t.me
+vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@84.201.187.42:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=8zVjmI0JrsjZBlImD8TbPAb_de26b_YKRARmp-T_eH4&sid=6b26829083#🇷🇺 Россия | viarvpn_free.t.me
+vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@84.201.187.42:443?encryption=none&type=tcp&security=reality&fp=randomized&sni=ads.x5.ru&pbk=8zVjmI0JrsjZBlImD8TbPAb_de26b_YKRARmp-T_eH4&sid=6b26829083#🇷🇺 Россия | viarvpn_free.t.me
 vless://bd6acaa8-4579-3d31-9bcb-0dae59f756e9@178.154.243.251:443?type=tcp&security=reality&fp=random&pbk=JkiFzvTq6FFDb44V8ifby6-P7QZo7Z1B5VOrGTgAQEY&sid=a1e1a7&sni=www.google.com#🇷🇺 Россия | viarvpn_free.t.me
+vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@212.192.14.50:61825?mode=gun&type=grpc&security=reality&sni=github.com&fp=chrome&pbk=G8hjZomMXOCmbVboqMiuf2sVvcnihjQ4BdyVo3XewW4&sid=6bcde426&serviceName=newinsight#🇷🇺 Россия | viarvpn_free.t.me
 vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@212.192.14.50:61825?type=grpc&security=reality&pbk=G8hjZomMXOCmbVboqMiuf2sVvcnihjQ4BdyVo3XewW4&sid=6bcde426&sni=github.com&mode=&serviceName=newinsight&authority=#🇷🇺 Россия | viarvpn_free.t.me
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?encryption=none&type=tcp&security=none#🇷🇺 Россия | viarvpn_free.t.me
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?encryption=none&type=tcp&security=none#🇷🇺 Россия | viarvpn_free.t.me
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru3.alexanderoff.ru:4443?&security=false&fp=chrome&type=tcp&headerType=none&host=ru3.alexanderoff.ru&path=%2F#🇷🇺 Россия | viarvpn_free.t.me
+vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru3.alexanderoff.ru:4443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&security=false&path=%2F&host=&sni=&fp=chrome#🇷🇺 Россия | viarvpn_free.t.me
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru3.alexanderoff.ru:4443?type=tcp&headerType=none&security=none&encryption=none#🇷🇺 Россия | viarvpn_free.t.me
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru3.alexanderoff.ru:4443?type=tcp&headerType=none&security=none&encryption=none&fp=chrome&path=%2F&host=ru3.alexanderoff.ru#🇷🇺 Россия | viarvpn_free.t.me
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru3.alexanderoff.ru:4443?type=tcp&security=false&path=%2F&host=ru3.alexanderoff.ru&sni=ru3.alexanderoff.ru&fp=chrome#🇷🇺 Россия | viarvpn_free.t.me
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru7.alexanderoff.ru:4443?security=none&type=tcp#🇷🇺 Россия | viarvpn_free.t.me
-vless://bda109ea-efab-44d2-9fa4-25acecd448a1@185.147.27.36:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=A1KLk_6e6jCWZDDWuuzojzSPxQELc2jqK1hHU3ooG34&security=reality&sid=874db238&sni=vk.com&type=tcp#🇷🇺 Россия | viarvpn_free.t.me
-vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@62.217.179.4:443?mode=auto&path=/api/v3/f29479507adb&security=reality&encryption=none&pbk=AhQkw1Ydp_ZkXnE7UbIZvwHk9KE_Bf5_TkojYZZUuGs&host=ads.x5.ru&fp=chrome&allowinsecure=0&type=xhttp&sni=ads.x5.ru&sid=2da46294d6a521b2#🇩🇪 Германия | viarvpn_free.t.me
-vless://3c3c3969-b06a-43ff-ad1e-11621c542946@78.159.245.248:443?security=reality&encryption=none&echfq=none&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=2b145d99dc39e2cc#🇩🇪 Германия | viarvpn_free.t.me
-vless://3c3c3969-b06a-43ff-ad1e-11621c542946@78.159.245.248:443?security=reality&encryption=none&echfq=none&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=2b145d99dc39e2cc#🇩🇪 Германия | viarvpn_free.t.me
-vless://3c3c3969-b06a-43ff-ad1e-11621c542946@78.159.245.248:443?security=reality&encryption=none&echfq=none&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun9-38.userapi.com&sid=2b145d99dc39e2cc#🇩🇪 Германия | viarvpn_free.t.me
-vless://283fb196-18c7-44b5-b598-dc48e41da5f6@158.160.161.222:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=blsp.astrafic.ru&pbk=27Yic1_fgaubwVzyNTVjsHBkJkqt1jMvV8oC13ZYZTI#🇩🇪 Германия | viarvpn_free.t.me
