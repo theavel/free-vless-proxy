@@ -1,6 +1,6 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://3851720f-103d-41db-b0c7-c426b02fe4df@51.250.108.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#Other | viarvpn_free.t.me
-vless://3851720f-103d-41db-b0c7-c426b02fe4df@51.250.17.80:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#Other | viarvpn_free.t.me
-vless://3851720f-103d-41db-b0c7-c426b02fe4df@84.201.136.5:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#Other | viarvpn_free.t.me
-vless://3851720f-103d-41db-b0c7-c426b02fe4df@84.201.168.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#Other | viarvpn_free.t.me
+vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@l6.l-itx.info:443?fp=chrome&headertype=&host=yandex.by&mode=stream-up&path=%2Fxh&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&security=reality&sid=6ba85179e30d4fc3&sni=yandex.by&type=xhttp#Other | viarvpn_free.t.me
+vless://3d344acb-be0c-4275-8f3d-f4243939c5e4@158.160.229.121:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=EG3q0J7gCoc9d0eHDfXX86OhQT27rQk3flGdiZPXmQ8&security=reality&sni=ya.ru&type=tcp#Other | viarvpn_free.t.me
+vless://8c16605a-0b47-44ab-b076-ff4375530c3e@89.232.177.81:443?encryption=none&type=xhttp&security=reality&host=vk.com&path=%2Fuserapi&mode=auto&extra=null&fp=randomized&sni=yandex.ru&pbk=MjylKUeDvTTEA64GwDXoRroLgE0f5OOkSiyF5u2smmo&sid=43#Other | viarvpn_free.t.me
+vless://210ed1b0-63d0-416a-93f5-591027245e7d@109.120.177.210:14088?encryption=none&security=none&type=tcp#Other | viarvpn_free.t.me
