@@ -1,8 +1,8 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://81bc17b1-f73d-419c-a50b-9e2a4d255dfb@5.188.114.12:8443?type=grpc&security=reality&encryption=none&pbk=kYBv0pzwgjZYoymSlSGPFxgoLgs92uXYUGZfZ2wwnnI&fp=chrome&sni=5post-gate.x5.ru&sid=dc93f297474b860f#🇷🇺 Россия | viarvpn_free.t.me
-vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?type=grpc&security=reality&encryption=none&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&fp=chrome&sni=5post-gate.x5.ru&sid=1fad87#🇷🇺 Россия | viarvpn_free.t.me
-vless://ec2aaf4f-b1aa-4410-4b14-d4b4e9b5daf4@185.242.19.250:443?type=ws&security=tls&encryption=none&host=top2375206569.mwscdn.ru&fp=firefox&sni=mwscdn.ru&alpn=http%2F1.1&path=%2Fdd12aebf-132b-454c-af82-8dde06628c8a%2Fws#🇷🇺 Россия | viarvpn_free.t.me
-vless://96fec558-76d9-40f5-8589-fe01afb6eaf6@64.188.124.119:8443?type=tcp&security=reality&encryption=none&pbk=rOUP7Zp95gDUa3jN1_Yx2aYovSLF5GiJiKfzwHK-jyE&fp=chrome&sni=yandex.ru&flow=xtls-rprx-vision#🇩🇪 Германия | viarvpn_free.t.me
-vless://81bc17b1-f73d-419c-a50b-9e2a4d255dfb@5.188.114.12:7443?type=grpc&security=reality&encryption=none&pbk=ERpf2EHDDsmDMRSSl8FWBUqopf3RkAd_2W7n7qcM5z8&fp=chrome&sni=5post-gate.x5.ru&sid=f0a022c75e76#🇩🇪 Германия | viarvpn_free.t.me
-vless://abb8ca6f-a049-4c6d-9780-70624c476a0d@85.198.85.193:49423?type=grpc&security=reality&encryption=none&pbk=g2iGrP41UeFpnaFa_NtNSV89i4QoYWKXaJwgvgg_31k&fp=chrome&sni=www.sony.com&sid=e6bb2b5c0ab6fd47#🇩🇪 Германия | viarvpn_free.t.me
+vless://81bc17b1-f73d-419c-a50b-9e2a4d255dfb@nebulvpn.bot.nu:6443?type=grpc&security=reality&encryption=none&pbk=G4vvT8e4oYVIZZ6G09Kt3tJtp0qNVex3gXiHz4wmuzc&fp=chrome&sni=5post-gate.x5.ru&sid=a145eec6d5130e#🇷🇺 Россия | viarvpn_free.t.me
+vless://2a7c6438-f02c-48d0-af9d-3a81db277698@51.250.47.192:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=8d3293f0066e129a#🇩🇪 Германия | viarvpn_free.t.me
+vless://2a7c6438-f02c-48d0-af9d-3a81db277698@51.250.47.192:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=dc8109baf0f607ea#🇩🇪 Германия | viarvpn_free.t.me
+vless://e737e2e7-04bc-477f-8211-dc0b1354168f@84.201.179.200:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ads.x5.ru&pbk=AYWvVCObGJ_5TnNMGj4z_UDSDzMJ3IcoRgIBCAeUWFs&flow=xtls-rprx-vision#🇩🇪 Германия | viarvpn_free.t.me
+vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@berocd.herumhas.shop:9443?type=tcp&security=tls&encryption=none&fp=chrome&sni=berocd.herumhas.shop&flow=xtls-rprx-vision#🇩🇪 Германия | viarvpn_free.t.me
+vless://5610a52c-48e0-4e8c-9230-fb302b04d02e@45.142.44.12:2096?fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#🇳🇱 Нидерланды | viarvpn_free.t.me
