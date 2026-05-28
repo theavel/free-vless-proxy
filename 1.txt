@@ -1,9 +1,5 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
 vless://01cf5781-5948-11f1-9a67-dc08fb041e0d@72.56.33.191:443?flow=xtls-rprx-vision&fp=randomized&pbk=2IAFC23dkBm2ZRPTcxSWZ5YkpVxJufIIZn3-aSPRH10&security=reality&sni=ads.x5.ru&spx=%2Fad%2F8611949&type=tcp#🇷🇺 Россия | viarvpn_free.t.me
-vless://bbf07169-8c80-485b-83d5-93b87a882219@45.139.78.77:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=sellflow.org#🇷🇺 Россия | viarvpn_free.t.me
-vless://4323948c-4e39-46e2-a92f-2fe6766866c8@v.qwerz.space:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=Mg0PvVj9PyzfrF50i7YG2SrR7Jk_QHh0FTlNle-tTVY&security=reality&sid=b21d20439e49&sni=yandex.ru&type=tcp#🇩🇪 Германия | viarvpn_free.t.me
-vless://9ebab373-19fe-4535-aa95-4e348ea300f1@212.193.155.32:443?&security=tls&fp=chrome&sni=s28315.cdn.ngenix.net&type=ws&headerType=none&host=s28315.cdn.ngenix.net&path=%2Fws#🇩🇪 Германия | viarvpn_free.t.me
-vless://9ebab373-19fe-4535-aa95-4e348ea300f1@46.235.185.25:443?encryption=none&type=ws&security=tls&path=%2Fws&host=s28315.cdn.ngenix.net&sni=s28315.cdn.ngenix.net#🇩🇪 Германия | viarvpn_free.t.me
-vless://9ebab373-19fe-4535-aa95-4e348ea300f1@46.235.186.50:443/?type=ws&encryption=none&flow=&host=s28315.cdn.ngenix.net&path=/ws&security=tls&sni=s28315.cdn.ngenix.net#🇩🇪 Германия | viarvpn_free.t.me
-vless://9ebab373-19fe-4535-aa95-4e348ea300f1@78.41.110.238:443?encryption=none&type=ws&security=tls&path=/ws&host=s28315.cdn.ngenix.net&sni=s28315.cdn.ngenix.net#🇩🇪 Германия | viarvpn_free.t.me
+vless://9bc46020-c550-439a-86c5-38f64abc1ffd@fishsea.api.dznn.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&security=reality&sid=0a6ba2716a409da6&sni=fishsea.api.dznn.net&type=tcp#🇫🇮 Финляндия | viarvpn_free.t.me
+vless://c8b6167c-615a-53ec-ae23-87054336339e@81.17.159.63:443?type=xhttp&security=reality&fp=chrome&pbk=XDBvi6U6TnvlyuCdsIUtQ_yjrjyTEvr0KLHvuo-pF0Q&sid=cf53a10184e17998&sni=www.kinopoisk.ru&path=/Vu-Nf1cGVrkTt3qJrz#🇩🇰 Дания | viarvpn_free.t.me
