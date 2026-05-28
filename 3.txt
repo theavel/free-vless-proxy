@@ -1,5 +1,7 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://5610a52c-48e0-4e8c-9230-fb302b04d02e@ss.ll0ll.vip:2096?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#🇦🇹 Австрия | viarvpn_free.t.me
-vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@159.194.239.37:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=ads.x5.ru&fp=chrome&pbk=AhQkw1Ydp_ZkXnE7UbIZvwHk9KE_Bf5_TkojYZZUuGs&sid=2da46294d6a521b2&path=/api/v3/f29479507adb&host=ads.x5.ru#Other | viarvpn_free.t.me
-vless://ea484535-0170-4ec8-bb3c-a9dbaa7412d7@31.58.87.71:12443?type=tcp&headerType=none&security=reality&encryption=none&sni=sun6-21.userapi.com&fp=chrome&pbk=D3bNJPmy4YJqhWQ3Xv1Fu3Z1danrTzswShytnkkG9Q4&sid=ca4a1317e03791b3&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
+vless://4f4f9461-5cfa-4746-9f62-2f08dfd05636@51.250.21.112:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=pornhub.com&pbk=YJ9I6GzZ_xT_Rk8We8iR1CwEMbzF4I30i_EH2VOVY0Y&sid=abab34c40ed6c10a#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://5610a52c-48e0-4e8c-9230-fb302b04d02e@ss.ll0ll.vip:2096?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://bdddc783-a4f3-47f7-8850-21416d0a31f1@noble-nest.scan-cdn.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=tradingview.com&fp=chrome&pbk=OTovueIB0arbpOZ02tZLnh0DdIhRzO-AZB5Vf3rXlV4&sid=fba0460a7767cfff&flow=xtls-rprx-vision#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@185.112.59.40:5443?type=tcp&security=reality&encryption=none&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&fp=chrome&sni=max.ru&flow=xtls-rprx-vision#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://bad8b3b7-db29-471a-8048-db44de8ee548@russia3.yaponchik.online:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=kekaU6yiQyrh36KAmac8WcPGqIzcCNcf5aUn4y93oFQ&sid=7308420b7c1b35&sni=metrika.yandex.ru&spx=/#🇳🇱 Нидерланды | viarvpn_free.t.me

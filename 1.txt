@@ -1,5 +1,7 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://01cf5781-5948-11f1-9a67-dc08fb041e0d@72.56.33.191:443?flow=xtls-rprx-vision&fp=randomized&pbk=2IAFC23dkBm2ZRPTcxSWZ5YkpVxJufIIZn3-aSPRH10&security=reality&sni=ads.x5.ru&spx=%2Fad%2F8611949&type=tcp#🇷🇺 Россия | viarvpn_free.t.me
-vless://9bc46020-c550-439a-86c5-38f64abc1ffd@fishsea.api.dznn.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&security=reality&sid=0a6ba2716a409da6&sni=fishsea.api.dznn.net&type=tcp#🇫🇮 Финляндия | viarvpn_free.t.me
-vless://c8b6167c-615a-53ec-ae23-87054336339e@81.17.159.63:443?type=xhttp&security=reality&fp=chrome&pbk=XDBvi6U6TnvlyuCdsIUtQ_yjrjyTEvr0KLHvuo-pF0Q&sid=cf53a10184e17998&sni=www.kinopoisk.ru&path=/Vu-Nf1cGVrkTt3qJrz#🇩🇰 Дания | viarvpn_free.t.me
+vless://96fec558-76d9-40f5-8589-fe01afb6eaf6@84.201.164.3:443?type=tcp&security=reality&encryption=none&pbk=HmRtly8onk8X3HeLdRuqN7q81Qv-7wX-tfCWOUAsFio&fp=chrome&sni=yandex.ru&flow=xtls-rprx-vision#🇷🇺 Россия | viarvpn_free.t.me
+vless://96fec558-76d9-40f5-8589-fe01afb6eaf6@64.188.124.119:8443?type=tcp&security=reality&encryption=none&pbk=rOUP7Zp95gDUa3jN1_Yx2aYovSLF5GiJiKfzwHK-jyE&fp=chrome&sni=yandex.ru&flow=xtls-rprx-vision#🇩🇪 Германия | viarvpn_free.t.me
+vless://790fcfdd-f735-48d9-ae52-5f209a361c21@84.201.156.82:443?type=grpc&security=reality&encryption=none&pbk=QoI8iymZqxZwFFO2x0xh4lhLgq9O2CJUdw9fnCPpT3k&fp=firefox&sni=ads.x5.ru&sid=15affa0af66dfc79&serviceName=x5_bridge&mode=gun#🇩🇪 Германия | viarvpn_free.t.me
+vless://790fcfdd-f735-48d9-ae52-5f209a361c21@84.201.160.213:443?type=grpc&security=reality&encryption=none&pbk=KO2FXxGrvmwiEuQtRbTwXkHofM-26U63QUKOz7nt8WY&fp=firefox&sni=ads.x5.ru&sid=15affa0af66dfc79&serviceName=x5_bridge&mode=gun#🇩🇪 Германия | viarvpn_free.t.me
+vless://17069a79-c31f-4de3-83ea-fe3e03dc499d@yaf3.cyphervpn.pro:443?type=tcp&security=reality&encryption=none&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&fp=firefox&sni=max.ru&sid=8f9d033ad6d2cebf&flow=xtls-rprx-vision#🇩🇪 Германия | viarvpn_free.t.me

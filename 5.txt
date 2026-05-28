@@ -1,5 +1,6 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://Tel%3AArshiacomplus@185.171.202.76:42652?mode=stream-one&path=%2Fskkwkqknsjejejwj&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=omm.kotlet.org&fp=firefox&type=xhttp&allowInsecure=1&sni=www.wikipedia.com#Other | viarvpn_free.t.me
-vless://Tel%3AArshiacomplus@185.171.202.76:42652?mode=stream-one&path=%2Fskkwkqknsjejejwj&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=omm.kotlet.org&fp=firefox&type=xhttp&allowInsecure=1&sni=yahoo.com#Other | viarvpn_free.t.me
-vless://Tel%3AArshiacomplus@185.171.202.76:42652?mode=stream-one&path=/skkwkqknsjejejwj&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=omm.kotlet.org&fp=chrome&type=xhttp&allowInsecure=1&sni=yahoo.com#Other | viarvpn_free.t.me
+vless://5610a52c-48e0-4e8c-9230-fb302b04d02e@83.220.174.163:2096?fp=chrome&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#🇦🇹 Австрия | viarvpn_free.t.me
+vless://4e783787-4de7-51de-ae32-01ce7203b838@185.171.202.76:42652?allowInsecure=1&alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&host=omm.kotlet.org&mode=stream-one&path=%2Fskkwkqknsjejejwj&security=tls&sni=www.wikipedia.com&type=xhttp#🇫🇷 Франция | viarvpn_free.t.me
+vless://4e783787-4de7-51de-ae32-01ce7203b838@185.171.202.76:42652?allowInsecure=1&alpn=h2,http/1.1&encryption=none&fp=chrome&host=omm.kotlet.org&mode=stream-one&path=/skkwkqknsjejejwj&security=tls&sni=yahoo.com&type=xhttp#🇫🇷 Франция | viarvpn_free.t.me
+vless://Tel%3AArshiacomplus@185.171.202.76:42652?mode=stream-one&path=%2Fskkwkqknsjejejwj&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=omm.kotlet.org&fp=firefox&type=xhttp&allowInsecure=1&sni=www.wikipedia.com#🇫🇷 Франция | viarvpn_free.t.me
