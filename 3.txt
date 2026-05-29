@@ -1,8 +1,4 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://0812ce0c-35e1-4063-9fe0-8a27b52b2c79@51.250.103.104:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://0812ce0c-35e1-4063-9fe0-8a27b52b2c79@51.250.104.246:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://0812ce0c-35e1-4063-9fe0-8a27b52b2c79@84.201.168.186:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://0812ce0c-35e1-4063-9fe0-8a27b52b2c79@84.201.168.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://0812ce0c-35e1-4063-9fe0-8a27b52b2c79@158.160.130.173:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://cd5bb6c7-7736-4122-a1f9-a3e4f3dd8b18@158.160.122.237:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=h8BDQnylBOkY67mfYEWv47OtXIo8FOjL5Y1tlozo8D0#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://e737e2e7-04bc-477f-8211-dc0b1354168f@84.201.179.200:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=AYWvVCObGJ_5TnNMGj4z_UDSDzMJ3IcoRgIBCAeUWFs&spx=/#🇩🇪 Германия | viarvpn_free.t.me
+vless://b49aff9a-84f9-4e41-9be4-6113901fc2dc@nl2.nvrsk-not-news.ru:41698?type=tcp&security=reality&fp=firefox&pbk=CGy3XQXti0IWqe5GK93fH5kolq7zafDhFZvkedRFKR8&sid=6d&sni=www.vk.com&spx=/5FdP0Q6vfy56Hbg#🇳🇱 Нидерланды | viarvpn_free.t.me
