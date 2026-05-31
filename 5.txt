@@ -1,3 +1,7 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://a1bb5fa0-3b1e-4fbc-f1b6-686a35796849@195.123.210.147:443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=%2FTG%40wxgqlfx&fp=chrome&alpn=http%2F1.1#Other | viarvpn_free.t.me
+vless://8b8ee388-5321-4d64-baa9-9bda31f9b4a2@158.160.11.124:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=max.ru&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=364994a6f61fc955#🇫🇷 Франция | viarvpn_free.t.me
+vless://8b8ee388-5321-4d64-baa9-9bda31f9b4a2@158.160.11.124:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=max.ru&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=ece180c605b5453c#🇫🇷 Франция | viarvpn_free.t.me
+vless://5a2dd675-410e-4553-a81b-db7cc8b02d59@45.81.252.61:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=CxjnGHCI3HXN2RAXwytela7jXyOGDCBqzMAqTfm60D0&sid=634435e72c72be12&sni=www.yandex.ru&spx=/#🇱🇹 Литва | viarvpn_free.t.me
+vless://248891a9-1ac5-42ad-a68b-2cecef897b0a@kaz1.frost-api.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=max.ru&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7#Other | viarvpn_free.t.me
+vless://5a2dd675-410e-4553-a81b-db7cc8b02d59@149.248.77.127:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=CxjnGHCI3HXN2RAXwytela7jXyOGDCBqzMAqTfm60D0&sid=766ef89e321597e5&sni=www.yandex.ru&spx=/#Other | viarvpn_free.t.me
