@@ -1,12 +1,9 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://4881e886-8467-4c2d-91c6-7aaf4d0b2582@9rh.secured-by-tenzo.sbs:443?encryption=none&type=grpc&mode=gun&security=reality&sni=eh.vk.com&fp=safari&pbk=2C6MqBdf1XxEKmVe_hHfYhov31tM_eEuq_c5ZFMfPAI#🇭🇺 Венгрия | viarvpn_free.t.me
-vless://4881e886-8467-4c2d-91c6-7aaf4d0b2582@217.13.105.43:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=sun6-22.userapi.com&fp=qq&pbk=2C6MqBdf1XxEKmVe_hHfYhov31tM_eEuq_c5ZFMfPAI#🇭🇺 Венгрия | viarvpn_free.t.me
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.16.36.227:8443?encryption=none&type=tcp&security=tls&fp=chrome&sni=cdn7-09.vk-cdnvideo.com#🇭🇺 Венгрия | viarvpn_free.t.me
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.16.36.227:8443?encryption=none&type=tcp&security=tls&sni=cdn7-09.vk-cdnvideo.com#🇭🇺 Венгрия | viarvpn_free.t.me
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.138.158:8443?encryption=none&type=tcp&security=tls&fp=chrome&sni=cdn7-09.vk-cdnvideo.com#🇭🇺 Венгрия | viarvpn_free.t.me
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.138.158:8443?encryption=none&type=tcp&security=tls&sni=cdn7-09.vk-cdnvideo.com#🇭🇺 Венгрия | viarvpn_free.t.me
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@85.208.85.91:8443?encryption=none&type=tcp&security=tls&fp=chrome&sni=cdn7-09.vk-cdnvideo.com#🇭🇺 Венгрия | viarvpn_free.t.me
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@85.208.85.91:8443?encryption=none&type=tcp&security=tls&sni=cdn7-09.vk-cdnvideo.com#🇭🇺 Венгрия | viarvpn_free.t.me
-vless://4881e886-8467-4c2d-91c6-7aaf4d0b2582@11cl.secured-by-tenzo.sbs:143?encryption=none&type=grpc&mode=gun&security=reality&sni=ozone.ru&fp=safari&pbk=Hga-gFm5ITBm2iOQNToOi9IcOhmKQgrtj9pkNc0clAQ&sid=7aaf7ba9&spx=%2F#🇱🇻 Латвия | viarvpn_free.t.me
-vless://4881e886-8467-4c2d-91c6-7aaf4d0b2582@8cl.secured-by-tenzo.sbs:143?encryption=none&type=grpc&mode=gun&security=reality&sni=ozone.ru&fp=random&pbk=Hga-gFm5ITBm2iOQNToOi9IcOhmKQgrtj9pkNc0clAQ&sid=7aaf7ba9&spx=%2F#🇱🇻 Латвия | viarvpn_free.t.me
+vless://d248c9d7-6469-4a17-b269-d64805cfd3ae@31.56.188.25:443?security=reality&type=xhttp&path=/api/v1/be463283&host=vk.com&sni=sberbank.ru&fp=chrome&sid=7d951e7eba51ed0e&pbk=HVhOxkUi3RhGJc-nc5gdM82XRymOnG5L_TOJ4eHL7jY&mode=auto&encryption=none#Other | viarvpn_free.t.me
+vless://d248c9d7-6469-4a17-b269-d64805cfd3ae@srv-3331c0.21freedom.net:443?encryption=none&security=reality&sni=sberbank.ru&fp=chrome&pbk=HVhOxkUi3RhGJc-nc5gdM82XRymOnG5L_TOJ4eHL7jY&sid=7d951e7eba51ed0e&type=xhttp&path=/api/v1/be463283#Other | viarvpn_free.t.me
+vless://d248c9d7-6469-4a17-b269-d64805cfd3ae@srv-3331c0.21freedom.net:443?security=reality&type=xhttp&path=/api/v1/be463283&host=vk.com&sni=sberbank.ru&fp=chrome&sid=7d951e7eba51ed0e&pbk=HVhOxkUi3RhGJc-nc5gdM82XRymOnG5L_TOJ4eHL7jY&mode=auto&encryption=none#Other | viarvpn_free.t.me
+vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@89.208.208.92:9443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=loadtest.dev.urent.ru&pbk=aVu6XB9_RKR1xLtusyQ1_YOWCs4Ofi9GEJd6oERNH2Q&sid=689def22fcb54e86#Other | viarvpn_free.t.me
