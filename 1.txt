@@ -1,9 +1,11 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://2397be53-f62b-42f7-80fe-5d22627c03a9@185.241.194.34:5994?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=surfvpn24.ru&pbk=trrVBG2fDc411qxZQ8__7x6ZlJC4lI2m_mwl-O-BEjQ&sid=c19de8fa#🇷🇺 Россия | viarvpn_free.t.me
+vless://94b7ab50-419a-4eeb-85f1-a49a94160d17@217all.ghost-lan.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=eh.vk.com&fp=chrome&pbk=O98FQZTRYOSk7c0sWes9pLZEX4oIE9lA_cZb6c3AHTU&sid=24a8e8f8b85dad93&flow=xtls-rprx-vision#🇷🇺 Россия | viarvpn_free.t.me
+vless://1f514e3e-54b3-4ec4-82bd-3f2137357604@178.236.240.183:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=pfbJB3DRXflwP8WwE8PqTJCdwn7RcXTgYxwkMH_dA34&security=reality&sid=6f1573f9669b2e16&sni=www.microsoft.com&type=tcp#🇩🇪 Германия | viarvpn_free.t.me
 vless://c286e7ff-3a16-459f-8e17-59de2764cf2e@ovh.furkbalancer.net:2053?encryption=none&flow=xtls-rprx-vision&security=tls&sni=de.chocolatemango.live&type=tcp#🇩🇪 Германия | viarvpn_free.t.me
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?security=reality&sni=yastatic.net&type=tcp&fp=chrome&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&sid=5e841fab#🇫🇮 Финляндия | viarvpn_free.t.me
-vless://ffc46551-cb3f-435c-a97a-b9bab4a1a0d2@63.141.128.237:443?mode=auto&path=%2FeQ7EK5s88mh1QkaLDB4v5psc&security=tls&alpn=h2&encryption=none&insecure=0&host=cd2.serviceali.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=cd2.serviceali.ir#🇫🇮 Финляндия | viarvpn_free.t.me
-vless://ffc46551-cb3f-435c-a97a-b9bab4a1a0d2@63.141.128.237:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=/eQ7EK5s88mh1QkaLDB4v5psc&security=tls&alpn=h2&encryption=none&insecure=0&host=cd2.serviceali.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=cd2.serviceali.ir#🇫🇮 Финляндия | viarvpn_free.t.me
-vless://ffc46551-cb3f-435c-a97a-b9bab4a1a0d2@63.141.128.237:443?type=xhttp&security=tls&path=/eQ7EK5s88mh1QkaLDB4v5psc&sni=cd2.serviceali.ir&fp=chrome#🇫🇮 Финляндия | viarvpn_free.t.me
-vless://ffc46551-cb3f-435c-a97a-b9bab4a1a0d2@63.141.128.237:443?type=xhttp&security=tls&path=/eQ7EK5s88mh1QkaLDB4v5psc&sni=cd2.serviceali.ir&fp=firefox#🇫🇮 Финляндия | viarvpn_free.t.me
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@103.119.18.165:8443?type=tcp&security=reality&pbk=vo6Xrwkla8OBS5O6lEinNvHXxW8DxCmb8HGHD86VzkU&fp=chrome&sni=www.vk.ru&sid=0e&flow=xtls-rprx-vision#🇨🇿 Чехия | viarvpn_free.t.me
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.16.36.227:8443?encryption=none&type=tcp&security=tls&sni=cdn7-09.vk-cdnvideo.com#🇭🇺 Венгрия | viarvpn_free.t.me
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.16.36.227:8443?security=tls&type=tcp&sni=cdn7-09.vk-cdnvideo.com&fp=chrome&encryption=none#🇭🇺 Венгрия | viarvpn_free.t.me
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.138.158:8443?encryption=none&type=tcp&security=tls&sni=cdn7-09.vk-cdnvideo.com#🇭🇺 Венгрия | viarvpn_free.t.me
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.138.158:8443?security=tls&type=tcp&sni=cdn7-09.vk-cdnvideo.com&fp=chrome&encryption=none#🇭🇺 Венгрия | viarvpn_free.t.me
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@85.208.85.91:8443?encryption=none&type=tcp&security=tls&sni=cdn7-09.vk-cdnvideo.com#🇭🇺 Венгрия | viarvpn_free.t.me
