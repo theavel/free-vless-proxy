@@ -1,15 +1,6 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://93496ee0-d9f9-4ece-8fd2-a32c876a9e6c@45.67.215.197:2053?encryption=none&security=tls&sni=aho-7ev.pages.dev&fp=chrome&type=ws&host=aho-7ev.pages.dev&path=%2Fdh%2Fdetails%2Fjump.html#Other | viarvpn_free.t.me
-vless://93496ee0-d9f9-4ece-8fd2-a32c876a9e6c@45.67.215.215:2087?encryption=none&security=tls&sni=aho-7ev.pages.dev&fp=chrome&type=ws&host=aho-7ev.pages.dev&path=%2Fanime%2Ffriends%2Fen#Other | viarvpn_free.t.me
-vless://93496ee0-d9f9-4ece-8fd2-a32c876a9e6c@45.67.215.28:2053?encryption=none&security=tls&sni=aho-7ev.pages.dev&fp=chrome&type=ws&host=aho-7ev.pages.dev&path=%2Fmembers#Other | viarvpn_free.t.me
-vless://93496ee0-d9f9-4ece-8fd2-a32c876a9e6c@45.67.215.44:2087?encryption=none&security=tls&sni=aho-7ev.pages.dev&fp=chrome&type=ws&host=aho-7ev.pages.dev&path=%2Fanime%2Ffriends%2Fen#Other | viarvpn_free.t.me
-vless://93496ee0-d9f9-4ece-8fd2-a32c876a9e6c@63.141.128.204:8443?encryption=none&security=tls&sni=aho-7ev.pages.dev&fp=chrome&type=ws&host=aho-7ev.pages.dev&path=%2Fforum%2Fcontent%2Fcp#Other | viarvpn_free.t.me
-vless://93496ee0-d9f9-4ece-8fd2-a32c876a9e6c@63.141.128.21:2096?encryption=none&security=tls&sni=aho-7ev.pages.dev&fp=chrome&type=ws&host=aho-7ev.pages.dev&path=%2Fteam#Other | viarvpn_free.t.me
-vless://93496ee0-d9f9-4ece-8fd2-a32c876a9e6c@63.141.128.221:2087?encryption=none&security=tls&sni=aho-7ev.pages.dev&fp=chrome&type=ws&host=aho-7ev.pages.dev&path=%2Fupload%2Fpictures#Other | viarvpn_free.t.me
-vless://93496ee0-d9f9-4ece-8fd2-a32c876a9e6c@63.141.128.226:2083?encryption=none&security=tls&sni=aho-7ev.pages.dev&fp=chrome&type=ws&host=aho-7ev.pages.dev&path=%2Fdetails#Other | viarvpn_free.t.me
-vless://93496ee0-d9f9-4ece-8fd2-a32c876a9e6c@63.141.128.236:2096?encryption=none&security=tls&sni=aho-7ev.pages.dev&fp=chrome&type=ws&host=aho-7ev.pages.dev&path=%2Fversion#Other | viarvpn_free.t.me
-vless://93496ee0-d9f9-4ece-8fd2-a32c876a9e6c@63.141.128.253:2087?encryption=none&security=tls&sni=aho-7ev.pages.dev&fp=chrome&type=ws&host=aho-7ev.pages.dev&path=%2Fanime%2Ffriends%2Fen#Other | viarvpn_free.t.me
-vless://9558d281-6fb7-5dec-b9e4-7e7498cec94b@141.193.213.11:443?encryption=none&type=ws&host=unnes.ac.id.cyylr.eu.cc&path=%2Fmy-wbv&security=tls&sni=unnes.ac.id.cyylr.eu.cc#Other | viarvpn_free.t.me
-vless://97f7a022-9519-4f54-b9a9-1e0947f7f6ae@141.193.213.11:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fid-pusat&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#Other | viarvpn_free.t.me
-vless://@141.193.213.11:443?security=tls&type=ws&path=%2Fmy-wbv&host=unnes.ac.id.cyylr.eu.cc&sni=unnes.ac.id.cyylr.eu.cc&fp=chrome&encryption=none#Other | viarvpn_free.t.me
+vless://2d213d87-bd1b-4fa6-ad21-e7ae3379b9af@51.250.106.87:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#Other | viarvpn_free.t.me
+vless://2d213d87-bd1b-4fa6-ad21-e7ae3379b9af@51.250.24.232:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#Other | viarvpn_free.t.me
+vless://2d213d87-bd1b-4fa6-ad21-e7ae3379b9af@51.250.97.18:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#Other | viarvpn_free.t.me
+vless://c2b6a323-19ec-4e4f-a95c-8b0e99aa7660@109.120.138.95:443?security=none&encryption=none&headerType=none&type=tcp#Other | viarvpn_free.t.me
