@@ -1,4 +1,8 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
+vless://c09f00bc-ef4c-441e-8317-17ac954c54ad@185.72.144.168:2096?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇦🇹 Австрия | viarvpn_free.t.me
 vless://c09f00bc-ef4c-441e-8317-17ac954c54ad@185.72.145.127:2096?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇦🇹 Австрия | viarvpn_free.t.me
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.136.163:8443?allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com&fp=chrome&security=tls#🇭🇺 Венгрия | viarvpn_free.t.me
+vless://c09f00bc-ef4c-441e-8317-17ac954c54ad@213.109.202.159:2096?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇦🇹 Австрия | viarvpn_free.t.me
+vless://c09f00bc-ef4c-441e-8317-17ac954c54ad@ss.ll0ll.vip:2096?mode=gun&security=reality&encryption=none&authority=&echfq=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&allowinsecure=0&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#🇦🇹 Австрия | viarvpn_free.t.me
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.156.143:8443?encryption=none&type=tcp&security=tls&sni=cdn7-09.vk-cdnvideo.com#🇭🇺 Венгрия | viarvpn_free.t.me
+vless://347a56c2-a453-4b32-86cd-7522943df88c@45.83.182.102:2087?type=tcp&headerType=none&security=reality&encryption=none&sni=api-maps.yandex.ru&fp=qq&pbk=vZuBWF0YzlKI0fJWxU6hmOLHHQ5Qb1kf35HbZDcFCH4&sid=493c3d4e37c23c28&flow=xtls-rprx-vision#🇪🇪 Эстония | viarvpn_free.t.me

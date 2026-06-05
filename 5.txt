@@ -1,3 +1,5 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://ab268dc7-510f-4fb9-ace4-b7305a59c7bb@78.159.240.174:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=edge&type=grpc&serviceName=/sequre/grpc/&allowInsecure=0&sni=95.85.246.16.speed-storage.ru#Other | viarvpn_free.t.me
+vless://9cab10a8-7936-457f-bf1f-b9842439f494@84.201.170.238:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=wh5.vpnburger.ru&pbk=QmwOXqJikZ9gbYtQiuwEt2SAn1U1KtaHHJa5vXemqFM&sid=3fa234ea9feaa048#Other | viarvpn_free.t.me
+vless://9cab10a8-7936-457f-bf1f-b9842439f494@wh5.vpnburger.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=wh5.vpnburger.ru&fp=chrome&pbk=QmwOXqJikZ9gbYtQiuwEt2SAn1U1KtaHHJa5vXemqFM&sid=3fa234ea9feaa048&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
+vless://ec8f4480-f44e-456b-80b8-ad6ec3e15bfc@45.15.147.103:443?type=tcp&headerType=none&security=reality&encryption=none&sni=account.habr.com&fp=firefox&pbk=g2LPfUD291KVMSN1lhAC1HSmKaAh3hQfnKozJ1enMV4&sid=65fc6512eee9a84a&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
