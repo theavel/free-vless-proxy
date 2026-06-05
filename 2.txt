@@ -1,7 +1,4 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://c09f00bc-ef4c-441e-8317-17ac954c54ad@213.109.202.159:2096?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇦🇹 Австрия | viarvpn_free.t.me
-vless://c09f00bc-ef4c-441e-8317-17ac954c54ad@ss.ll0ll.vip:2096?mode=gun&security=reality&encryption=none&authority=&echfq=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&allowinsecure=0&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#🇦🇹 Австрия | viarvpn_free.t.me
-vless://164eb072-3f10-46f7-be37-d0e89cce879a@51.250.102.69:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#Other | viarvpn_free.t.me
-vless://164eb072-3f10-46f7-be37-d0e89cce879a@51.250.106.87:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#Other | viarvpn_free.t.me
-vless://164eb072-3f10-46f7-be37-d0e89cce879a@51.250.108.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#Other | viarvpn_free.t.me
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@216.24.57.7:443?encryption=none&fp=chrome&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#🇫🇮 Финляндия | viarvpn_free.t.me
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@216.24.57.7:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=1&host=octopusss4.com&type=ws&allowInsecure=1&sni=octopusss4.com#🇫🇮 Финляндия | viarvpn_free.t.me

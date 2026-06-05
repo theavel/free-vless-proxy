@@ -1,3 +1,3 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.250:443?encryption=none&type=xhttp&security=tls&path=/livestreamcontent/&mode=auto&extra=null&sni=top3739667002.mwscdn.ru#Other | viarvpn_free.t.me
+vless://ab268dc7-510f-4fb9-ace4-b7305a59c7bb@78.159.240.174:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=edge&type=grpc&serviceName=/sequre/grpc/&allowInsecure=0&sni=95.85.246.16.speed-storage.ru#Other | viarvpn_free.t.me
