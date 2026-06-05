@@ -1,11 +1,5 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://c09f00bc-ef4c-441e-8317-17ac954c54ad@ss.ll0ll.vip:2096?mode=gun&security=reality&encryption=none&authority=&echfq=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&allowinsecure=0&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://63a16ebb-8687-42ac-972a-5914cafad1d5@46.182.24.62:443?encryption=none&type=grpc&security=none&mode=gun&serviceName=MyHistSssory#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://63a16ebb-8687-42ac-972a-5914cafad1d5@87.228.101.46:443?encryption=none&type=grpc&security=none&mode=gun&serviceName=MyHistSssory#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://63a16ebb-8687-42ac-972a-5914cafad1d5@selicqw1.kotvpn.net:443?type=grpc&headerType=none&security=none&encryption=none&serviceName=MyHistSssory#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://c09f00bc-ef4c-441e-8317-17ac954c54ad@83.136.233.105:2096?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇦🇹 Австрия | viarvpn_free.t.me
-vless://c09f00bc-ef4c-441e-8317-17ac954c54ad@83.136.235.101:2096?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇦🇹 Австрия | viarvpn_free.t.me
-vless://c09f00bc-ef4c-441e-8317-17ac954c54ad@83.220.172.217:2096?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#🇦🇹 Австрия | viarvpn_free.t.me
-vless://c09f00bc-ef4c-441e-8317-17ac954c54ad@83.220.174.163:2096?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇦🇹 Австрия | viarvpn_free.t.me
-vless://63a16ebb-8687-42ac-972a-5914cafad1d5@149.248.50.193:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=xapi.ozon.ru&fp=qq&pbk=MrvLfVT6dYIzZWS2L0I4AAJZsBbcAWYZBsBwsOhN4HU&sid=91da4ef2fa99&flow=xtls-rprx-vision#🇨🇦 Канада | viarvpn_free.t.me
+vless://46b654eb-0229-4c4d-92d6-e5736ba8c4b5@51.250.106.87:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#Other | viarvpn_free.t.me
+vless://46b654eb-0229-4c4d-92d6-e5736ba8c4b5@51.250.108.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#Other | viarvpn_free.t.me
+vless://46b654eb-0229-4c4d-92d6-e5736ba8c4b5@51.250.24.222:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#Other | viarvpn_free.t.me
