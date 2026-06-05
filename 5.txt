@@ -1,5 +1,9 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://9cab10a8-7936-457f-bf1f-b9842439f494@84.201.170.238:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=wh5.vpnburger.ru&pbk=QmwOXqJikZ9gbYtQiuwEt2SAn1U1KtaHHJa5vXemqFM&sid=3fa234ea9feaa048#Other | viarvpn_free.t.me
-vless://9cab10a8-7936-457f-bf1f-b9842439f494@wh5.vpnburger.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=wh5.vpnburger.ru&fp=chrome&pbk=QmwOXqJikZ9gbYtQiuwEt2SAn1U1KtaHHJa5vXemqFM&sid=3fa234ea9feaa048&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
-vless://ec8f4480-f44e-456b-80b8-ad6ec3e15bfc@45.15.147.103:443?type=tcp&headerType=none&security=reality&encryption=none&sni=account.habr.com&fp=firefox&pbk=g2LPfUD291KVMSN1lhAC1HSmKaAh3hQfnKozJ1enMV4&sid=65fc6512eee9a84a&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
+vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.250:443?encryption=none&type=xhttp&security=tls&host=top3739667002.mwscdn.ru&path=/livestreamcontent/&mode=packet-up&extra=null&sni=top3739667002.mwscdn.ru#Other | viarvpn_free.t.me
+vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.250:443?encryption=none&type=xhttp&security=tls&path=/livestreamcontent&extra=null&fp=chrome&sni=top3739667002.mwscdn.ru#Other | viarvpn_free.t.me
+vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.250:443?encryption=none&type=xhttp&security=tls&path=/livestreamcontent&mode=auto&extra=null&sni=top3739667002.mwscdn.ru#Other | viarvpn_free.t.me
+vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.250:443?encryption=none&type=xhttp&security=tls&path=/livestreamcontent/&extra=null&fp=chrome&sni=top3739667002.mwscdn.ru#Other | viarvpn_free.t.me
+vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.250:443?encryption=none&type=xhttp&security=tls&path=/livestreamcontent/&mode=auto&extra=null&sni=top3739667002.mwscdn.ru#Other | viarvpn_free.t.me
+vless://5df9fcb9-89d9-4d99-9032-8bbb466923b5@185.242.19.249:443?encryption=none&type=xhttp&security=tls&path=%2Fxhttppath&mode=auto&extra=null&fp=chrome&sni=top3259365054.mwscdn.ru#Other | viarvpn_free.t.me
+vless://a321980f-54ce-432a-862a-76035b9d78ad@141.193.213.10:443?encryption=none&security=tls&sni=m.udemy.com.r3xxe.eu.cc&type=ws&host=m.udemy.com.r3xxe.eu.cc&path=/nl-tw#Other | viarvpn_free.t.me
