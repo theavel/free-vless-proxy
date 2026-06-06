@@ -1,9 +1,17 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.250:443?encryption=none&type=xhttp&security=tls&host=top3739667002.mwscdn.ru&path=/livestreamcontent/&mode=packet-up&extra=null&sni=top3739667002.mwscdn.ru#Other | viarvpn_free.t.me
-vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.250:443?encryption=none&type=xhttp&security=tls&path=/livestreamcontent&extra=null&fp=chrome&sni=top3739667002.mwscdn.ru#Other | viarvpn_free.t.me
-vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.250:443?encryption=none&type=xhttp&security=tls&path=/livestreamcontent&mode=auto&extra=null&sni=top3739667002.mwscdn.ru#Other | viarvpn_free.t.me
-vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.250:443?encryption=none&type=xhttp&security=tls&path=/livestreamcontent/&extra=null&fp=chrome&sni=top3739667002.mwscdn.ru#Other | viarvpn_free.t.me
-vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.250:443?encryption=none&type=xhttp&security=tls&path=/livestreamcontent/&mode=auto&extra=null&sni=top3739667002.mwscdn.ru#Other | viarvpn_free.t.me
-vless://5df9fcb9-89d9-4d99-9032-8bbb466923b5@185.242.19.249:443?encryption=none&type=xhttp&security=tls&path=%2Fxhttppath&mode=auto&extra=null&fp=chrome&sni=top3259365054.mwscdn.ru#Other | viarvpn_free.t.me
+vless://77df0aa4-468e-4d8a-b423-940ba643f00c@185.242.19.249:443?encryption=none&type=xhttp&security=tls&path=%2Fxhttppath&mode=auto&extra=null&fp=chrome&sni=top3259365054.mwscdn.ru#Other | viarvpn_free.t.me
+vless://77df0aa4-468e-4d8a-b423-940ba643f00c@185.242.19.250:443?encryption=none&type=xhttp&security=tls&path=%2Fxhttppath&mode=auto&extra=null&fp=chrome&sni=top3259365054.mwscdn.ru#Other | viarvpn_free.t.me
+vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@top4182166920.mwscdn.ru:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=top4182166920.mwscdn.ru&fp=chrome&path=%2Fxhttppath&insecure=0#Other | viarvpn_free.t.me
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@184.174.80.50:8880?type=ws&host=vms.lifetime42.workers.dev&path=/?ed=2560#Other | viarvpn_free.t.me
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.63.30:8880?type=ws&host=vms.lifetime36.workers.dev&path=#Other | viarvpn_free.t.me
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.146.50:8880?host=vms.lifetime36.workers.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fyoutube%40ZYFXS%F0%9F%87%A8%F0%9F%87%B3&type=ws#Other | viarvpn_free.t.me
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.50:8880?type=ws&host=vms.lifetime51.workers.dev&path=/?ed=2560#Other | viarvpn_free.t.me
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@63.141.128.30:8880?security=none&type=ws&path=/&host=vms.lifetime42.workers.dev#Other | viarvpn_free.t.me
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.75.199.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime59.workers.dev&path=%2F#Other | viarvpn_free.t.me
 vless://a321980f-54ce-432a-862a-76035b9d78ad@141.193.213.10:443?encryption=none&security=tls&sni=m.udemy.com.r3xxe.eu.cc&type=ws&host=m.udemy.com.r3xxe.eu.cc&path=/nl-tw#Other | viarvpn_free.t.me
+vless://c466ef48-fb57-40c6-808d-ee48d537844d@216.24.57.6:8443?encryption=none&security=tls&sni=joinus.telegramkakoolnews.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=joinus.telegramkakoolnews.workers.dev&path=/#Other | viarvpn_free.t.me
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.146.50:8880?type=ws&host=vms.lifetime36.workers.dev&path=/?ed=2560#Other | viarvpn_free.t.me
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@184.174.80.50:8880?host=vms.lifetime42.workers.dev&path=/%3Fed%3D2560%26https%3A//t.me/youtube%40ZYFXS%F0%9F%87%A8%F0%9F%87%B3&type=ws#Other | viarvpn_free.t.me
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.epicgames.com:2095?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=ws&path=/&host=cnmfangbinxing.cnmfangbinxing-q.workers.dev&fp=randomized#Other | viarvpn_free.t.me
+vless://af475b0e-0c07-40fe-b4db-3dea2c0a481d@91.193.58.17:2083?security=tls&type=ws&host=edgetunnel-cmliu.lyqnihao.dpdns.org&fp=chrome&sni=edgetunnel-cmliu.lyqnihao.dpdns.org&path=%2F&encryption=none&insecure=1&allowInsecure=1#Other | viarvpn_free.t.me
