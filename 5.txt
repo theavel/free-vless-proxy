@@ -1,9 +1,8 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://882e17c8-b013-4e99-9774-36e26e5001ff@185.242.19.250:443?encryption=none&type=xhttp&security=tls&path=/livestreamcontent/&extra=null&fp=chrome&sni=top3739667002.mwscdn.ru#Other | viarvpn_free.t.me
-vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.249:443?path=%2Flivestreamcontent%2F&security=tls&encryption=none&insecure=0&host=top707762634.mwscdn.ru&fp=chrome&type=ws&allowInsecure=0&sni=top707762634.mwscdn.ru#Other | viarvpn_free.t.me
-vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.250:443?encryption=none&type=xhttp&security=tls&host=top3739667002.mwscdn.ru&path=/livestreamcontent/&mode=packet-up&extra=null&fp=chrome&sni=top3739667002.mwscdn.ru#Other | viarvpn_free.t.me
-vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.250:443?encryption=none&type=xhttp&security=tls&path=/livestreamcontent&mode=auto&extra=null&sni=top3739667002.mwscdn.ru#Other | viarvpn_free.t.me
-vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.250:443?encryption=none&type=xhttp&security=tls&path=/livestreamcontent/&mode=auto&extra=null&sni=top3739667002.mwscdn.ru#Other | viarvpn_free.t.me
-vless://18c93e62-bf19-4bcd-a317-e93b08d18747@185.242.19.249:443?encryption=none&type=xhttp&security=tls&path=%2Fxhttppath&mode=auto&extra=null&fp=chrome&sni=top3259365054.mwscdn.ru#Other | viarvpn_free.t.me
-vless://a321980f-54ce-432a-862a-76035b9d78ad@141.193.213.10:443?path=/nl-tw&security=tls&encryption=none&insecure=0&host=m.udemy.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=m.udemy.com.r3xxe.eu.cc#Other | viarvpn_free.t.me
+vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.250:443?encryption=none&type=xhttp&security=tls&host=top3739667002.mwscdn.ru&path=/livestreamcontent/&mode=packet-up&extra=null&sni=top3739667002.mwscdn.ru#Other | viarvpn_free.t.me
+vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.250:443?encryption=none&type=xhttp&security=tls&path=/livestreamcontent/&extra=null&fp=chrome&sni=top3739667002.mwscdn.ru#Other | viarvpn_free.t.me
+vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.250:443?type=xhttp&security=tls&sni=top3739667002.mwscdn.ru&path=/livestreamcontent/&mode=packet-up#Other | viarvpn_free.t.me
+vless://5fed20ff-30e2-4ad9-a8e5-5b6884d16caa@185.242.19.249:443?encryption=none&type=xhttp&security=tls&path=%2Fxhttppath&mode=auto&extra=null&fp=chrome&sni=top3259365054.mwscdn.ru#Other | viarvpn_free.t.me
+vless://9f87b70e-8ff7-44e4-bb72-bb8d3798ec5b@185.242.19.249:443?encryption=none&type=xhttp&security=tls&path=%2Fxhttppath&mode=auto&extra=null&fp=chrome&sni=top3259365054.mwscdn.ru#Other | viarvpn_free.t.me
+vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@top4182166920.mwscdn.ru:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=top4182166920.mwscdn.ru&fp=chrome&path=%2Fxhttppath&insecure=0#Other | viarvpn_free.t.me
