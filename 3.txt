@@ -1,22 +1,18 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://ffaa8e95-74e2-4ef4-8974-69dd3651b6f9@78.17.134.254:47200?flow=xtls-rprx-vision&fp=chrome&pbk=aom9XGtg9tre2RGo8XkCaRqlE02nrZ4smmnpLpzidRE&security=reality&sid=b2a9bd658fc81dc6&sni=stats.vk-portal.net&type=tcp#🇫🇮 Финляндия | viarvpn_free.t.me
-vless://ffaa8e95-74e2-4ef4-8974-69dd3651b6f9@78.17.134.254:47200?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=stats.vk-portal.net&fp=firefox&pbk=aom9XGtg9tre2RGo8XkCaRqlE02nrZ4smmnpLpzidRE&sid=b2a9bd658fc81dc6#🇫🇮 Финляндия | viarvpn_free.t.me
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@216.24.57.7:443?encryption=none&fp=chrome&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#🇫🇮 Финляндия | viarvpn_free.t.me
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@216.24.57.7:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=1&host=octopusss4.com&type=ws&allowInsecure=1&sni=octopusss4.com#🇫🇮 Финляндия | viarvpn_free.t.me
-vless://41da9cd0-b02c-427a-b74e-7e402c610ae4@pl.riotvpn.eu:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#🇵🇱 Польша | viarvpn_free.t.me
-vless://b42e34e3-d95c-4f9e-9e8c-e327e2323b6c@pl.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=2f49bccf11150ef2#🇵🇱 Польша | viarvpn_free.t.me
-vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@bypass.ch-gt-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02&flow=xtls-rprx-vision#🇨🇭 Швейцария | viarvpn_free.t.me
-vless://10484bee-8516-400a-9b1e-efb5144ad324@45.67.139.54:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ya.ru&fp=qq&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&type=tcp&headerType=none#🇫🇷 Франция | viarvpn_free.t.me
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@155.212.165.172:443?encryption=none&type=xhttp&security=tls&path=%2Fvk&extra=null&fp=chrome&sni=ru-vk-3.1001notes.ru#🇫🇷 Франция | viarvpn_free.t.me
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@155.212.165.172:443?encryption=none&type=xhttp&security=tls&path=/vk&mode=packet-up&extra=null&fp=chrome&sni=ru-vk-3.1001notes.ru#🇫🇷 Франция | viarvpn_free.t.me
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@80.87.200.175:443?encryption=none&type=grpc&security=tls&mode=gun&serviceName=vk&fp=chrome&sni=ru-vk-2.1001notes.ru#🇫🇷 Франция | viarvpn_free.t.me
 vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@80.87.200.175:443?encryption=none&type=grpc&security=tls&mode=multi&serviceName=vk&fp=chrome&sni=ru-vk-2.1001notes.ru#🇫🇷 Франция | viarvpn_free.t.me
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@80.87.200.175:443?encryption=none&type=grpc&serviceName=vk&security=tls&sni=ru-vk-2.1001notes.ru#🇫🇷 Франция | viarvpn_free.t.me
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-2.1001notes.ru:443?type=grpc&headerType=none&security=tls&encryption=none&sni=ru-vk-2.1001notes.ru&fp=chrome&serviceName=vk&insecure=0#🇫🇷 Франция | viarvpn_free.t.me
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-2.1001notes.ru:443?type=grpc&security=tls&fp=chrome&sni=ru-vk-2.1001notes.ru&mode=multi&serviceName=vk#🇫🇷 Франция | viarvpn_free.t.me
 vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-3.1001notes.ru:443?type=xhttp&security=tls&fp=chrome&sni=ru-vk-3.1001notes.ru&path=/vk&mode=packet-up#🇫🇷 Франция | viarvpn_free.t.me
 vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-5.1001notes.ru:443?type=xhttp&security=tls&fp=chrome&sni=ru-vk-5.1001notes.ru&path=/vk&mode=packet-up#🇫🇷 Франция | viarvpn_free.t.me
 vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-5.1001notes.ru:443?type=xhttp&security=tls&path=%2Fvk&sni=ru-vk-5.1001notes.ru&fp=chrome#🇫🇷 Франция | viarvpn_free.t.me
 vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@es-xh-01.hpdata.click:443?type=xhttp&security=tls&fp=chrome&sni=es-xh-01.hpdata.click&path=/vk#🇪🇸 Испания | viarvpn_free.t.me
 vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@es-xh-01.hpdata.click:443?type=xhttp&security=tls&fp=chrome&sni=es-xh-01.hpdata.click&path=/vk&mode=packet-up#🇪🇸 Испания | viarvpn_free.t.me
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.136.163:8443?encryption=none&type=tcp&security=tls&sni=cdn7-09.vk-cdnvideo.com#🇭🇺 Венгрия | viarvpn_free.t.me
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.136.163:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#🇭🇺 Венгрия | viarvpn_free.t.me
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.157.230:8443?encryption=none&type=tcp&security=tls&sni=cdn7-09.vk-cdnvideo.com#🇭🇺 Венгрия | viarvpn_free.t.me
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.159.141:8443?encryption=none&type=tcp&security=tls&fp=chrome&sni=cdn7-09.vk-cdnvideo.com#🇭🇺 Венгрия | viarvpn_free.t.me
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.159.156:8443?encryption=none&type=tcp&security=tls&sni=cdn7-09.vk-cdnvideo.com#🇭🇺 Венгрия | viarvpn_free.t.me
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@89.232.177.114:8443?encryption=none&type=tcp&security=tls&fp=chrome&sni=cdn7-09.vk-cdnvideo.com#🇭🇺 Венгрия | viarvpn_free.t.me
+vless://91427003-38cb-473e-95f2-a4b500c91f7b@51.250.43.93:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ads.x5.ru&fp=chrome&pbk=MXpxhnU1ctGMXbGGjIrtDfjRX-BbbpsjnS4-SUv3OFs&flow=xtls-rprx-vision#🇪🇪 Эстония | viarvpn_free.t.me
+vless://7b7619ef-3015-45e4-a1c0-5672f81b864c@158.160.252.95:443?type=tcp&security=reality&sni=ya.ru&fp=qq&flow=xtls-rprx-vision&pbk=G6ekEx_2qJMHo-DzjF7ww8UPbPiVSd8A6LY5yn-i3XU&sid=83915e401341#🇪🇪 Эстония | viarvpn_free.t.me
+vless://28cee14e-a124-4c9f-88e2-fcb6c1304ea3@31.76.50.109:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=Ueqd3mFmtmBODNPEA2zOnS1L3FrcS0bLweBZQW5xmmw&sid=6069ba5ecbf75abb&sni=a.wb.ru#Other | viarvpn_free.t.me
+vless://30bbbfc5-6a24-4348-8f3b-d44331b6aab8@uk.riotvpn.eu:443?encryption=none&type=tcp&security=reality&headerType=none&sni=ads.x5.ru&fp=chrome&allowInsecure=1&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
