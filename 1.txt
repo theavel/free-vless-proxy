@@ -1,13 +1,10 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@151.101.69.223:443?allowInsecure=1&encryption=none&host=apiv2.global.ssl.fastly.net&insecure=1&path=%2F&security=tls&sni=eh.vk.com&type=ws#🇩🇪 Германия | viarvpn_free.t.me
-vless://e9b19ef4-9634-455e-9b3c-4624e4b06cc0@176.109.85.114:5555?type=tcp&headerType=none&security=reality&encryption=none&sni=max.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇩🇪 Германия | viarvpn_free.t.me
-vless://e9b19ef4-9634-455e-9b3c-4624e4b06cc0@176.109.85.115:5555?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=max.ru&type=tcp#🇩🇪 Германия | viarvpn_free.t.me
-vless://b84bd2ec-6a5d-4fbb-89af-31cc8ef458d7@78.159.245.45:25565?security=reality&encryption=none&pbk=Pw1EUU1hud5uvtfySGyGy5vV38bYIiQzDx-cDQoAdk0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=img.perekrestok.ru&sid=a5bd715847213387#🇩🇪 Германия | viarvpn_free.t.me
-vless://1fa43951-0c8e-4fbc-b350-2b11f67efb57@osre3.jykvpn.com:2048?path=%2F&security=none&encryption=none&host=ads.x5.ru&type=ws#🇩🇪 Германия | viarvpn_free.t.me
-vless://1fa43951-0c8e-4fbc-b350-2b11f67efb57@osre3.jykvpn.com:2048?type=ws&path=%2F&host=ads.x5.ru&sni=osre3.jykvpn.com#🇩🇪 Германия | viarvpn_free.t.me
-vless://1fa43951-0c8e-4fbc-b350-2b11f67efb57@osre3.jykvpn.com:2048?type=ws&security=none&fp=chrome&path=%2F&host=ads.x5.ru#🇩🇪 Германия | viarvpn_free.t.me
-vless://1fa43951-0c8e-4fbc-b350-2b11f67efb57@osre3.jykvpn.com:2048?type=ws&security=none&fp=chrome&sni=osre3.jykvpn.com&path=/&host=ads.x5.ru#🇩🇪 Германия | viarvpn_free.t.me
-vless://1fa43951-0c8e-4fbc-b350-2b11f67efb57@osre3.jykvpn.com:8443?mode=auto&path=/&security=none&encryption=none&host=ads.x5.ru&type=xhttp#🇩🇪 Германия | viarvpn_free.t.me
-vless://84b504e4-a97f-40ab-93c3-a03a5f0ff36c@auto.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=2f49bccf11150ef2#🇩🇪 Германия | viarvpn_free.t.me
+vless://75e3f61c-9ade-41b8-840f-39d41d8208c6@88.210.62.3:443?flow=xtls-rprx-vision&fp=firefox&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&security=reality&sid=0a6ba2716a409da6&sni=sun6-21.userapi.com&type=tcp#🇩🇪 Германия | viarvpn_free.t.me
+vless://b84bd2ec-6a5d-4fbb-89af-31cc8ef458d7@78.159.245.43:25567?flow=xtls-rprx-vision&fp=firefox&pbk=tsxzBG6xHNl1Nu8XPpd3hWk_zPGrpFrv2Z-difc3nGY&security=reality&sid=a5bd715847213387&sni=iv.kommersant.ru&type=tcp#🇩🇪 Германия | viarvpn_free.t.me
+vless://3bf526cd-2764-436e-bee8-f2082dc993f9@de.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=2f49bccf11150ef2#🇩🇪 Германия | viarvpn_free.t.me
+vless://3bf526cd-2764-436e-bee8-f2082dc993f9@de.riotvpn.eu:8443?mode=multi&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=qq&type=grpc&serviceName=grpc-yandex&sni=ads.x5.ru&sid=e67fb918ed6b9ffb#🇩🇪 Германия | viarvpn_free.t.me
+vless://3bf526cd-2764-436e-bee8-f2082dc993f9@de.riotvpn.eu:8443?type=grpc&security=reality&fp=qq&sni=ads.x5.ru&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=e67fb918ed6b9ffb&serviceName=grpc-yandex#🇩🇪 Германия | viarvpn_free.t.me
 vless://627c3a7a-29a7-41d1-9d9e-9f809b690988@45.67.215.176:443?encryption=none&security=tls&sni=sub.rfiksma.top&fp=chrome&type=ws&host=mos.rfiksma.top&path=%2F#🇩🇪 Германия | viarvpn_free.t.me
+vless://ac006062-f051-43c6-bd4c-f409285c8635@192.200.160.120:443?encryption=none&type=xhttp&mode=auto&host=www.yallda.com&path=/v2raylink&security=tls&fp=chrome&sni=shop.yallda.com&alpn=http/1.1,h2#🇩🇪 Германия | viarvpn_free.t.me
+vless://b0ce99fa-9ecc-4ebf-8400-8c1e21f5f1f3@178.250.242.211:8443?flow=xtls-rprx-vision&fp=firefox&pbk=BuLef93Fau0_y1NOcQvChIqPQ2HQ23wMEMGNkgx9JRs&security=reality&sid=4fd3840415403f31&sni=voicechat.core-multiplayer.com&type=tcp#🇩🇪 Германия | viarvpn_free.t.me
