@@ -1,6 +1,8 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://bbdfeddd-9574-453a-bf0d-258616166b0f@51.250.17.80:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#Other | viarvpn_free.t.me
-vless://bbdfeddd-9574-453a-bf0d-258616166b0f@51.250.97.18:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#Other | viarvpn_free.t.me
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@154.21.95.59:443?type=ws&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr&path=/&host=t1s1.rittbo.kdns.fr#Other | viarvpn_free.t.me
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@154.21.95.59:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&insecure=1&allowInsecure=1&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#Other | viarvpn_free.t.me
+vless://39c61035-36aa-4892-8cf8-b6f3ffc0b145@uk-gthost-01.com:8443?flow=xtls-rprx-vision&fp=chrome&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=c20b1035d72d7793&sni=rbc.ru&type=tcp#Other | viarvpn_free.t.me
+vless://bbaaff1e-c914-4817-9d33-58be35a3bee6@186.246.19.177:10444?flow=xtls-rprx-vision&fp=firefox&pbk=praGYag8YPbz_rcd_Pa6Fqsi_IiQtO3e1AosYBcu6h4&security=reality&sid=378086fbdb7c61cd&sni=api-maps.yandex.ru&type=tcp#Other | viarvpn_free.t.me
+vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@185.242.19.250:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=xhttp&security=tls&sni=top4182166920.mwscdn.ru&path=/xhttppath&mode=auto#Other | viarvpn_free.t.me
+vless://ff19693c-11f3-4df9-8713-79a85a5ca090@193.39.168.61:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ai.sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
+vless://ff19693c-11f3-4df9-8713-79a85a5ca090@5.42.99.162:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ai.sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
+vless://f70735cf-08e5-44a8-a3e5-e219c7d93601@193.33.133.189:2443?type=tcp&headerType=none&security=reality&encryption=none&sni=fi1.foxnezia.dev&fp=firefox&pbk=Ga_FpKnw8ZXngh86KkciKc7SrKNljVat1_8fkyVWbjY&sid=4fd3840415403f31&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
