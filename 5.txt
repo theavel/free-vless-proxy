@@ -1,5 +1,3 @@
-# profile-title: V I A R • VPN | Free
-# profile-update-interval: 1
 vless://c6ddf2a7-5c95-46ce-afcf-f7f5ff05f464@94.125.103.220:8443?fp=firefox&mode=gun&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&security=reality&serviceName=grpc-yandex&sid=e67fb918ed6b9ffb&sni=avatars.mds.yandex.net&type=grpc#🇧🇬 Болгария | viarvpn_free.t.me
 vless://164592e8-5168-4319-8377-6b832f3125d1@94.183.170.16:44333?flow=xtls-rprx-vision&fp=firefox&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&security=reality&sid=63a9b4c563de9906&sni=yandex.ru&type=tcp#🇪🇪 Эстония | viarvpn_free.t.me
 vless://164592e8-5168-4319-8377-6b832f3125d1@94.183.170.16:55443?fp=firefox&mode=auto&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&security=reality&sid=63a9b4c563de9906&sni=yandex.ru&type=xhttp#🇪🇪 Эстония | viarvpn_free.t.me
