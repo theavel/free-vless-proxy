@@ -1,6 +1,6 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://3c533416-8852-4f1a-befa-23289b2f32d1@37.220.163.233:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s86255.cdn.ngenix.net&fp=chrome&sni=s86255.cdn.ngenix.net&alpn=http%2F1.1#Other | viarvpn_free.t.me
-vless://7d4e24ec-9941-40b4-94f4-f127ed542629@109.120.177.229:443?path=/?ed=2560&security=tls&encryption=none&insecure=1&host=damp-moon-8a5cjn.gicoh49569.workers.dev&type=ws&allowInsecure=1&sni=damp-moon-8a5cjn.gicoh49569.workers.dev#Other | viarvpn_free.t.me
-vless://633b864f-f733-468c-82a2-a4eb3f2beba3@104.165.205.102:8080?type=xhttp&headerType=none&security=reality&encryption=none&sni=ozon.ru&fp=chrome&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&sid=6d6f13013d3e1d0c&path=%2F#Other | viarvpn_free.t.me
-vless://633b864f-f733-468c-82a2-a4eb3f2beba3@104.165.205.104:8080?type=xhttp&headerType=none&security=reality&encryption=none&sni=ozon.ru&fp=chrome&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&sid=6d6f13013d3e1d0c&path=%2F#Other | viarvpn_free.t.me
+vless://4a3d2cbe-72f6-43de-a5c8-ad07f8abe494@51.250.24.222:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#Other | viarvpn_free.t.me
+vless://3c533416-8852-4f1a-befa-23289b2f32d1@212.193.152.65:443?type=ws&security=tls&fp=chrome&sni=s86255.cdn.ngenix.net&path=/v1/data/sync/&host=s86255.cdn.ngenix.net#Other | viarvpn_free.t.me
+vless://3c533416-8852-4f1a-befa-23289b2f32d1@212.193.153.170:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s86255.cdn.ngenix.net&fp=chrome&sni=s86255.cdn.ngenix.net&alpn=http%2F1.1#Other | viarvpn_free.t.me
+vless://3c533416-8852-4f1a-befa-23289b2f32d1@37.220.163.248:443?type=ws&security=tls&fp=chrome&sni=s86255.cdn.ngenix.net&path=/v1/data/sync/&host=s86255.cdn.ngenix.net#Other | viarvpn_free.t.me
