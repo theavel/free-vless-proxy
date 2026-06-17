@@ -1,6 +1,11 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://4a3d2cbe-72f6-43de-a5c8-ad07f8abe494@51.250.24.222:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#Other | viarvpn_free.t.me
-vless://3c533416-8852-4f1a-befa-23289b2f32d1@212.193.152.65:443?type=ws&security=tls&fp=chrome&sni=s86255.cdn.ngenix.net&path=/v1/data/sync/&host=s86255.cdn.ngenix.net#Other | viarvpn_free.t.me
-vless://3c533416-8852-4f1a-befa-23289b2f32d1@212.193.153.170:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s86255.cdn.ngenix.net&fp=chrome&sni=s86255.cdn.ngenix.net&alpn=http%2F1.1#Other | viarvpn_free.t.me
+vless://c9095b3c-44f9-43d5-a28e-5d62bcc135ce@51.250.106.87:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#Other | viarvpn_free.t.me
+vless://c9095b3c-44f9-43d5-a28e-5d62bcc135ce@51.250.108.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#Other | viarvpn_free.t.me
+vless://c9095b3c-44f9-43d5-a28e-5d62bcc135ce@51.250.24.222:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#Other | viarvpn_free.t.me
+vless://c9095b3c-44f9-43d5-a28e-5d62bcc135ce@51.250.97.18:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#Other | viarvpn_free.t.me
+vless://8ccf89d2-1168-45f6-82d5-5927738e8ebe@m2e4f3b-m9r8vv.95.yndx-cdn.com:40443?type=tcp&headerType=none&security=reality&encryption=none&sni=api-maps.yandex.ru&fp=qq&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&spx=%2F&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
+vless://3c533416-8852-4f1a-befa-23289b2f32d1@37.220.163.248:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s86255.cdn.ngenix.net&fp=chrome&sni=s86255.cdn.ngenix.net&alpn=http%2F1.1#Other | viarvpn_free.t.me
+vless://8413e3ed-70ce-482d-893b-6d7d9436bb01@85.155.98.57:8443?flow=xtls-rprx-vision&fp=firefox&pbk=UOsSEa4RGo2S9ZcUemY2MhChsalWv4Yugw7uik9z3RE&security=reality&sid=f98b&sni=yahoo.com&spx=/ong3ddU3j8j6ho6&type=tcp#Other | viarvpn_free.t.me
+vless://8413e3ed-70ce-482d-893b-6d7d9436bb01@85.155.98.90:443?flow=xtls-rprx-vision&fp=firefox&pbk=EjRaNzw5V0sIJPQelauhVJPc1nwJ-w11dqLgVsSwdR4&security=reality&sid=277393&sni=yahoo.com&spx=/mCkeAGXzuqs2q22&type=tcp#Other | viarvpn_free.t.me
 vless://3c533416-8852-4f1a-befa-23289b2f32d1@37.220.163.248:443?type=ws&security=tls&fp=chrome&sni=s86255.cdn.ngenix.net&path=/v1/data/sync/&host=s86255.cdn.ngenix.net#Other | viarvpn_free.t.me
