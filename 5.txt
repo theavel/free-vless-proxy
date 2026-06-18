@@ -1,7 +1,6 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://6fb6d8c7-6a43-41a9-9c94-755c0ebf6e56@65.109.210.149:2026?security=reality&encryption=none&pbk=yt2kyF7DABbLCwB49Hd3VuNu7-QN57GiLoeiD5vVg30&headerType=&fp=random&spx=%2F78NzPEqg0dKb6EM&type=tcp&flow=xtls-rprx-vision&sni=www.oracle.com&sid=c576f7ccd9019b#🇫🇮 Финляндия | viarvpn_free.t.me
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@155.212.182.19:443?fp=firefox&nonce=iLaZ8xoJ&pbk=A7g4cVaB6_5cmIrGbv-PmkVpS4pvHWp2HfLZbjv-SDQ&security=reality&sid=5e841fab&sni=wildberries.ru&type=tcp#🇵🇱 Польша | viarvpn_free.t.me
-vless://8f0f92fd-e087-4d5f-bb1b-ca350175d197@176.65.144.22:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ReFC6hXXcJyyZGIhqjvjdYHv6xTBG-6uNM-wf63dykI&security=reality&sid=40ce08cf20c67003&sni=vk.com&type=tcp#🇨🇭 Швейцария | viarvpn_free.t.me
-vless://8f0f92fd-e087-4d5f-bb1b-ca350175d197@176.65.144.22:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=vk.com&fp=firefox&pbk=ReFC6hXXcJyyZGIhqjvjdYHv6xTBG-6uNM-wf63dykI&sid=40ce08cf20c67003&flow=xtls-rprx-vision#🇨🇭 Швейцария | viarvpn_free.t.me
-vless://493de030-d144-435e-b20c-60218904a2f8@51.250.24.222:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#Other | viarvpn_free.t.me
+vless://551b9e18-4327-462d-aa03-f730b4e3bb0a@185.241.195.217:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&sid=be0191cc#Other | viarvpn_free.t.me
+vless://449a4ff7-9eb7-41c1-9a1f-64579a609663@87.239.135.8:443?type=tcp&headerType=none&security=reality&encryption=none&sni=md-kiv-2.blook.network&fp=firefox&pbk=SqYAVrG01Mk0KXzlkmckO6lxvv6iZBJJvxE6PvD2vD0&sid=3c2f8f52&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
+vless://3c533416-8852-4f1a-befa-23289b2f32d1@212.193.153.170:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s86255.cdn.ngenix.net&fp=chrome&sni=s86255.cdn.ngenix.net&alpn=http%2F1.1#Other | viarvpn_free.t.me
+vless://3c533416-8852-4f1a-befa-23289b2f32d1@212.193.152.65:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s86255.cdn.ngenix.net&fp=chrome&sni=s86255.cdn.ngenix.net#Other | viarvpn_free.t.me

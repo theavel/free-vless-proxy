@@ -1,7 +1,6 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://bfd6c195-e37e-40ed-b962-c3ea4ac0f5df@37.139.34.63:23356?encryption=none&type=grpc&security=reality&mode=gun&serviceName=api&fp=edge&sni=apple.com&pbk=KtHJA0ZiW3VEPTjGQOlT3NlXZWlqAPHKHqki_IGX3Wk&sid=483d116ad48a4091#🇷🇺 Россия | viarvpn_free.t.me
-vless://bfd6c195-e37e-40ed-b962-c3ea4ac0f5df@37.139.34.63:23356?encryption=none&type=grpc&security=reality&mode=gun&serviceName=api&fp=firefox&sni=apple.com&pbk=KtHJA0ZiW3VEPTjGQOlT3NlXZWlqAPHKHqki_IGX3Wk&sid=483d116ad48a4091#🇷🇺 Россия | viarvpn_free.t.me
-vless://bfd6c195-e37e-40ed-b962-c3ea4ac0f5df@nl.mail-appstatus.net:23356?encryption=none&fp=chrome&pbk=KtHJA0ZiW3VEPTjGQOlT3NlXZWlqAPHKHqki_IGX3Wk&security=reality&serviceName=api&sid=483d116ad48a4091&sni=apple.com&type=grpc#🇷🇺 Россия | viarvpn_free.t.me
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@157.22.241.100:443?encryption=none&type=xhttp&security=reality&path=/xh&extra=null&fp=firefox&sni=yandex.by&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA#🇷🇺 Россия | viarvpn_free.t.me
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@157.22.241.100:443?fp=firefox&host=yandex.by&mode=stream-up&path=%2Fxh&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&security=reality&sni=yandex.by&type=xhttp#🇷🇺 Россия | viarvpn_free.t.me
+vless://ca428a2e-7f82-4030-851b-cab731a5645a@l12.l-itx.info:443?fp=firefox&host=yandex.by&mode=stream-up&path=%2Fxh&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&security=reality&sni=yandex.by&type=xhttp#🇷🇺 Россия | viarvpn_free.t.me
+vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@157.22.241.100:2053?encryption=none&type=ws&security=tls&path=%2Fws&host=itx-server.digital&fp=firefox&sni=554dad6ab34f7baf.itx-server.digital#🇷🇺 Россия | viarvpn_free.t.me
+vless://36562b99-aadd-4e38-b566-24e0d219b1d6@135.106.158.72:443?encryption=none&security=reality&sni=okko.tv&fp=firefox&pbk=tFKuLI3W0VZ7IxAL6hFQhD7DWmxAl0_NCjLya_I64zQ&sid=cafe12345678babe&type=xhttp&path=%2Fberketgo&mode=auto#🇩🇪 Германия | viarvpn_free.t.me
+vless://JetVPN_979711@146.19.254.109:443?mode=gun&security=reality&encryption=none&pbk=WIeO8R9We0X2lv0M3-E_yOkXyUBayIRKIBDUMDVu6BE&fp=firefox&spx=%2F&type=grpc&sni=ya.ru&sid=ffffffffff#🇳🇱 Нидерланды | viarvpn_free.t.me
