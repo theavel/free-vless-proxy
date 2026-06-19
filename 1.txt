@@ -1,4 +1,5 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?flow=xtls-rprx-vision&fp=firefox&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&security=reality&sid=4d3ff920673f7534&sni=max.ru&type=tcp#🇷🇺 Россия | viarvpn_free.t.me
 vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?security=reality&encryption=none&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=4d3ff920673f7534#🇷🇺 Россия | viarvpn_free.t.me
+vless://5f3b432c-1e4d-4aef-bf55-394ed64eaa6a@45.81.35.125:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=eh.vk.com&fp=qq&pbk=ULdsBE21mblUYXU9xmPQOp66egYcagcgTGZ2gUhnyyg#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://5f3b432c-1e4d-4aef-bf55-394ed64eaa6a@45.81.35.125:8443?flow=xtls-rprx-vision&fp=firefox&pbk=ULdsBE21mblUYXU9xmPQOp66egYcagcgTGZ2gUhnyyg&security=reality&sni=eh.vk.com&type=tcp#🇳🇱 Нидерланды | viarvpn_free.t.me

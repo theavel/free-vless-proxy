@@ -1,3 +1,5 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://70ee1dd4-5d67-49ac-b9c4-d0c08826116d@31.31.197.82:10000?type=grpc&security=reality&fp=qq&pbk=9xzdm_jzkLpqPjYVEJ_74EtFkQUGp6UG1TtaVLPng2s&sid=afee962d&sni=max.ru&mode=multi&serviceName=grpc2#🇪🇪 Эстония | viarvpn_free.t.me
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.epicgames.com:2095?security=none&type=ws&path=%2F&host=cnm-fangbinxing-nmsl.fangbinxing-wcnm.workers.dev&allowInsecure=1&fp=randomized#Other | viarvpn_free.t.me
+vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@203.189.233.99:8443?encryption=none&security=tls&sni=lh1.fum.ccwu.cc&fp=random&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=lh1.fum.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#Other | viarvpn_free.t.me
+vless://77864cb4-7791-4e01-97ed-0aaf6904389f@193.33.133.189:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=fi1.foxnezia.dev&fp=firefox&pbk=Ga_FpKnw8ZXngh86KkciKc7SrKNljVat1_8fkyVWbjY&sid=4fd3840415403f31&path=%2F#Other | viarvpn_free.t.me
