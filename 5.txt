@@ -1,6 +1,9 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@203.189.233.99:8443?type=ws&security=tls&fp=random&sni=lh1.fum.ccwu.cc&path=/proxyip%3Dsjc.o00o.ooo&host=lh1.fum.ccwu.cc#Other | viarvpn_free.t.me
+vless://227131c5-1063-4d5d-9038-8dacdcefc569@176.108.244.152:443?type=tcp&security=reality&sni=kz-most.api-yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=oVRbpcmh0rTxbe2y_zyVQqqzCVIPOFfkk-CHv9QFLF4&sid=0fdfdcf08733a33f#Other | viarvpn_free.t.me
 vless://7e6d3393-bb84-45c7-9eef-35de95805b7e@176.108.243.253:443?security=reality&encryption=none&pbk=hx551Gx5MsoXCBfylyRDQDxa156NtbyHQbmJ0m9TiFM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tc-most.api-yandex.net&sid=0a77acf800003f#Other | viarvpn_free.t.me
 vless://7e6d3393-bb84-45c7-9eef-35de95805b7e@176.108.243.253:443?security=reality&encryption=none&pbk=hx551Gx5MsoXCBfylyRDQDxa156NtbyHQbmJ0m9TiFM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tc-most.api-yandex.net&sid=0a77acf800003f#Other | viarvpn_free.t.me
+vless://77864cb4-7791-4e01-97ed-0aaf6904389f@193.33.133.189:443?encryption=none&type=xhttp&security=reality&path=%2F&extra=null&fp=firefox&sni=fi1.foxnezia.dev&pbk=Ga_FpKnw8ZXngh86KkciKc7SrKNljVat1_8fkyVWbjY&sid=4fd3840415403f31#Other | viarvpn_free.t.me
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@138.124.113.18:443?type=tcp&headerType=none&security=reality&encryption=none&sni=iamsterdam.com&fp=firefox&pbk=1RFs75L42oUjmgEKqahFVrKKN52cosDkrWskT053D3o&sid=0aafc7b3b9&spx=%2F&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
 vless://201e3301-9e4b-4136-8d45-d8d61d2b04bc@109.120.152.198:8443?mode=auto&path=/api/v2/updates&security=reality&encryption=none&pbk=JmO_njtIe9q7HRanm_dx4BtPAGCkycJuDskOISPx_Sg&fp=chrome&spx=/&type=xhttp&sni=01.img.avito.st#Other | viarvpn_free.t.me
+vless://201e3301-9e4b-4136-8d45-d8d61d2b04bc@109.120.152.198:8443?type=xhttp&headerType=none&security=reality&encryption=none&sni=01.img.avito.st&fp=firefox&pbk=JmO_njtIe9q7HRanm_dx4BtPAGCkycJuDskOISPx_Sg&path=%2Fapi%2Fv2%2Fupdates#Other | viarvpn_free.t.me

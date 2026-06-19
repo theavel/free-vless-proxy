@@ -1,7 +1,9 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
+vless://097a6067-520a-4b5e-ad9f-e541eb125258@31.129.55.211:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=dev.max.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#🇷🇺 Россия | viarvpn_free.t.me
+vless://097a6067-520a-4b5e-ad9f-e541eb125258@31.129.55.211:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=dev.max.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#🇷🇺 Россия | viarvpn_free.t.me
+vless://1f11b5cd-7651-492c-9dbd-4f9bad6acd20@31.129.55.211:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=dev.max.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#🇷🇺 Россия | viarvpn_free.t.me
 vless://80fc3195-dcea-4378-9ebb-a14afb88292e@31.129.55.212:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=dev.max.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#🇷🇺 Россия | viarvpn_free.t.me
-vless://52b71b75-4b77-4cec-990b-046ec1938e1f@45.92.177.186:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ru.bvps.cloud&fp=firefox&pbk=-sij6MifOyoPdIBR9kjB3ww2ClWk7IhITppFxUEdBzI&sid=9e0ba98da61cb818&flow=xtls-rprx-vision#🇷🇺 Россия | viarvpn_free.t.me
-vless://ae0959f1-f25a-43d0-9c88-be1672641fc3@37.139.34.124:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=FOVEr4SzLDQGUn1yY8-Y_C5mIV6WBJL2sTZKQvK83z4#🇩🇪 Германия | viarvpn_free.t.me
-vless://94@tmesubgift.onrender.com:443?encryption=none&security=tls&sni=tmesubgift.onrender.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.onrender.com&path=/ws/94#🇩🇪 Германия | viarvpn_free.t.me
-vless://94@tmesubgift.onrender.com:443?type=ws&security=tls&fp=chrome&sni=tmesubgift.onrender.com&path=/ws/94&host=tmesubgift.onrender.com#🇩🇪 Германия | viarvpn_free.t.me
+vless://8e502286-3024-4e2e-af46-6deb9cfc2bc1@31.129.55.212:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=dev.max.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#🇷🇺 Россия | viarvpn_free.t.me
+vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?flow=xtls-rprx-vision&fp=firefox&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&security=reality&sid=4d3ff920673f7534&sni=max.ru&type=tcp#🇷🇺 Россия | viarvpn_free.t.me
+vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?security=reality&encryption=none&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=4d3ff920673f7534#🇷🇺 Россия | viarvpn_free.t.me
