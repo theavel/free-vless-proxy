@@ -1,6 +1,7 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://4c0e1fb5-08a6-4809-8723-9721f1b1990b@194.58.88.165:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=rutube.ru&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03#🇷🇺 Россия | viarvpn_free.t.me
-vless://fef41e97-400e-4db2-a638-dac1297b36bc@62.152.60.82:443?flow=xtls-rprx-vision&fp=firefox&pbk=kjTspDrisV8226wHoYmGlK3M3f5ti3J3SABdhRqAMCY&security=reality&sni=eh.vk.com&type=tcp#🇩🇪 Германия | viarvpn_free.t.me
-vless://ce7ed617-0312-4bf3-b40c-6ecf6f612578@185.229.9.58:443?flow=xtls-rprx-vision&fp=firefox&pbk=kjTspDrisV8226wHoYmGlK3M3f5ti3J3SABdhRqAMCY&security=reality&sni=eh.vk.com&type=tcp#🇩🇪 Германия | viarvpn_free.t.me
-vless://5f3b432c-1e4d-4aef-bf55-394ed64eaa6a@45.81.35.125:8443?flow=xtls-rprx-vision&fp=firefox&pbk=ULdsBE21mblUYXU9xmPQOp66egYcagcgTGZ2gUhnyyg&security=reality&sni=eh.vk.com&type=tcp#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://80fc3195-dcea-4378-9ebb-a14afb88292e@31.129.55.212:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=dev.max.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#🇷🇺 Россия | viarvpn_free.t.me
+vless://52b71b75-4b77-4cec-990b-046ec1938e1f@45.92.177.186:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ru.bvps.cloud&fp=firefox&pbk=-sij6MifOyoPdIBR9kjB3ww2ClWk7IhITppFxUEdBzI&sid=9e0ba98da61cb818&flow=xtls-rprx-vision#🇷🇺 Россия | viarvpn_free.t.me
+vless://ae0959f1-f25a-43d0-9c88-be1672641fc3@37.139.34.124:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=FOVEr4SzLDQGUn1yY8-Y_C5mIV6WBJL2sTZKQvK83z4#🇩🇪 Германия | viarvpn_free.t.me
+vless://94@tmesubgift.onrender.com:443?encryption=none&security=tls&sni=tmesubgift.onrender.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.onrender.com&path=/ws/94#🇩🇪 Германия | viarvpn_free.t.me
+vless://94@tmesubgift.onrender.com:443?type=ws&security=tls&fp=chrome&sni=tmesubgift.onrender.com&path=/ws/94&host=tmesubgift.onrender.com#🇩🇪 Германия | viarvpn_free.t.me
