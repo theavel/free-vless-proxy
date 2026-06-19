@@ -1,5 +1,6 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?security=reality&encryption=none&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=4d3ff920673f7534#🇷🇺 Россия | viarvpn_free.t.me
-vless://5f3b432c-1e4d-4aef-bf55-394ed64eaa6a@45.81.35.125:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=eh.vk.com&fp=qq&pbk=ULdsBE21mblUYXU9xmPQOp66egYcagcgTGZ2gUhnyyg#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://4c0e1fb5-08a6-4809-8723-9721f1b1990b@194.58.88.165:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=rutube.ru&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03#🇷🇺 Россия | viarvpn_free.t.me
+vless://fef41e97-400e-4db2-a638-dac1297b36bc@62.152.60.82:443?flow=xtls-rprx-vision&fp=firefox&pbk=kjTspDrisV8226wHoYmGlK3M3f5ti3J3SABdhRqAMCY&security=reality&sni=eh.vk.com&type=tcp#🇩🇪 Германия | viarvpn_free.t.me
+vless://ce7ed617-0312-4bf3-b40c-6ecf6f612578@185.229.9.58:443?flow=xtls-rprx-vision&fp=firefox&pbk=kjTspDrisV8226wHoYmGlK3M3f5ti3J3SABdhRqAMCY&security=reality&sni=eh.vk.com&type=tcp#🇩🇪 Германия | viarvpn_free.t.me
 vless://5f3b432c-1e4d-4aef-bf55-394ed64eaa6a@45.81.35.125:8443?flow=xtls-rprx-vision&fp=firefox&pbk=ULdsBE21mblUYXU9xmPQOp66egYcagcgTGZ2gUhnyyg&security=reality&sni=eh.vk.com&type=tcp#🇳🇱 Нидерланды | viarvpn_free.t.me

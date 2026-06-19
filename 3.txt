@@ -1,5 +1,6 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@85.158.109.113:443?fp=chrome&mode=auto&path=%2FtDjkeuxyQPUDqF8wT2&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&security=reality&sid=aabbccdd&sni=www.kinopoisk.ru&type=xhttp#🇵🇱 Польша | viarvpn_free.t.me
-vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@85.158.109.113:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=%2FtDjkeuxyQPUDqF8wT2&security=reality&encryption=none&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&fp=firefox&type=xhttp&sni=www.kinopoisk.ru&sid=aabbccdd#🇵🇱 Польша | viarvpn_free.t.me
-vless://551b9e18-4327-462d-aa03-f730b4e3bb0a@185.241.195.217:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&sid=be0191cc#Other | viarvpn_free.t.me
+vless://dd9901b2-1b17-0017-b468-b7e94a5bc2c6@88.218.67.115:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cascad.anotherboring.top&fp=qq&pbk=ho7BivYLLBlfgtWEaRqF_g6OOHiKINEyAFDm6wbPDXI&sid=b8357afdce856d30&packetEncoding=xudp#🇹🇷 Турция | viarvpn_free.t.me
+vless://227131c5-1063-4d5d-9038-8dacdcefc569@176.108.244.152:443?security=reality&encryption=none&pbk=oVRbpcmh0rTxbe2y_zyVQqqzCVIPOFfkk-CHv9QFLF4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kz-most.api-yandex.net&sid=0fdfdcf08733a33f#Other | viarvpn_free.t.me
+vless://227131c5-1063-4d5d-9038-8dacdcefc569@176.108.244.152:443?type=tcp&security=reality&sni=kz-most.api-yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=oVRbpcmh0rTxbe2y_zyVQqqzCVIPOFfkk-CHv9QFLF4&sid=0fdfdcf08733a33f#Other | viarvpn_free.t.me
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.149.209:443?allowInsecure=1&encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Other | viarvpn_free.t.me
