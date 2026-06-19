@@ -1,18 +1,15 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://837e9ea2-cf0b-46a1-93a8-7e25c3a4066c@185.170.10.248:48350?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=stats.vk-portal.net&pbk=Ea23HWLvV6k7UjJ8xCsUH2UI0oyasSLjXV84aTXQ6Uk#🇷🇺 Россия | viarvpn_free.t.me
 vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?flow=xtls-rprx-vision&fp=firefox&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&security=reality&sid=4d3ff920673f7534&sni=max.ru&type=tcp#🇷🇺 Россия | viarvpn_free.t.me
 vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?security=reality&encryption=none&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=4d3ff920673f7534#🇷🇺 Россия | viarvpn_free.t.me
-vless://bfd6c195-e37e-40ed-b962-c3ea4ac0f5df@37.139.34.63:23356?encryption=none&type=grpc&security=reality&mode=gun&serviceName=api&fp=firefox&sni=apple.com&pbk=KtHJA0ZiW3VEPTjGQOlT3NlXZWlqAPHKHqki_IGX3Wk&sid=483d116ad48a4091#🇷🇺 Россия | viarvpn_free.t.me
-vless://bfd6c195-e37e-40ed-b962-c3ea4ac0f5df@nl.mail-appstatus.net:23356?encryption=none&fp=chrome&pbk=KtHJA0ZiW3VEPTjGQOlT3NlXZWlqAPHKHqki_IGX3Wk&security=reality&serviceName=api&sid=483d116ad48a4091&sni=apple.com&type=grpc#🇷🇺 Россия | viarvpn_free.t.me
+vless://ec2aaf4f-b1aa-4410-4b14-d4b4e9b5daf4@213.219.212.14:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=eh.vk.ru&type=tcp#🇷🇺 Россия | viarvpn_free.t.me
+vless://ec2aaf4f-b1aa-4410-4b14-d4b4e9b5daf4@213.219.212.34:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&sni=eh.vk.ru#🇷🇺 Россия | viarvpn_free.t.me
+vless://ec2aaf4f-b1aa-4410-4b14-d4b4e9b5daf4@213.219.212.51:443?security=reality&encryption=none&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru#🇷🇺 Россия | viarvpn_free.t.me
+vless://2ec81a80-8deb-4fd9-a0e1-1735896792c0@5.182.5.214:443?encryption=none&type=tcp&security=none#🇷🇺 Россия | viarvpn_free.t.me
+vless://2ec81a80-8deb-4fd9-a0e1-1735896792c0@5.182.5.214:443?type=tcp&security=none&fp=firefox#🇷🇺 Россия | viarvpn_free.t.me
+vless://2ec81a80-8deb-4fd9-a0e1-1735896792c0@80.93.187.36:443?encryption=none&type=tcp&security=none#🇷🇺 Россия | viarvpn_free.t.me
+vless://2ec81a80-8deb-4fd9-a0e1-1735896792c0@80.93.187.36:443?type=tcp&security=none&fp=firefox#🇷🇺 Россия | viarvpn_free.t.me
 vless://2ec81a80-8deb-4fd9-a0e1-1735896792c0@ru.c2horizon.app:443?encryption=none&security=none&fp=chrome&type=tcp#🇷🇺 Россия | viarvpn_free.t.me
 vless://2ec81a80-8deb-4fd9-a0e1-1735896792c0@ru.c2horizon.app:443?security=none&type=tcp#🇷🇺 Россия | viarvpn_free.t.me
-vless://390ac1b2-dbef-4124-b374-4e1baf24f0bb@5.42.101.151:443?fp=firefox&pbk=OTImehRo1Cg4tW_pL1H2XhzH6W7QASoea3JlX3DZmUE&security=reality&sid=8468&sni=yahoo.com&type=tcp#🇷🇺 Россия | viarvpn_free.t.me
-vless://3aae85e1-b87d-48b3-a081-e84f537d6eab@5.42.101.151:40443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=deepl.com&pbk=fX0kqDDm8qfm09fAlWjT2H5AAT7-9wGswgFXMc6gDUQ&sid=d414#🇷🇺 Россия | viarvpn_free.t.me
-vless://3aae85e1-b87d-48b3-a081-e84f537d6eab@search.netraidly.ru:40443?flow=xtls-rprx-vision&fp=qq&pbk=fX0kqDDm8qfm09fAlWjT2H5AAT7-9wGswgFXMc6gDUQ&security=reality&sid=d414&sni=deepl.com&type=tcp#🇷🇺 Россия | viarvpn_free.t.me
-vless://8d1a1b09-12d6-4b76-82f0-893cc805d9c0@46.173.25.146:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ru.crunch-crunch.com&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&sid=ea1058117be12087#🇷🇺 Россия | viarvpn_free.t.me
-vless://c1db9e72-4de3-4c0b-bbb9-65ffc29371c2@217.26.29.198:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#🇷🇺 Россия | viarvpn_free.t.me
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@157.22.241.100:443?encryption=none&type=xhttp&security=reality&path=%2Fxh&mode=stream-up&extra=null&fp=firefox&sni=yandex.by&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA#🇷🇺 Россия | viarvpn_free.t.me
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@157.22.241.100:443?encryption=none&type=xhttp&security=reality&path=/xh&mode=stream-up&extra=null&fp=chrome&sni=yandex.by&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA#🇷🇺 Россия | viarvpn_free.t.me
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@157.22.241.100:443?fp=firefox&host=yandex.by&mode=stream-up&path=%2Fxh&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&security=reality&sni=yandex.by&type=xhttp#🇷🇺 Россия | viarvpn_free.t.me
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@l12.l-itx.info:2053?path=%2Fws&security=tls&encryption=none&host=itx-server.digital&fp=firefox&allowinsecure=0&type=ws&sni=itx-server.digital#🇷🇺 Россия | viarvpn_free.t.me
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@vlessru.duckdns.org:8443?encryption=none&security=tls&sni=vlessru.duckdns.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vlessru.duckdns.org&path=%2Fwsru#🇷🇺 Россия | viarvpn_free.t.me
+vless://ca428a2e-7f82-4030-851b-cab731a5645a@157.22.241.100:443?encryption=none&type=xhttp&security=reality&path=/xh&extra=null&fp=firefox&sni=yandex.by&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA#🇷🇺 Россия | viarvpn_free.t.me
