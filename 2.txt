@@ -1,8 +1,12 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@95.181.213.5:443?encryption=none&type=grpc&security=tls&mode=gun&serviceName=multi&fp=edge&sni=cuisine.mikata.ru&alpn=h3#🇩🇪 Германия | viarvpn_free.t.me
-vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@95.181.213.5:443?encryption=none&type=grpc&security=tls&mode=multi&serviceName=multi&fp=edge&sni=cuisine.mikata.ru#🇩🇪 Германия | viarvpn_free.t.me
-vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@95.181.213.5:443?type=grpc&security=tls&fp=firefox&sni=cuisine.mikata.ru&serviceName=multi#🇩🇪 Германия | viarvpn_free.t.me
-vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?allowInsecure=1&type=grpc&security=tls&fp=edge&sni=cuisine.mikata.ru&mode=multi&serviceName=multi#🇩🇪 Германия | viarvpn_free.t.me
-vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?type=grpc&security=tls&fp=edge&sni=cuisine.mikata.ru&serviceName=multi#🇩🇪 Германия | viarvpn_free.t.me
+vless://8d1a1b09-12d6-4b76-82f0-893cc805d9c0@46.173.25.146:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ru.crunch-crunch.com&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&sid=ea1058117be12087#🇷🇺 Россия | viarvpn_free.t.me
+vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@89.125.169.89:44333?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=yandex.ru&fp=edge&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&sid=63a9b4c563de9906&spx=%2F#🇩🇪 Германия | viarvpn_free.t.me
+vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@89.125.169.89:44333?flow=xtls-rprx-vision&fp=firefox&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&security=reality&sid=63a9b4c563de9906&sni=yandex.ru&type=tcp#🇩🇪 Германия | viarvpn_free.t.me
+vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@89.125.169.89:55443?encryption=none&type=xhttp&path=%2F&host=yandex.ru&mode=auto&security=reality&sni=yandex.ru&fp=edge&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&sid=63a9b4c563de9906&spx=%2F#🇩🇪 Германия | viarvpn_free.t.me
+vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@89.125.169.89:55443?type=xhttp&headerType=none&security=reality&encryption=none&sni=yandex.ru&fp=firefox&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&sid=63a9b4c563de9906&path=%2F&host=yandex.ru#🇩🇪 Германия | viarvpn_free.t.me
+vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@89.125.169.89:55443?type=xhttp&security=reality&fp=edge&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&sid=63a9b4c563de9906&sni=yandex.ru&mode=auto&spx=/#🇩🇪 Германия | viarvpn_free.t.me
+vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@89.125.169.89:62800?encryption=none&type=grpc&serviceName=grpc&mode=gun&security=reality&sni=yandex.ru&fp=edge&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&sid=63a9b4c563de9906&spx=%2F#🇩🇪 Германия | viarvpn_free.t.me
+vless://a1231b43-48aa-4e5b-895a-7f52309ba582@91.193.58.79:2086?encryption=none&host=dev.day18day19.com&path=/&security=none&type=xhttp&mode=packet-up#🇩🇪 Германия | viarvpn_free.t.me
+vless://02691193-6439-459d-b7e5-f64f6887aa32@82.202.141.198:51234?encryption=none&type=grpc&security=reality&mode=gun&serviceName=public-ru&fp=firefox&sni=max.ru&pbk=QOmBHIllrJ3GBWZ9Ik__p6FiuZeUAdJ3nyc4OJvMczI#🇩🇪 Германия | viarvpn_free.t.me
 vless://e52fedb7-befe-4615-a53e-89d446f74bf4@194.67.102.65:8880?encryption=none&type=ws&security=none&path=/cdn/assets/stream&host=cnd.germany.nexusdataroute.com#🇩🇪 Германия | viarvpn_free.t.me
