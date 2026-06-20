@@ -1,7 +1,8 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@89.125.169.89:62800?fp=firefox&mode=gun&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&security=reality&serviceName=grpc&sid=63a9b4c563de9906&sni=yandex.ru&type=grpc#🇩🇪 Германия | viarvpn_free.t.me
-vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@s10211.cdn.ngenix.net:443?path=%2Fapi%2Fuser&security=tls&alpn=http%2F1.1&encryption=none&host=s10211.cdn.ngenix.net&fp=qq&type=ws&sni=s10211.cdn.ngenix.net#🇩🇪 Германия | viarvpn_free.t.me
+vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@95.181.213.5:443?encryption=none&type=grpc&security=tls&mode=gun&serviceName=multi&fp=edge&sni=cuisine.mikata.ru&alpn=h3#🇩🇪 Германия | viarvpn_free.t.me
+vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@95.181.213.5:443?encryption=none&type=grpc&security=tls&mode=multi&serviceName=multi&fp=edge&sni=cuisine.mikata.ru#🇩🇪 Германия | viarvpn_free.t.me
+vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@95.181.213.5:443?type=grpc&security=tls&fp=firefox&sni=cuisine.mikata.ru&serviceName=multi#🇩🇪 Германия | viarvpn_free.t.me
+vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?allowInsecure=1&type=grpc&security=tls&fp=edge&sni=cuisine.mikata.ru&mode=multi&serviceName=multi#🇩🇪 Германия | viarvpn_free.t.me
+vless://9b59bf90-62ae-4f64-8d0e-ec236c260f74@cuisine.mikata.ru:443?type=grpc&security=tls&fp=edge&sni=cuisine.mikata.ru&serviceName=multi#🇩🇪 Германия | viarvpn_free.t.me
 vless://e52fedb7-befe-4615-a53e-89d446f74bf4@194.67.102.65:8880?encryption=none&type=ws&security=none&path=/cdn/assets/stream&host=cnd.germany.nexusdataroute.com#🇩🇪 Германия | viarvpn_free.t.me
-vless://e52fedb7-befe-4615-a53e-89d446f74bf4@130.49.148.134:8880?encryption=none&type=ws&security=none&path=/cdn/assets/stream&host=cnd.finland.nexusdataroute.com#🇫🇮 Финляндия | viarvpn_free.t.me
-vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.118:8880?encryption=none&type=ws&security=none&path=/cdn/assets/stream&host=cnd.finland.nexusdataroute.com#🇫🇮 Финляндия | viarvpn_free.t.me
