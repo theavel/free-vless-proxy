@@ -1,7 +1,11 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@94.183.170.16:55443?fp=firefox&host=yandex.ru&mode=auto&path=%2F&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&security=reality&sid=63a9b4c563de9906&sni=yandex.ru&spx=%2F&type=xhttp#🇪🇪 Эстония | viarvpn_free.t.me
-vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@94.183.170.16:55443?type=xhttp&security=reality&fp=firefox&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&sid=63a9b4c563de9906&sni=yandex.ru&mode=auto&spx=/#🇪🇪 Эстония | viarvpn_free.t.me
-vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@94.183.170.16:62800?fp=firefox&mode=gun&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&security=reality&serviceName=grpc&sid=63a9b4c563de9906&sni=yandex.ru&type=grpc#🇪🇪 Эстония | viarvpn_free.t.me
-vless://551b9e18-4327-462d-aa03-f730b4e3bb0a@185.241.195.217:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&sid=be0191cc#Other | viarvpn_free.t.me
-vless://2a2ac65e-ff89-49c8-bf7a-f218206bb419@multi.fresedvpn.site:2096?encryption=none&type=ws&security=none&path=%2Fapi%2Fv3%2Fws&host=rebus.rustore.ru#Other | viarvpn_free.t.me
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@92.53.189.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#Other | viarvpn_free.t.me
+vless://77864cb4-7791-4e01-97ed-0aaf6904389f@193.33.133.189:443?encryption=none&type=xhttp&security=reality&extra=null&fp=firefox&sni=fi1.foxnezia.dev&pbk=Ga_FpKnw8ZXngh86KkciKc7SrKNljVat1_8fkyVWbjY&sid=4fd3840415403f31#Other | viarvpn_free.t.me
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@154.83.2.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#Other | viarvpn_free.t.me
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.148.106.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#Other | viarvpn_free.t.me
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.67.215.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#Other | viarvpn_free.t.me
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@74.49.214.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#Other | viarvpn_free.t.me
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@77.37.33.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#Other | viarvpn_free.t.me
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@92.53.188.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#Other | viarvpn_free.t.me
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@92.53.190.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#Other | viarvpn_free.t.me
