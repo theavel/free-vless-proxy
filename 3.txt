@@ -1,7 +1,12 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
+vless://736dc313-3eb7-46d0-9564-49e3ad1b3fa4@fi.kuda-idem-nvrsk.ru:30904?sni=vk.ru&security=reality&pbk=G8lsgZQLC1cydeTSGFcugL-Zwxq-yIoaLONODkMuQA4&spx=/4GI0RR6YZdFm2nJ&encryption=none&fp=qq&type=tcp&sid=72&__rand=bf8007ec#🇫🇮 Финляндия | viarvpn_free.t.me
+vless://599907db-9e9e-4c50-b9f1-d1b42cdec21f@176.109.94.201:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=QJ147H5yfcsJqQt_hYKgYjWjaViC0fQUCBCji3VFAm4&sid=ad7dab462a323b#🇵🇱 Польша | viarvpn_free.t.me
+vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@85.158.109.113:443?fp=chrome&mode=auto&path=%2FtDjkeuxyQPUDqF8wT2&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&security=reality&sid=aabbccdd&sni=www.kinopoisk.ru&type=xhttp#🇵🇱 Польша | viarvpn_free.t.me
 vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@85.158.109.113:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=%2FtDjkeuxyQPUDqF8wT2&security=reality&encryption=none&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&fp=firefox&type=xhttp&sni=www.kinopoisk.ru&sid=aabbccdd#🇵🇱 Польша | viarvpn_free.t.me
-vless://67b004ae-50a6-40f4-ac17-17336e5de35e@185.171.202.201:443?security=reality&encryption=none&pbk=XP021Gnd6DIRMV_-JmMw50SPWQRWRcLrke5Uq_-OMk8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=e3170c535dcdd117#🇫🇷 Франция | viarvpn_free.t.me
+vless://67b004ae-50a6-40f4-ac17-17336e5de35e@185.171.202.201:443?type=tcp&security=reality&sni=deepl.com&fp=firefox&flow=xtls-rprx-vision&pbk=XP021Gnd6DIRMV_-JmMw50SPWQRWRcLrke5Uq_-OMk8&sid=e3170c535dcdd117#🇫🇷 Франция | viarvpn_free.t.me
 vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?path=%2Fdula&security=tls&encryption=none&insecure=1&host=speed.dulacloud.store&type=ws&allowInsecure=1&sni=speed.dulacloud.store#🇸🇬 Сингапур | viarvpn_free.t.me
 vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?type=ws&security=tls&fp=firefox&sni=speed.dulacloud.store&path=/dula&host=speed.dulacloud.store#🇸🇬 Сингапур | viarvpn_free.t.me
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.45.6:80?encryption=none&security=none&type=ws&host=speed.dulacloud.store&path=/dula#🇸🇬 Сингапур | viarvpn_free.t.me
 vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=&encryption=none&host=speed.dulacloud.store&fp=firefox&type=ws#🇸🇬 Сингапур | viarvpn_free.t.me
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=none&encryption=none&host=speed.dulacloud.store&type=ws#🇸🇬 Сингапур | viarvpn_free.t.me

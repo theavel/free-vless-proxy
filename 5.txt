@@ -1,5 +1,8 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?type=ws&security=tls&fp=firefox&sni=unnes.ac.id.yxls.eu.cc&path=/ca-cl&host=unnes.ac.id.yxls.eu.cc#Other | viarvpn_free.t.me
-vless://767b6340-96dc-4aa0-8013-a8af7513d920@singapore.com:8443?&security=tls&fp=chrome&sni=c7dabe95.proxy-978.pages.dev&type=ws&headerType=none&host=c7dabe95.proxy-978.pages.dev&path=%2F#Other | viarvpn_free.t.me
+vless://dde33b7e-b51d-478c-8f99-38e2e084baf7@185.141.227.218:2072?type=xhttp&security=reality&fp=firefox&pbk=Ii9Wmi9ozX7Z9Vf3n1xp2lqUw0pmfXVdOXjdLGLMSHs&sid=7016808acbb46323&sni=max.ru&mode=packet-up&extra=null&spx=/#Other | viarvpn_free.t.me
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#Other | viarvpn_free.t.me
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=/ca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#Other | viarvpn_free.t.me
+vless://69de2fc8-d12f-451c-82b3-d5b578120e50@91.193.58.246:8443?path=%2F&security=tls&encryption=none&insecure=0&host=nova-turbo-core-c842.nova-4ab463.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-turbo-core-c842.nova-4ab463.workers.dev#Other | viarvpn_free.t.me
+vless://b328a006-d5b2-4cef-8159-bbd9c3206a76@91.193.58.246:8443?path=%2F&security=tls&encryption=none&insecure=0&host=nova-luna-cloud-47f9.nova-d5a538.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-luna-cloud-47f9.nova-d5a538.workers.dev#Other | viarvpn_free.t.me
 vless://994a7e2b-1944-4c7d-877a-d413dca909c7@82.22.40.225:443?type=tcp&headerType=none&security=reality&encryption=none&sni=aneta.kosmolet.xyz&fp=firefox&pbk=-uB8zIro9WM-NPpiSlOLWHouzZVXibfmT-MxwkacoQ0&sid=a67894cec8a930c4&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
