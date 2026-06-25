@@ -1,4 +1,7 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@78.41.111.87:443?encryption=none&security=tls&sni=s10211.cdn.ngenix.net&fp=qq&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=s10211.cdn.ngenix.net&path=/api/user#🇩🇪 Германия | viarvpn_free.t.me
-vless://c25d94a5-7ac8-41f1-86f1-512a4098df19@87.228.101.211:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=5post-gate.x5.ru&pbk=kDGigLxn2RUJ8HqhPVUb8pRAcjn5zMhR0-QrORmbIDk&sid=be6abde66d48cd13&spx=%2F#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://ef930ef9-8dc2-4da9-88f1-59dae14ccd28@pro-ru-213.emrata.top:443?type=tcp&security=reality&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=qq&sni=eh.vk.ru&flow=xtls-rprx-vision#🇷🇺 Россия | viarvpn_free.t.me
+vless://ef930ef9-8dc2-4da9-88f1-59dae14ccd28@pro-ru-s.emrata.top:443?type=tcp&security=reality&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=qq&sni=ads.x5.ru&flow=xtls-rprx-vision#🇷🇺 Россия | viarvpn_free.t.me
+vless://2285c587-67f4-4404-bb78-c91e8e4f5338@158.160.94.4:443?security=reality&pbk=fbv5wVdKhLJFpmUQy2Q0ZnKHaQrFIxwkQGQTnMRaFh8&sid=a1&sni=ads.x5.ru%3A443&fp=chrome&flow=xtls-rprx-vision#🇷🇺 Россия | viarvpn_free.t.me
+vless://8d7032fa-47e2-40b9-86ee-0072b23feff8@158.160.94.4:443?security=reality&pbk=fbv5wVdKhLJFpmUQy2Q0ZnKHaQrFIxwkQGQTnMRaFh8&sid=a1&sni=ads.x5.ru%3A443&fp=chrome&flow=xtls-rprx-vision#🇩🇪 Германия | viarvpn_free.t.me
+vless://a0addfd6-969a-43ea-a3ea-c2392b2e06a8@157.22.183.74:19984?path=%2F&security=none&encryption=none&host=%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip%2FProxyiranip&type=ws#🇳🇱 Нидерланды | viarvpn_free.t.me

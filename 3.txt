@@ -1,4 +1,7 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&fp=chrome&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#Other | viarvpn_free.t.me
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=firefox&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#Other | viarvpn_free.t.me
+vless://2285c587-67f4-4404-bb78-c91e8e4f5338@yw.xbs54as9c6.ru:443?security=reality&pbk=fbv5wVdKhLJFpmUQy2Q0ZnKHaQrFIxwkQGQTnMRaFh8&sid=a1&sni=ads.x5.ru%3A443&fp=chrome&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
+vless://b2b8bd00-2e42-4875-8d7b-bcf97093a1d4@95.163.211.206:443?encryption=none&security=reality&type=tcp&sni=at.sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
+vless://b2b8bd00-2e42-4875-8d7b-bcf97093a1d4@95.163.211.17:443?encryption=none&security=reality&type=tcp&sni=fi.sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
+vless://b2b8bd00-2e42-4875-8d7b-bcf97093a1d4@95.163.211.22:443?encryption=none&security=reality&type=tcp&sni=fi.sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
+vless://b2b8bd00-2e42-4875-8d7b-bcf97093a1d4@95.163.211.206:443?encryption=none&security=reality&type=tcp&sni=ai.sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
