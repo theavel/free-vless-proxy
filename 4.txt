@@ -1,4 +1,5 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
+vless://f9ab7cbe-2826-480a-9d10-3ad38ca14be4@62.152.60.158:8443?encryption=none&type=xhttp&security=reality&path=/check-update&mode=auto&extra=null&fp=chrome&sni=iv.kommersant.ru&pbk=7VkrylPaWB3cx8b-AN1BXWhsQ3B6SuB2sQx9zzrwnlc&sid=a55215a9509841#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://736dc313-3eb7-46d0-9564-49e3ad1b3fa4@193.68.88.192:30904?type=tcp&headerType=none&security=reality&encryption=none&sni=vk.ru&fp=firefox&pbk=G8lsgZQLC1cydeTSGFcugL-Zwxq-yIoaLONODkMuQA4&sid=72&spx=%2F4GI0RR6YZdFm2nJ#🇫🇮 Финляндия | viarvpn_free.t.me
 vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@85.158.109.113:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=%2FtDjkeuxyQPUDqF8wT2&security=reality&encryption=none&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&fp=firefox&type=xhttp&sni=www.kinopoisk.ru&sid=aabbccdd#🇵🇱 Польша | viarvpn_free.t.me
-vless://8b4c8e27-25ea-434f-97ef-db53375432d6@by.verymad.net:26146?type=tcp&security=reality&encryption=none&fp=firefox&pbk=gX3_zVtbvWNZH7lXyrsBBCcyCVKkkr_LMw9JRqpAmmQ&sid=39f734ac&sni=www.vk.ru&spx=/HVF8vwZ3oo9enzd#Other | viarvpn_free.t.me
