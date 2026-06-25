@@ -1,4 +1,4 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
 vless://f9ab7cbe-2826-480a-9d10-3ad38ca14be4@37.18.15.162:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=iv.kommersant.ru&fp=firefox&pbk=7VkrylPaWB3cx8b-AN1BXWhsQ3B6SuB2sQx9zzrwnlc&sid=a55215a9509841&path=%2Fcheck-update#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://f9ab7cbe-2826-480a-9d10-3ad38ca14be4@62.152.60.158:8443?encryption=none&type=xhttp&security=reality&path=/check-update&extra=null&fp=firefox&sni=iv.kommersant.ru&pbk=7VkrylPaWB3cx8b-AN1BXWhsQ3B6SuB2sQx9zzrwnlc&sid=a55215a9509841#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://f9ab7cbe-2826-480a-9d10-3ad38ca14be4@37.18.15.73:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=media.mediavitrina.ru&fp=firefox&pbk=7VkrylPaWB3cx8b-AN1BXWhsQ3B6SuB2sQx9zzrwnlc&sid=a55215a9509841&path=%2Fcheck-update#🇳🇱 Нидерланды | viarvpn_free.t.me

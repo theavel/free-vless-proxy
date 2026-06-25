@@ -1,4 +1,4 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@pol6.odavpn.online:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=www.kinopoisk.ru&fp=chrome&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&sid=aabbccdd&path=%2FtDjkeuxyQPUDqF8wT2#🇵🇱 Польша | viarvpn_free.t.me
-vless://55ff1fff-2ecd-44e9-940d-7420c862b7d2@138.124.19.48:28737?type=tcp&headerType=none&security=reality&encryption=none&sni=www.vk.com&fp=firefox&pbk=Q8yB9j_8uP7SgGdVZdQQBzcnB7IROViEbnGtedncSVo&sid=790693&spx=%2FL11802LebVvHowb#🇵🇱 Польша | viarvpn_free.t.me
+vless://f9ab7cbe-2826-480a-9d10-3ad38ca14be4@62.152.60.158:8443?encryption=none&fp=chrome&mode=auto&path=%2Fcheck-update&pbk=7VkrylPaWB3cx8b-AN1BXWhsQ3B6SuB2sQx9zzrwnlc&security=reality&sid=a55215a9509841&sni=iv.kommersant.ru&type=xhttp#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://f9ab7cbe-2826-480a-9d10-3ad38ca14be4@62.152.60.158:8443?encryption=none&type=xhttp&security=reality&path=/check-update&extra=null&fp=firefox&sni=iv.kommersant.ru&pbk=7VkrylPaWB3cx8b-AN1BXWhsQ3B6SuB2sQx9zzrwnlc&sid=a55215a9509841#🇳🇱 Нидерланды | viarvpn_free.t.me

@@ -1,4 +1,4 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://b91a0a1a-6570-4b0a-9d47-8c11f7b21aae@51.250.109.95:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#Other | viarvpn_free.t.me
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@104.167.197.97:443?type=tcp&security=reality&pbk=7kOgSBnHMeClMoLD0PdTQGflVNiYl47pT94TBsTXh1Y&fp=firefox&sni=www.nvidia.com&sid=8166&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
+vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@85.158.109.113:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=%2FtDjkeuxyQPUDqF8wT2&security=reality&encryption=none&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&fp=firefox&type=xhttp&sni=www.kinopoisk.ru&sid=aabbccdd#🇵🇱 Польша | viarvpn_free.t.me
+vless://8b4c8e27-25ea-434f-97ef-db53375432d6@by.verymad.net:26146?type=tcp&security=reality&encryption=none&fp=firefox&pbk=gX3_zVtbvWNZH7lXyrsBBCcyCVKkkr_LMw9JRqpAmmQ&sid=39f734ac&sni=www.vk.ru&spx=/HVF8vwZ3oo9enzd#Other | viarvpn_free.t.me
