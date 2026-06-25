@@ -1,7 +1,7 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://a0addfd6-969a-43ea-a3ea-c2392b2e06a8@157.22.183.74:19984?security=none&type=ws&sni=/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN&path=/&encryption=none&headerType=none#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://a0addfd6-969a-43ea-a3ea-c2392b2e06a8@157.22.183.74:19984?type=ws&security=none&path=/#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://a0addfd6-969a-43ea-a3ea-c2392b2e06a8@157.22.183.74:19984?type=ws&sni=/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip/Proxyiranip#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://083471bf-bbf4-4e1d-8953-912b8d3b6255@82.202.177.144:5269?flow=&fp=qq&pbk=hx1gkWBL2ixtwQSGXEvLT1Yz8GBsCFWriz_WLzLQNHQ&security=reality&sid=4eb166dbed98e63d&sni=max.ru&type=tcp#🇱🇻 Латвия | viarvpn_free.t.me
-vless://8d7032fa-47e2-40b9-86ee-0072b23feff8@yw.xbs54as9c6.ru:443?security=reality&pbk=fbv5wVdKhLJFpmUQy2Q0ZnKHaQrFIxwkQGQTnMRaFh8&sid=a1&sni=ads.x5.ru%3A443&fp=chrome&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
+vless://b2b8bd00-2e42-4875-8d7b-bcf97093a1d4@87.242.110.169:443?encryption=none&security=reality&type=tcp&sni=se.sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇸🇪 Швеция | viarvpn_free.t.me
+vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@85.158.109.113:443?fp=chrome&mode=auto&path=%2FtDjkeuxyQPUDqF8wT2&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&security=reality&sid=aabbccdd&sni=www.kinopoisk.ru&type=xhttp#🇵🇱 Польша | viarvpn_free.t.me
+vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@85.158.109.113:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=%2FtDjkeuxyQPUDqF8wT2&security=reality&encryption=none&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&fp=firefox&type=xhttp&sni=www.kinopoisk.ru&sid=aabbccdd#🇵🇱 Польша | viarvpn_free.t.me
+vless://083471bf-bbf4-4e1d-8953-912b8d3b6255@82.202.177.144:5269?encryption=none&type=tcp&security=reality&fp=firefox&sni=max.ru&pbk=hx1gkWBL2ixtwQSGXEvLT1Yz8GBsCFWriz_WLzLQNHQ&sid=4eb166dbed98e63d#🇱🇻 Латвия | viarvpn_free.t.me
+vless://083471bf-bbf4-4e1d-8953-912b8d3b6255@82.202.177.144:5269?flow=&fp=chrome&pbk=hx1gkWBL2ixtwQSGXEvLT1Yz8GBsCFWriz_WLzLQNHQ&security=reality&sid=4eb166dbed98e63d&sni=max.ru&type=tcp#🇱🇻 Латвия | viarvpn_free.t.me
