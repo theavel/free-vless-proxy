@@ -1,5 +1,4 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://ae0959f1-f25a-43d0-9c88-be1672641fc3@37.139.34.124:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=FOVEr4SzLDQGUn1yY8-Y_C5mIV6WBJL2sTZKQvK83z4#🇩🇪 Германия | viarvpn_free.t.me
-vless://e64100fd-773d-4cc6-adbe-a4c94876d07a@45.131.214.45:443?encryption=none&security=reality&sni=d.primarymaster.online&fp=chrome&pbk=ID6lMOmt7BiuPHjZkoLSWNR9ONmB6b4L9skIIFjtXxU&type=grpc#🇩🇪 Германия | viarvpn_free.t.me
-vless://9193a887-edb9-42d6-9f30-96291e72a2c1@176.109.94.149:8443?security=reality&encryption=none&echfq=none&pbk=xpVaGbZ_GrC2FYglA9hBppPIZwa3ZS0NbZikn8DzFHg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru&sid=f0ba303c6256#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@78.41.111.87:443?encryption=none&security=tls&sni=s10211.cdn.ngenix.net&fp=qq&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=s10211.cdn.ngenix.net&path=/api/user#🇩🇪 Германия | viarvpn_free.t.me
+vless://c25d94a5-7ac8-41f1-86f1-512a4098df19@87.228.101.211:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=5post-gate.x5.ru&pbk=kDGigLxn2RUJ8HqhPVUb8pRAcjn5zMhR0-QrORmbIDk&sid=be6abde66d48cd13&spx=%2F#🇳🇱 Нидерланды | viarvpn_free.t.me

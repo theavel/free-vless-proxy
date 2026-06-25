@@ -1,5 +1,4 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@185.245.40.251:443?type=tcp&security=reality&pbk=YnBpu8Ul3-HHnTEq4YGz6i9uZVQE6a-fW1LcSs55sDg&fp=firefox&sni=sun6-20.userapi.com&sid=1cc0b0#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://a0addfd6-969a-43ea-a3ea-c2392b2e06a8@157.22.183.74:19984?security=none&type=ws&sni=/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN&path=/&encryption=none&headerType=none#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://f9ab7cbe-2826-480a-9d10-3ad38ca14be4@62.152.60.158:8443?encryption=none&type=xhttp&security=reality&path=/check-update&extra=null&fp=firefox&sni=iv.kommersant.ru&pbk=7VkrylPaWB3cx8b-AN1BXWhsQ3B6SuB2sQx9zzrwnlc&sid=a55215a9509841#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&fp=chrome&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#Other | viarvpn_free.t.me
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=firefox&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#Other | viarvpn_free.t.me
