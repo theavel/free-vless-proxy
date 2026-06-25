@@ -1,5 +1,10 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
+vless://15fd3d79-3ff8-4c10-9790-547496aeec56@tr2.rexten.cc:443?encryption=none&security=reality&sni=tr2.rexten.cc&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
+vless://b2b8bd00-2e42-4875-8d7b-bcf97093a1d4@87.242.110.7:443?encryption=none&security=reality&type=tcp&sni=ai.sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#Other | viarvpn_free.t.me
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#Other | viarvpn_free.t.me
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=firefox&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#Other | viarvpn_free.t.me
-vless://77864cb4-7791-4e01-97ed-0aaf6904389f@193.33.133.189:443?encryption=none&type=xhttp&security=reality&path=/&mode=auto&extra=null&fp=chrome&sni=fi1.foxnezia.dev&pbk=Ga_FpKnw8ZXngh86KkciKc7SrKNljVat1_8fkyVWbjY&sid=4fd3840415403f31&spx=/#Other | viarvpn_free.t.me
+vless://0e5468e1-01f6-4000-8883-16716722a672@176.108.242.74:443?type=xhttp&security=reality&fp=edge&pbk=mSQkiY0efdTVL2Pw-xQ3pMPKbk-sMYtFe6yJv6TyWkU&sni=pimg.mycdn.me#Other | viarvpn_free.t.me
+vless://0e5468e1-01f6-4000-8883-16716722a672@79.174.95.115:8443?encryption=none&type=xhttp&security=reality&extra=null&fp=firefox&sni=max.ru&pbk=nLVAbXs5asAkKffn3oQy27DEusg68QUvJ7Fy8I-KVmk&sid=aaaa#Other | viarvpn_free.t.me
+vless://0e5468e1-01f6-4000-8883-16716722a672@79.174.95.115:8443?type=xhttp&security=reality&fp=edge&pbk=nLVAbXs5asAkKffn3oQy27DEusg68QUvJ7Fy8I-KVmk&sid=aaaa&sni=max.ru&extra=null#Other | viarvpn_free.t.me
