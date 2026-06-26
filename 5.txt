@@ -1,10 +1,6 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=firefox&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#Other | viarvpn_free.t.me
-vless://69de2fc8-d12f-451c-82b3-d5b578120e50@91.193.58.246:8443?path=%2F&security=tls&encryption=none&insecure=0&host=nova-turbo-core-c842.nova-4ab463.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-turbo-core-c842.nova-4ab463.workers.dev#Other | viarvpn_free.t.me
-vless://811c2c7f-c637-43cd-868c-e88079a7c399@91.193.58.246:8443?path=%2F&security=tls&encryption=none&insecure=0&host=nova-luna-node-9a02.nova-c50bec.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-luna-node-9a02.nova-c50bec.workers.dev#Other | viarvpn_free.t.me
-vless://b328a006-d5b2-4cef-8159-bbd9c3206a76@91.193.58.246:8443?path=%2F&security=tls&encryption=none&insecure=0&host=nova-luna-cloud-47f9.nova-d5a538.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-luna-cloud-47f9.nova-d5a538.workers.dev#Other | viarvpn_free.t.me
-vless://b92b370b-c62e-4f0c-8aff-be32faaa837d@91.193.58.246:8443?path=%2F&security=tls&encryption=none&insecure=0&host=nova-orbit-portal-ac36.nova-c6202c.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-orbit-portal-ac36.nova-c6202c.workers.dev#Other | viarvpn_free.t.me
-vless://767b6340-96dc-4aa0-8013-a8af7513d920@singapore.com:8443?&security=tls&fp=chrome&sni=c7dabe95.proxy-978.pages.dev&type=ws&headerType=none&host=c7dabe95.proxy-978.pages.dev&path=%2F#Other | viarvpn_free.t.me
 vless://767b6340-96dc-4aa0-8013-a8af7513d920@singapore.com:8443?host=c7dabe95.proxy-978.pages.dev&path=/&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#Other | viarvpn_free.t.me
 vless://767b6340-96dc-4aa0-8013-a8af7513d920@singapore.com:8443?type=ws&security=tls&fp=firefox&sni=c7dabe95.proxy-978.pages.dev&path=/&host=c7dabe95.proxy-978.pages.dev#Other | viarvpn_free.t.me
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@singapore.com:8443?&security=tls&fp=chrome&sni=c7dabe95.proxy-978.pages.dev&type=ws&headerType=none&host=c7dabe95.proxy-978.pages.dev&path=%2F#Other | viarvpn_free.t.me
+vless://3d5faf47-a299-4e0b-a2dc-85d5ac2ce885@45.139.25.145:443?fp=firefox&pbk=LGlyI_h141pa9csowTpbCLh7CWJNDahp7iHZTLu-JSc&security=reality&sid=8306088529218116&sni=fl-mirror2-node.ok-sbrf.ru&type=tcp#Other | viarvpn_free.t.me
