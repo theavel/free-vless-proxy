@@ -1,8 +1,14 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=firefox&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#Other | viarvpn_free.t.me
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#Other | viarvpn_free.t.me
 vless://1189bc23-27f7-47c1-89d4-1e6843a09cb6@172.64.147.226:2083?&security=tls&fp=chrome&sni=freetools-h2s.pages.dev&type=ws&headerType=none&host=freetools-h2s.pages.dev&path=%2F#Other | viarvpn_free.t.me
 vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@cf1.466688.xyz:2053?encryption=none&security=tls&sni=balafi7691.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=balafi7691.pages.dev&path=/jump/tv/content?ed=2560#Other | viarvpn_free.t.me
 vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@cf1.466688.xyz:2087?encryption=none&security=tls&sni=febeyop587.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=febeyop587.pages.dev&path=/pics/share/teacher?ed=2560#Other | viarvpn_free.t.me
-vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@cf1.466688.xyz:8443?encryption=none&security=tls&sni=febeyop587.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=febeyop587.pages.dev&path=/service?ed=2560#Other | viarvpn_free.t.me
+vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@cf1.466688.xyz:8443?encryption=none&security=tls&sni=jakafi1724.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=jakafi1724.pages.dev&path=/register/shop?ed=2560#Other | viarvpn_free.t.me
+vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@cf1.466688.xyz:8443?encryption=none&security=tls&sni=mocik38250.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=mocik38250.pages.dev&path=/friend/list/shop?ed=2560#Other | viarvpn_free.t.me
 vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@cf1.466688.xyz:8443?encryption=none&security=tls&sni=pavah949141.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=pavah949141.pages.dev&path=/trade/photo?ed=2560#Other | viarvpn_free.t.me
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@support.zoom.us:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#Other | viarvpn_free.t.me
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@support.zoom.us:443?path=%2Fsg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#Other | viarvpn_free.t.me
+vless://192bc523-26fe-4233-b10d-725deb710ea5@support.zoom.us:443?path=%2Fus-gllc&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#Other | viarvpn_free.t.me
+vless://84205690-b389-4689-86ad-95cd169ba862@support.zoom.us:80?path=%2F&security=none&encryption=none&host=free.sahanwickramasinghevip.shop&type=ws#Other | viarvpn_free.t.me
+vless://84205690-b389-4689-86ad-95cd169ba862@support.zoom.us:80?type=ws&path=%2F&host=free.sahanwickramasinghevip.shop&sni=support.zoom.us#Other | viarvpn_free.t.me
