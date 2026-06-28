@@ -1,5 +1,7 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
+vless://b97b46c9-974a-4e0e-8812-01abfcf3a843@62.152.56.198:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32#🇸🇪 Швеция | viarvpn_free.t.me
 vless://b97b46c9-974a-4e0e-8812-01abfcf3a843@62.152.56.198:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32#🇸🇪 Швеция | viarvpn_free.t.me
-vless://c0961459-f199-4c41-899b-b16138f875e7@plmw.verymad.net:28737?encryption=none&fp=firefox&pbk=Q8yB9j_8uP7SgGdVZdQQBzcnB7IROViEbnGtedncSVo&security=reality&sid=5dcc574365&sni=www.vk.com&spx=%2F9XAp5VbEXkOhR62&type=tcp#🇵🇱 Польша | viarvpn_free.t.me
-vless://b2b8bd00-2e42-4875-8d7b-bcf97093a1d4@95.163.211.206:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=at.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇦🇹 Австрия | viarvpn_free.t.me
+vless://b97b46c9-974a-4e0e-8812-01abfcf3a843@62.152.56.205:443?type=tcp&security=reality&encryption=none&sni=ads.x5.ru&fp=firefox&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32&flow=xtls-rprx-vision&headerType=none&allowInsecure=1#🇸🇪 Швеция | viarvpn_free.t.me
+vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@85.158.109.113:443?fp=chrome&mode=auto&path=%2FtDjkeuxyQPUDqF8wT2&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&security=reality&sid=aabbccdd&sni=www.kinopoisk.ru&type=xhttp#🇵🇱 Польша | viarvpn_free.t.me
+vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@85.158.109.113:443?fp=qq&mode=auto&path=%2FtDjkeuxyQPUDqF8wT2&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&security=reality&sid=aabbccdd&sni=www.kinopoisk.ru&type=xhttp#🇵🇱 Польша | viarvpn_free.t.me
