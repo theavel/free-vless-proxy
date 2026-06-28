@@ -1,7 +1,9 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://c0961459-f199-4c41-899b-b16138f875e7@plmw.verymad.net:28737?encryption=none&fp=firefox&pbk=Q8yB9j_8uP7SgGdVZdQQBzcnB7IROViEbnGtedncSVo&security=reality&sid=5dcc574365&sni=www.vk.com&spx=%2F9XAp5VbEXkOhR62&type=tcp#🇵🇱 Польша | viarvpn_free.t.me
-vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@89.232.177.47:9879?type=xhttp#🇮🇹 Италия | viarvpn_free.t.me
-vless://3fdb6696-0d52-42d4-a8cc-8930f571894f@161.104.48.27:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=okko.tv&fp=firefox&pbk=tFKuLI3W0VZ7IxAL6hFQhD7DWmxAl0_NCjLya_I64zQ&sid=b2d4f6e8&path=%2Fberketgo#Other | viarvpn_free.t.me
-vless://b2b8bd00-2e42-4875-8d7b-bcf97093a1d4@95.163.211.206:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=at.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#Other | viarvpn_free.t.me
+vless://d9228d5d-618d-4771-835f-96b4ebdd38cd@185.218.0.41:2096?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=firefox&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#Other | viarvpn_free.t.me
+vless://d9228d5d-618d-4771-835f-96b4ebdd38cd@185.251.89.9:2096?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#Other | viarvpn_free.t.me
+vless://d9228d5d-618d-4771-835f-96b4ebdd38cd@185.251.89.9:2096?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=firefox&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#Other | viarvpn_free.t.me
+vless://d9228d5d-618d-4771-835f-96b4ebdd38cd@185.251.91.184:2096?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#Other | viarvpn_free.t.me
+vless://d9228d5d-618d-4771-835f-96b4ebdd38cd@185.251.91.184:2096?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=firefox&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#Other | viarvpn_free.t.me
+vless://d9228d5d-618d-4771-835f-96b4ebdd38cd@ss.ll0ll.vip:2096?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#Other | viarvpn_free.t.me
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443/?type=ws&encryption=none&flow=&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=chrome#Other | viarvpn_free.t.me

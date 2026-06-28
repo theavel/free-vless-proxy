@@ -1,7 +1,9 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@85.158.109.113:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=%2FtDjkeuxyQPUDqF8wT2&security=reality&encryption=none&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&fp=firefox&type=xhttp&sni=www.kinopoisk.ru&sid=aabbccdd#🇵🇱 Польша | viarvpn_free.t.me
-vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@pol6.odavpn.online:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=www.kinopoisk.ru&fp=chrome&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&sid=aabbccdd&path=%2FtDjkeuxyQPUDqF8wT2#🇵🇱 Польша | viarvpn_free.t.me
-vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@pol6.odavpn.online:443?type=xhttp&security=reality&fp=qq&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&sid=aabbccdd&sni=www.kinopoisk.ru&path=%2FtDjkeuxyQPUDqF8wT2#🇵🇱 Польша | viarvpn_free.t.me
-vless://835a3aa9-2d80-41f7-8434-0eca60b38d69@ru.verymad.net:20468?encryption=none&fp=firefox&pbk=fZN3RaPoUpvSEE07sPTzvQva27vY3ooA3RYci5KL42Q&security=reality&sid=03e3caa23f4ff727&sni=www.vk.com&spx=%2FG40TmrKR6q49Cy2&type=tcp#🇵🇱 Польша | viarvpn_free.t.me
-vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@82.202.142.216:9881?type=xhttp#🇵🇱 Польша | viarvpn_free.t.me
+vless://2285c587-67f4-4404-bb78-c91e8e4f5338@vkw.t817smgn6zs.ru:443?security=reality&pbk=USzFIqCCFTRAzEJo8Npt_Ds-uRK_FnlvRsR-Iv88_AE&sid=a1&sni=vk.com&fp=chrome&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
+vless://8d7032fa-47e2-40b9-86ee-0072b23feff8@95.163.209.42:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=vk.com&pbk=USzFIqCCFTRAzEJo8Npt_Ds-uRK_FnlvRsR-Iv88_AE&sid=a1#Other | viarvpn_free.t.me
+vless://8d7032fa-47e2-40b9-86ee-0072b23feff8@95.163.209.42:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=vk.com&pbk=USzFIqCCFTRAzEJo8Npt_Ds-uRK_FnlvRsR-Iv88_AE&sid=a1#Other | viarvpn_free.t.me
+vless://0e5468e1-01f6-4000-8883-16716722a672@84.201.162.130:7443?type=xhttp&security=reality&fp=firefox&pbk=nLVAbXs5asAkKffn3oQy27DEusg68QUvJ7Fy8I-KVmk&sid=aaaa&sni=api-maps.yandex.ru&extra=null#Other | viarvpn_free.t.me
+vless://2285c587-67f4-4404-bb78-c91e8e4f5338@95.163.209.42:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=vk.com&pbk=USzFIqCCFTRAzEJo8Npt_Ds-uRK_FnlvRsR-Iv88_AE&sid=a1#Other | viarvpn_free.t.me
+vless://2285c587-67f4-4404-bb78-c91e8e4f5338@95.163.209.42:443?flow=xtls-rprx-vision&fp=firefox&freeinternet=kizyak_vpn1782503602227&pbk=USzFIqCCFTRAzEJo8Npt_Ds-uRK_FnlvRsR-Iv88_AE&security=reality&sid=a1&sni=vk.com&type=tcp#Other | viarvpn_free.t.me
+vless://d9228d5d-618d-4771-835f-96b4ebdd38cd@185.218.0.41:2096?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#Other | viarvpn_free.t.me
