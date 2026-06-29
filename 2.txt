@@ -1,8 +1,8 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🇩🇪 Германия | viarvpn_free.t.me
-vless://7573908b-d981-4153-92aa-33ee2d22144c@178.250.242.39:443?encryption=none&type=tcp&security=reality&fp=firefox&sni=www.kinopoisk.ru&pbk=VH-4z1TvkJLyH9cgwdrhvMevxr3PltSBnMk43X6pi2U&sid=086007&spx=/#🇩🇪 Германия | viarvpn_free.t.me
+vless://e0e576ae-2428-4928-a280-2d3b96daf30d@45.13.226.97:443?security=reality&encryption=none&pbk=3zq_fR7PzSDc9NBQiECTiUISD1rhvsXSMgd_ZIcqvWY&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.avito.ru&sid=ec42626e#🇩🇪 Германия | viarvpn_free.t.me
+vless://e64100fd-773d-4cc6-adbe-a4c94876d07a@45.131.214.45:443?encryption=none&security=reality&sni=d.primarymaster.online&fp=chrome&pbk=ID6lMOmt7BiuPHjZkoLSWNR9ONmB6b4L9skIIFjtXxU&type=grpc#🇩🇪 Германия | viarvpn_free.t.me
+vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@s10211.cdn.ngenix.net:443?type=ws&security=tls&path=/api/user&sni=s10211.cdn.ngenix.net&fp=chrome#🇩🇪 Германия | viarvpn_free.t.me
+vless://d312730d-e1f3-4fe4-a907-f9077ba62b5d@212.60.4.188:26146?fp=firefox&pbk=gX3_zVtbvWNZH7lXyrsBBCcyCVKkkr_LMw9JRqpAmmQ&security=reality&sid=d4f2a3a536b962&sni=www.vk.ru&spx=%2FUQmrtcbSPy1IqFX&type=tcp#🇳🇱 Нидерланды | viarvpn_free.t.me
 vless://a6c595e7-34e2-4762-8947-1ffd25bf99de@city-most-5.harknmav.fun:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=BGW71GlS7ucRWEx-tYF0n2JKvo8uBSLnKdtMMdwBNDY&sid=88ec10761480dce4&sni=max.ru#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://694eadbe-d61f-4f80-957b-d55d990e8ffa@84.201.160.167:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ONSC3Bp5U0cjkMca7bXlUI16izIeN0fJKoCjEdn64RQ&sid=2bb326a463fd1937&sni=yandex.ru#🇳🇱 Нидерланды | viarvpn_free.t.me
 vless://7272d1d6-9bdb-4d0f-8e42-d326008674bf@fi.kuda-idem-nvrsk.ru:30904?encryption=none&fp=qq&pbk=G8lsgZQLC1cydeTSGFcugL-Zwxq-yIoaLONODkMuQA4&security=reality&sid=566130c391356a&sni=vk.ru&spx=%2FscZTKjqGQda2ecV&type=tcp#🇫🇮 Финляндия | viarvpn_free.t.me
-vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@85.158.109.113:443?fp=chrome&mode=auto&path=%2FtDjkeuxyQPUDqF8wT2&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&security=reality&sid=aabbccdd&sni=www.kinopoisk.ru&type=xhttp#🇵🇱 Польша | viarvpn_free.t.me

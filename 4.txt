@@ -1,8 +1,8 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
 vless://a6c595e7-34e2-4762-8947-1ffd25bf99de@cloud-most-3.harknmav.fun:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=zWeCf20jRIFNaeSWo_028sR92X_Of9UEJGMZWRLhiHc&sid=ae5c4c10ca44241a&sni=eh.vk.com#🇪🇪 Эстония | viarvpn_free.t.me
+vless://e84c124e-b176-409c-a6b6-69844127bdfa@upload.nothingchange.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=eKyUyIzbzn0TL5ip_00Buvum95qnWy8gTCwjZvv-olc&sid=3f7b1e5a9c2d8f46&sni=ozon.ru#Other | viarvpn_free.t.me
 vless://d312730d-e1f3-4fe4-a907-f9077ba62b5d@by.verymad.net:26146?encryption=none&fp=firefox&pbk=gX3_zVtbvWNZH7lXyrsBBCcyCVKkkr_LMw9JRqpAmmQ&security=reality&sid=d4f2a3a536b962&sni=www.vk.ru&spx=%2FUQmrtcbSPy1IqFX&type=tcp#Other | viarvpn_free.t.me
-vless://b2b8bd00-2e42-4875-8d7b-bcf97093a1d4@95.163.211.206:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=at.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#Other | viarvpn_free.t.me
-vless://694eadbe-d61f-4f80-957b-d55d990e8ffa@84.201.164.72:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ONSC3Bp5U0cjkMca7bXlUI16izIeN0fJKoCjEdn64RQ&sid=175aaaab96e8cbdd&sni=yandex.ru#Other | viarvpn_free.t.me
 vless://694eadbe-d61f-4f80-957b-d55d990e8ffa@84.201.178.0:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ONSC3Bp5U0cjkMca7bXlUI16izIeN0fJKoCjEdn64RQ&sid=2bb326a463fd1937&sni=yandex.ru#Other | viarvpn_free.t.me
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443/?type=ws&encryption=none&flow=&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=chrome#Other | viarvpn_free.t.me
+vless://d6f8c086-a558-49f9-8f51-bca6e56185ab@5d74fed1.apruxdomain.lol:80?type=ws#Other | viarvpn_free.t.me
+vless://d6f8c086-a558-49f9-8f51-bca6e56185ab@5d74fed1.apruxdomain.lol:80?type=ws&security=none&fp=firefox#Other | viarvpn_free.t.me

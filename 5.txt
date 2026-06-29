@@ -1,6 +1,8 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
+vless://34d0e726-b740-4ce5-8faa-e4aa2c498ace@95.181.173.239:443?security=reality&encryption=none&pbk=vCy4GoFZo4J55DYiNgkYWXSSkz2_v1tU-duQcnNt4zs&headerType=none&fp=firefox&spx=%2FP5jojaOizC4cMjz&type=tcp&sni=www.amd.com&sid=a9a250#Other | viarvpn_free.t.me
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443/?type=ws&encryption=none&flow=&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=chrome#Other | viarvpn_free.t.me
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#Other | viarvpn_free.t.me
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#Other | viarvpn_free.t.me
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=firefox&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#Other | viarvpn_free.t.me
-vless://8083cfd0-55ab-4cf8-9ec9-86d953f96802@82.22.40.138:443?flow=xtls-rprx-vision&fp=firefox&pbk=-uB8zIro9WM-NPpiSlOLWHouzZVXibfmT-MxwkacoQ0&security=reality&sid=a67894cec8a930c4&sni=aneta.kosmolet.xyz&type=tcp#Other | viarvpn_free.t.me
+vless://ada18e5c-5e60-11f1-bd95-ee5f4ed81fa1@5.42.99.168:2053/?type=grpc&encryption=none&flow=&serviceName=grpc-direct&sni=api.gruztrack.online&fp=chrome&security=reality&pbk=75W-x6PKwwG6fJJbrIkGcsBgMKP7pQnw2HlM8oevDjM&sid=e35c7f14cc807f4d#Other | viarvpn_free.t.me

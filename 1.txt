@@ -1,8 +1,8 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
 vless://08379cf5-8256-404f-a6c5-2b933bb6c73f@194.87.131.105:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mrdwYKeDH1Zj4EPov28I9cd3lQB7ZZFn_g7frYIsARY&sid=99410f96248aac87&sni=max.ru#🇷🇺 Россия | viarvpn_free.t.me
-vless://a6c595e7-34e2-4762-8947-1ffd25bf99de@most-1.harknmav.fun:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=pPzR1XhpFrEIwevI7lPPvw4faRcRQmqiNySYHkSdVBU&sid=2a552b0d4d15e0f7&sni=max.ru#🇷🇺 Россия | viarvpn_free.t.me
-vless://910776af-dce0-425d-ae28-4fb154b9f7c2@217.16.29.31:65535?flow=xtls-rprx-vision&fp=firefox&pbk=MAsHVMzSDwqVpFoCqpxPSjLeQECxlWiHdpaQKRWq3AM&security=reality&sid=495739b968708ab7&sni=max.ru&type=tcp#🇷🇺 Россия | viarvpn_free.t.me
+vless://c919e592-5639-491e-a9b7-7a201175ae12@158.160.204.211:8441/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ya.ru&fp=firefox&security=reality&pbk=Q5mtL2qHRAoPEVnl9GRezCHkTrNTnvW_FL3_HQhhKDo&sid=06011ef464e3313f#🇷🇺 Россия | viarvpn_free.t.me
+vless://e84c124e-b176-409c-a6b6-69844127bdfa@193.42.126.176:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8r4tNSwMtdka46DchBXl4uhH4x1kW8_Rp4Q_h9d3Gyc&sid=3756b828dd5d335e&sni=ozon.ru#🇩🇪 Германия | viarvpn_free.t.me
+vless://e84c124e-b176-409c-a6b6-69844127bdfa@dash.nothingchange.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8r4tNSwMtdka46DchBXl4uhH4x1kW8_Rp4Q_h9d3Gyc&sid=3756b828dd5d335e&sni=ozon.ru#🇩🇪 Германия | viarvpn_free.t.me
+vless://e0e576ae-2428-4928-a280-2d3b96daf30d@45.13.226.97:443?encryption=none&fp=&pbk=3zq_fR7PzSDc9NBQiECTiUISD1rhvsXSMgd_ZIcqvWY&security=reality&sid=ec42626e&sni=www.avito.ru&type=tcp#🇩🇪 Германия | viarvpn_free.t.me
 vless://e0e576ae-2428-4928-a280-2d3b96daf30d@45.13.226.97:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.avito.ru&fp=firefox&pbk=3zq_fR7PzSDc9NBQiECTiUISD1rhvsXSMgd_ZIcqvWY&sid=ec42626e#🇩🇪 Германия | viarvpn_free.t.me
-vless://ae0959f1-f25a-43d0-9c88-be1672641fc3@37.139.34.124:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=FOVEr4SzLDQGUn1yY8-Y_C5mIV6WBJL2sTZKQvK83z4&sni=ads.x5.ru#🇩🇪 Германия | viarvpn_free.t.me
-vless://ae0959f1-f25a-43d0-9c88-be1672641fc3@37.139.34.124:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=FOVEr4SzLDQGUn1yY8-Y_C5mIV6WBJL2sTZKQvK83z4#🇩🇪 Германия | viarvpn_free.t.me
