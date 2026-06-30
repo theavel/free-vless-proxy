@@ -1,14 +1,13 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
 vless://6d1cf8d0-d903-4a64-9e2b-fe2c5d2c3e12@46.243.235.184:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=6nsVaGZyZOiD9A0Rd9ci-r-7PO_i2ZP5kPK-0orxdS4&sid=aabb&type=tcp&headerType=none#Other | viarvpn_free.t.me
-vless://8d7032fa-47e2-40b9-86ee-0072b23feff8@vkw.t817smgn6zs.ru:443?security=reality&pbk=USzFIqCCFTRAzEJo8Npt_Ds-uRK_FnlvRsR-Iv88_AE&sid=a1&sni=vk.com&fp=chrome&flow=xtls-rprx-vision&__rand=adde8fd2#Other | viarvpn_free.t.me
+vless://9b08bee0-2615-46c6-8939-54b575517a26@78.159.250.230:443?encryption=none&security=tls&sni=95.85.246.16.speed-storage.ru&fp=edge&alpn=h2&insecure=0&allowInsecure=0&type=grpc&authority=&serviceName=%2Fsequre%2Fgrpc%2F&mode=gun#Other | viarvpn_free.t.me
 vless://8d7032fa-47e2-40b9-86ee-0072b23feff8@95.163.209.42:443?encryption=none&security=reality&sni=vk.com&fp=chrome&pbk=USzFIqCCFTRAzEJo8Npt_Ds-uRK_FnlvRsR-Iv88_AE&sid=a1000000&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
+vless://8d7032fa-47e2-40b9-86ee-0072b23feff8@vkw.t817smgn6zs.ru:443?security=reality&pbk=USzFIqCCFTRAzEJo8Npt_Ds-uRK_FnlvRsR-Iv88_AE&sid=a1&sni=vk.com&fp=chrome&flow=xtls-rprx-vision&descriptions=СвободуИнтернету973#Other | viarvpn_free.t.me
 vless://8d7032fa-47e2-40b9-86ee-0072b23feff8@95.163.209.42:443?encryption=none&security=reality&sni=vk.com&fp=firefox&pbk=USzFIqCCFTRAzEJo8Npt_Ds-uRK_FnlvRsR-Iv88_AE&sid=a1000000&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
+vless://8d7032fa-47e2-40b9-86ee-0072b23feff8@95.163.209.42:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=vk.com&pbk=USzFIqCCFTRAzEJo8Npt_Ds-uRK_FnlvRsR-Iv88_AE&sid=a1#Other | viarvpn_free.t.me
 vless://8d7032fa-47e2-40b9-86ee-0072b23feff8@95.163.209.42:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=vk.com&pbk=USzFIqCCFTRAzEJo8Npt_Ds-uRK_FnlvRsR-Iv88_AE&sid=a1#Other | viarvpn_free.t.me
 vless://8d7032fa-47e2-40b9-86ee-0072b23feff8@vkw.t817smgn6zs.ru:443?encryption=none&security=reality&sni=vk.com&fp=chrome&pbk=USzFIqCCFTRAzEJo8Npt_Ds-uRK_FnlvRsR-Iv88_AE&sid=a1000000&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
 vless://6d1cf8d0-d903-4a64-9e2b-fe2c5d2c3e12@46.243.235.184:20447?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=xBpyo1hUqSIC_DjeVuTDN1EqAsTnFNJPDgBoJZ79clw&sid=aabb&type=tcp&headerType=none#Other | viarvpn_free.t.me
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?&security=tls&alpn=h2&sni=gco1.afterdomain.shop&type=grpc&serviceName=&mode=gun#Other | viarvpn_free.t.me
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?alpn=h2&encryption=none&security=tls&sni=dat1.afterdomain.shop&type=grpc#Other | viarvpn_free.t.me
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=dat1.afterdomain.shop&alpn=h2&type=grpc&host=dat1.afterdomain.shop#Other | viarvpn_free.t.me
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=gco1.afterdomain.shop&insecure=0&allowInsecure=0&type=grpc#Other | viarvpn_free.t.me
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=dat1.afterdomain.shop#Other | viarvpn_free.t.me
+vless://3c961418-8d35-4311-937a-8fa78dfe1f1c@5.188.140.142:443?security=reality&encryption=none&pbk=UpgSzFnhObX8H1xtvpWFVTT8Lv3XfVpf90_1Q7JjAj8&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#Other | viarvpn_free.t.me
+vless://a2415a12-3f92-4636-9823-9828d3ceb818@104.167.197.97:443?type=tcp&security=reality&pbk=7kOgSBnHMeClMoLD0PdTQGflVNiYl47pT94TBsTXh1Y&fp=firefox&sni=www.nvidia.com&sid=8166#Other | viarvpn_free.t.me
