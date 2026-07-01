@@ -1,18 +1,14 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://527561c6-bed1-44c5-8404-f322fbf7ced2@mio.game2lizard.com:2087?type=xhttp&security=tls&fp=chrome&sni=liz21.jooje.lat&mode=auto#Other | viarvpn_free.t.me
-vless://527561c6-bed1-44c5-8404-f322fbf7ced2@mio.game2lizard.com:2087?type=xhttp&security=tls&fp=random&sni=liz21.jooje.lat&mode=auto#Other | viarvpn_free.t.me
+vless://b2b8bd00-2e42-4875-8d7b-bcf97093a1d4@95.163.211.206:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=at.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#Other | viarvpn_free.t.me
+vless://6429d1d5-de69-4758-9046-e72861a40cb9@185.221.199.129:10443?type=grpc&security=reality&fp=chrome&sni=5post-gate.x5.ru&pbk=WF3RXrggPm9ILy5KS7-N9rfBi7d1rgZAkK4X2Owstlk&serviceName=grpc#Other | viarvpn_free.t.me
 vless://a2415a12-3f92-4636-9823-9828d3ceb818@104.167.197.97:443?type=tcp&security=reality&pbk=7kOgSBnHMeClMoLD0PdTQGflVNiYl47pT94TBsTXh1Y&fp=firefox&sni=www.nvidia.com&sid=8166#Other | viarvpn_free.t.me
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&encryption=none&fp=chrome&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#Other | viarvpn_free.t.me
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#Other | viarvpn_free.t.me
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#Other | viarvpn_free.t.me
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=firefox&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#Other | viarvpn_free.t.me
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@212.109.195.126:2083?&security=tls&fp=chrome&sni=vpn47.cc.cd&type=ws&headerType=&host=vpn47.cc.cd&path=%2F#Other | viarvpn_free.t.me
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@85.155.98.34:443?encryption=none&security=tls&sni=vpn47.cc.cd&insecure=0&allowInsecure=0&type=ws&host=vpn47.cc.cd&path=%2F#Other | viarvpn_free.t.me
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@85.155.98.34:443?type=ws&security=tls&fp=firefox&sni=vpn47.cc.cd&path=/&host=vpn47.cc.cd#Other | viarvpn_free.t.me
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@193.233.251.202:443?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vpn47.cc.cd&path=%2F#Other | viarvpn_free.t.me
-vless://ada18e5c-5e60-11f1-bd95-ee5f4ed81fa1@5.42.99.168:2053/?type=grpc&encryption=none&flow=&serviceName=grpc-direct&sni=api.gruztrack.online&fp=chrome&security=reality&pbk=75W-x6PKwwG6fJJbrIkGcsBgMKP7pQnw2HlM8oevDjM&sid=e35c7f14cc807f4d#Other | viarvpn_free.t.me
-vless://ada18e5c-5e60-11f1-bd95-ee5f4ed81fa1@5.42.99.168:2053?fp=firefox&mode=gun&pbk=75W-x6PKwwG6fJJbrIkGcsBgMKP7pQnw2HlM8oevDjM&security=reality&serviceName=grpc-direct&sid=e35c7f14cc807f4d&sni=api.gruztrack.online&type=grpc#Other | viarvpn_free.t.me
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@85.155.98.34:443?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vpn47.cc.cd&path=%2F#Other | viarvpn_free.t.me
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@85.155.98.34:443?sni=vpn47.cc.cd&type=ws&host=vpn47.cc.cd&path=/fp=chrome&security=tls#Other | viarvpn_free.t.me
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@85.155.98.34:443?type=ws&security=tls&fp=firefox&sni=vpn47.cc.cd&path=%2Ffp%3Dchrome&host=vpn47.cc.cd#Other | viarvpn_free.t.me
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@193.233.251.202:443?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vpn47.cc.cd&path=%2F#Other | viarvpn_free.t.me
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@193.233.251.202:443?encryption=none&security=tls&type=ws&sni=vpn47.cc.cd&host=vpn47.cc.cd&path=/#Other | viarvpn_free.t.me
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@85.155.98.34:443?type=ws&security=tls&fp=firefox&sni=vpn47.cc.cd&path=/fp%3Dchrome&host=vpn47.cc.cd#Other | viarvpn_free.t.me
