@@ -1,12 +1,16 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://6429d1d5-de69-4758-9046-e72861a40cb9@185.221.199.129:2443?fp=firefox&mode=gun&pbk=WF3RXrggPm9ILy5KS7-N9rfBi7d1rgZAkK4X2Owstlk&security=reality&serviceName=grpc&sni=5post-gate.x5.ru&type=grpc#🇪🇪 Эстония | viarvpn_free.t.me
-vless://6429d1d5-de69-4758-9046-e72861a40cb9@185.221.199.129:2443?type=grpc&security=reality&fp=chrome&sni=5post-gate.x5.ru&pbk=WF3RXrggPm9ILy5KS7-N9rfBi7d1rgZAkK4X2Owstlk&serviceName=grpc#🇪🇪 Эстония | viarvpn_free.t.me
-vless://6429d1d5-de69-4758-9046-e72861a40cb9@185.221.199.129:443?fp=firefox&mode=gun&pbk=WF3RXrggPm9ILy5KS7-N9rfBi7d1rgZAkK4X2Owstlk&security=reality&serviceName=grpc&sni=5post-gate.x5.ru&type=grpc#🇪🇪 Эстония | viarvpn_free.t.me
-vless://6429d1d5-de69-4758-9046-e72861a40cb9@185.221.199.129:8443?fp=firefox&mode=gun&pbk=WF3RXrggPm9ILy5KS7-N9rfBi7d1rgZAkK4X2Owstlk&security=reality&serviceName=grpc&sni=5post-gate.x5.ru&type=grpc#🇱🇹 Литва | viarvpn_free.t.me
-vless://6429d1d5-de69-4758-9046-e72861a40cb9@185.221.199.129:8443?type=grpc&security=reality&fp=chrome&sni=5post-gate.x5.ru&pbk=WF3RXrggPm9ILy5KS7-N9rfBi7d1rgZAkK4X2Owstlk&serviceName=grpc#🇱🇹 Литва | viarvpn_free.t.me
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&fp=chrome&sni=sca38.afterdomain.shop#🇮🇹 Италия | viarvpn_free.t.me
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&fp=firefox&sni=sca12.afterdomain.shop#🇮🇹 Италия | viarvpn_free.t.me
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=sca38.afterdomain.shop&fp=chrome&alpn=h2#🇮🇹 Италия | viarvpn_free.t.me
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=sca39.afterdomain.shop&fp=chrome&alpn=h2#🇮🇹 Италия | viarvpn_free.t.me
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?path=%2Fdula&security=tls&encryption=none&insecure=1&host=speed.dulacloud.store&type=ws&allowInsecure=1&sni=speed.dulacloud.store#🇸🇬 Сингапур | viarvpn_free.t.me
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?security=tls&type=ws&path=%2Fdula&host=speed.dulacloud.store&packetEncoding=xudp&sni=speed.dulacloud.store&fp=chrome&encryption=none#🇸🇬 Сингапур | viarvpn_free.t.me
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.45.6:80?encryption=none&security=none&type=ws&host=speed.dulacloud.store&path=/dula#🇸🇬 Сингапур | viarvpn_free.t.me
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?encryption=none&security=none&type=ws&host=speed.dulacloud.store&path=%2Fdula#🇸🇬 Сингапур | viarvpn_free.t.me
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=&encryption=none&host=speed.dulacloud.store&fp=firefox&type=ws#🇸🇬 Сингапур | viarvpn_free.t.me
+vless://8ebbdd3b-703c-47df-8bc9-bc9cf6606bc1@217.144.184.251:2053?fp=firefox&pbk=ugTbTcS4MurvJHkOsb2sGdVhUdhfyuJwv6yvJldeCXA&security=reality&serviceName=grpc&sid=d9a7c1e2b3f4481a&sni=cdn.jsdelivr.net&type=grpc#🇧🇷 Бразилия | viarvpn_free.t.me
+vless://8ebbdd3b-703c-47df-8bc9-bc9cf6606bc1@217.144.184.251:2053?fp=chrome&pbk=ugTbTcS4MurvJHkOsb2sGdVhUdhfyuJwv6yvJldeCXA&security=reality&serviceName=grpc&sid=d9a7c1e2b3f4481a&sni=cdn.jsdelivr.net&type=grpc#🇧🇷 Бразилия | viarvpn_free.t.me
+vless://fcc38fdc-ef0a-46f3-a30a-cd3de28d3aee@213.226.112.113:443?flow=xtls-rprx-vision&fp=firefox&pbk=l0R5_L16z0BMq5HhYvA538EJd3ztzHgIOtysCl6Q60U&security=reality&sid=e78c4073&sni=rutube.ru&type=tcp#Other | viarvpn_free.t.me
+vless://fcc38fdc-ef0a-46f3-a30a-cd3de28d3aee@213.226.112.113:443?type=tcp&headerType=none&security=reality&encryption=none&sni=rutube.ru&fp=qq&pbk=l0R5_L16z0BMq5HhYvA538EJd3ztzHgIOtysCl6Q60U&sid=e78c4073&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
 vless://e4cd624c-18d6-415e-8cde-0a800e06ce31@94.139.251.7:3087?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=dzen.ru&pbk=efO4FU4XI20hptm8R_6awJ-UmyHI_5zNaBhQEyBBLVU&sid=abcd1234#Other | viarvpn_free.t.me
-vless://e4cd624c-18d6-415e-8cde-0a800e06ce31@94.139.251.7:4089?flow=xtls-rprx-vision&fp=firefox&pbk=efO4FU4XI20hptm8R_6awJ-UmyHI_5zNaBhQEyBBLVU&security=reality&sid=abcd1234&sni=ads.x5.ru&type=tcp#Other | viarvpn_free.t.me
-vless://e4cd624c-18d6-415e-8cde-0a800e06ce31@94.139.251.7:4089?type=tcp&headerType=none&security=reality&encryption=none&sni=ads.x5.ru&fp=chrome&pbk=efO4FU4XI20hptm8R_6awJ-UmyHI_5zNaBhQEyBBLVU&sid=abcd1234&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
-vless://b2b8bd00-2e42-4875-8d7b-bcf97093a1d4@95.163.211.206:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=at.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#Other | viarvpn_free.t.me
-vless://6d1cf8d0-d903-4a64-9e2b-fe2c5d2c3e12@46.243.235.184:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=6nsVaGZyZOiD9A0Rd9ci-r-7PO_i2ZP5kPK-0orxdS4&sid=aabb&type=tcp&headerType=none#Other | viarvpn_free.t.me
