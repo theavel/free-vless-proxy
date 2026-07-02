@@ -1,12 +1,10 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
+vless://b2b8bd00-2e42-4875-8d7b-bcf97093a1d4@95.163.211.206:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=at.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#Other | viarvpn_free.t.me
+vless://6d1cf8d0-d903-4a64-9e2b-fe2c5d2c3e12@46.243.235.184:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=6nsVaGZyZOiD9A0Rd9ci-r-7PO_i2ZP5kPK-0orxdS4&sid=aabb&type=tcp&headerType=none#Other | viarvpn_free.t.me
+vless://b2b8bd00-2e42-4875-8d7b-bcf97093a1d4@95.163.211.206:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ai.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#Other | viarvpn_free.t.me
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.253.18.132:443?host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#Other | viarvpn_free.t.me
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&encryption=none&fp=chrome&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#Other | viarvpn_free.t.me
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#Other | viarvpn_free.t.me
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#Other | viarvpn_free.t.me
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=firefox&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#Other | viarvpn_free.t.me
-vless://7968c546-02dc-4f8c-b791-934591a94cb2@cf7.466688.xyz:443?encryption=none&security=tls&sni=hhvl.hhapp.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=hhvl.hhapp.kdns.fr&path=/cbasur#Other | viarvpn_free.t.me
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@85.155.98.34:443?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vpn47.cc.cd&path=%2F#Other | viarvpn_free.t.me
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@85.155.98.34:443?type=ws&security=tls&fp=firefox&sni=vpn47.cc.cd&path=/fp%3Dchrome&host=vpn47.cc.cd#Other | viarvpn_free.t.me
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@85.155.98.34:443?sni=vpn47.cc.cd&type=ws&host=vpn47.cc.cd&path=/fp=chrome&security=tls#Other | viarvpn_free.t.me
-vless://3b715892-8610-4fdc-9086-647b36af5443@earth.lukelucky.com:2086?type=xhttp&security=none&host=C.cafearen.ir&path=%2F&mode=auto&encryption=none#Other | viarvpn_free.t.me
-vless://3b715892-8610-4fdc-9086-647b36af5443@earth.lukelucky.com:2086?type=xhttp&security=none&host=cdn7-pro.postshup.ir&path=%2F%3Fed%3D2082&mode=auto&encryption=none#Other | viarvpn_free.t.me
-vless://3b715892-8610-4fdc-9086-647b36af5443@earth.lukelucky.com:2086?mode=auto&path=/?ed=2082&security=&encryption=none&host=f.cafearen.ir&type=xhttp#Other | viarvpn_free.t.me
-vless://3b715892-8610-4fdc-9086-647b36af5443@earth.lukelucky.com:2086?mode=auto&path=/?@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=none&encryption=none&host=D.cafearen.ir&type=xhttp#Other | viarvpn_free.t.me
-vless://3b715892-8610-4fdc-9086-647b36af5443@earth.lukelucky.com:2086?type=xhttp&security=none&host=E.cafearen.ir&path=%2F%3Fed%3D2082&mode=auto&encryption=none#Other | viarvpn_free.t.me
