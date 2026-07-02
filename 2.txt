@@ -1,14 +1,16 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=shegeftihaaa.net&path=%2Frsedgws&host=shegeftihaaa.net#🇩🇪 Германия | viarvpn_free.t.me
+vless://2907f1a4-d55c-457e-934c-cfdb4132fe38@78.24.216.191:8446?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇩🇪 Германия | viarvpn_free.t.me
 vless://2907f1a4-d55c-457e-934c-cfdb4132fe38@78.24.216.191:8454?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇩🇪 Германия | viarvpn_free.t.me
-vless://3e60d9a8-bcc1-4d20-8017-ecec84eab9f5@78.24.216.191:8446?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇩🇪 Германия | viarvpn_free.t.me
-vless://3e60d9a8-bcc1-4d20-8017-ecec84eab9f5@78.24.216.191:8454?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇩🇪 Германия | viarvpn_free.t.me
+vless://53d0c9d8-0d59-453c-a5da-8f7c81f5ea03@46.8.208.17:7443?type=ws&headerType=none&security=tls&encryption=none&sni=mms-3.hysteria.ltd&fp=qq&path=%2Fws&insecure=0#🇩🇪 Германия | viarvpn_free.t.me
 vless://5b6be23b-dff4-428f-8a60-4f11568abe12@63.141.128.3:443?encryption=none&security=tls&sni=sync.amordad.xyz&type=ws&host=sync.amordad.xyz&path=%2Fapi%2Fv1%2Fstream#🇩🇪 Германия | viarvpn_free.t.me
 vless://5b6be23b-dff4-428f-8a60-4f11568abe12@63.141.128.3:443?security=tls&type=ws&path=/api/v1/stream&host=sync.amordad.xyz&sni=sync.amordad.xyz&fp=chrome&encryption=none#🇩🇪 Германия | viarvpn_free.t.me
 vless://610c7d68-dc1b-4ebf-b913-9a51926d0ba6@78.24.216.191:8446?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇩🇪 Германия | viarvpn_free.t.me
 vless://610c7d68-dc1b-4ebf-b913-9a51926d0ba6@78.24.216.191:8454?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇩🇪 Германия | viarvpn_free.t.me
-vless://7c4977b0-e0f5-49a1-9998-349c9cbfa48f@78.24.216.191:8446?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇩🇪 Германия | viarvpn_free.t.me
 vless://c83aeb55-0f8d-4476-afee-fb63e9ea7404@78.24.216.191:8446?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇩🇪 Германия | viarvpn_free.t.me
 vless://c83aeb55-0f8d-4476-afee-fb63e9ea7404@78.24.216.191:8454?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇩🇪 Германия | viarvpn_free.t.me
+vless://17930cee-cbea-484b-ad7f-7b8062825fee@117.55.202.15:443?&security=reality&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&sni=max.ru&type=tcp&headerType=none&host=max.ru&path=%2F#🇳🇱 Нидерланды | viarvpn_free.t.me
 vless://17930cee-cbea-484b-ad7f-7b8062825fee@117.55.202.15:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=max.ru&type=tcp#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://17930cee-cbea-484b-ad7f-7b8062825fee@117.55.202.15:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://17930cee-cbea-484b-ad7f-7b8062825fee@117.55.202.15:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=max.ru&type=tcp#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://17930cee-cbea-484b-ad7f-7b8062825fee@117.55.202.15:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=max.ru&type=tcp#🇳🇱 Нидерланды | viarvpn_free.t.me
