@@ -2,9 +2,12 @@
 # profile-update-interval: 1
 vless://ea057aa8-6c6f-44f4-d347-7a87e835c0dc@45.12.28.95:443?encryption=none&security=tls&sni=us2.wxgqlfx.icu&type=ws&host=us2.wxgqlfx.icu&path=%2FTG%40wxgqlfx&fp=chrome&alpn=http%2F1.1#Other | viarvpn_free.t.me
 vless://a2415a12-3f92-4636-9823-9828d3ceb818@104.167.198.51:443?type=tcp&security=reality&pbk=7kOgSBnHMeClMoLD0PdTQGflVNiYl47pT94TBsTXh1Y&fp=firefox&sni=www.nvidia.com&sid=8166#Other | viarvpn_free.t.me
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&encryption=none&fp=chrome&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#Other | viarvpn_free.t.me
+vless://a2415a12-3f92-4636-9823-9828d3ceb818@45.139.27.106:443?flow=xtls-rprx-vision&fp=chrome&pbk=QQPE-T_FwO6DmpBmEfyaSB6H8QQCtTbmMj-6rlXEQhA&security=reality&sid=8a&sni=www.ya.ru#Other | viarvpn_free.t.me
+vless://a2415a12-3f92-4636-9823-9828d3ceb818@45.139.27.106:443?type=tcp&security=reality&pbk=QQPE-T_FwO6DmpBmEfyaSB6H8QQCtTbmMj-6rlXEQhA&fp=firefox&sni=www.ya.ru&sid=8a&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#Other | viarvpn_free.t.me
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#Other | viarvpn_free.t.me
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=firefox&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#Other | viarvpn_free.t.me
-vless://a2415a12-3f92-4636-9823-9828d3ceb818@45.139.27.106:443?flow=xtls-rprx-vision&fp=chrome&pbk=QQPE-T_FwO6DmpBmEfyaSB6H8QQCtTbmMj-6rlXEQhA&security=reality&sid=8a&sni=www.ya.ru#Other | viarvpn_free.t.me
-vless://a2415a12-3f92-4636-9823-9828d3ceb818@45.139.27.106:443?type=tcp&security=reality&pbk=QQPE-T_FwO6DmpBmEfyaSB6H8QQCtTbmMj-6rlXEQhA&fp=firefox&sni=www.ya.ru&sid=8a&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
+vless://b6412118-883e-405a-ab0f-5b93e41c93d9@91.193.58.10:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=feijige.rujiao.icu&path=Telegram🇨🇳+@WangCai2&security=none&type=ws#Other | viarvpn_free.t.me
+vless://b6412118-883e-405a-ab0f-5b93e41c93d9@91.193.58.25:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=feijige.rujiao.icu&path=Telegram🇨🇳+@WangCai2&security=none&type=ws#Other | viarvpn_free.t.me
+vless://b6412118-883e-405a-ab0f-5b93e41c93d9@91.193.58.10:8880?type=ws&security=none&fp=firefox&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=feijige.rujiao.icu#Other | viarvpn_free.t.me
+vless://b6412118-883e-405a-ab0f-5b93e41c93d9@91.193.58.25:8880?type=ws&security=none&fp=firefox&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=feijige.rujiao.icu#Other | viarvpn_free.t.me
