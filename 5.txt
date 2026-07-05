@@ -1,21 +1,29 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://e9c6c758-3718-0005-9b04-76b046308b74@79.174.95.47:443?flow=xtls-rprx-vision&fp=chrome&pbk=8pexAJEIm7ZL48OkKjYWzVUjzlCcpkx1bv2O6ghUm2o&security=reality&sid=&sni=5post-gate.x5.ru&type=tcp#Other | viarvpn_free.t.me
+vless://e9c6c758-3718-0008-9b04-76b046308b74@79.174.95.68:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=5post-gate.x5.ru&pbk=8pexAJEIm7ZL48OkKjYWzVUjzlCcpkx1bv2O6ghUm2o#🇪🇪 Эстония | viarvpn_free.t.me
+vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:56639?encryption=none&security=none&type=tcp#🇮🇳 Индия | viarvpn_free.t.me
+vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:56639?type=tcp&security=none&fp=firefox#🇮🇳 Индия | viarvpn_free.t.me
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=gco1.afterdomain.shop&insecure=0&allowInsecure=0&type=grpc#Other | viarvpn_free.t.me
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=grpc&security=tls&sni=gco1.afterdomain.shop&alpn=h2&insecure=0&allowInsecure=0#Other | viarvpn_free.t.me
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=gco1.afterdomain.shop&fp=chrome&alpn=h2#Other | viarvpn_free.t.me
+vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:56745?type=tcp&security=none&fp=firefox#Other | viarvpn_free.t.me
+vless://a173d438-fcdd-4f17-a6e1-c81227038059@37.143.14.106:443?encryption=none&type=grpc&security=reality&mode=gun&fp=firefox&sni=5post-gate.x5.ru&pbk=Kto_-HjLzajq1_Ffa69tSwfn-dIg1ow9elgaUBhkqyo#Other | viarvpn_free.t.me
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?&security=tls&alpn=h2&sni=gco1.afterdomain.shop&type=grpc&serviceName=&mode=gun#Other | viarvpn_free.t.me
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?alpn=h2&encryption=none&security=tls&sni=dat1.afterdomain.shop&type=grpc#Other | viarvpn_free.t.me
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=dat1.afterdomain.shop&fp=chrome&alpn=h2#Other | viarvpn_free.t.me
+vless://e9c6c758-3718-0005-9b04-76b046308b74@79.174.95.47:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=5post-gate.x5.ru&pbk=8pexAJEIm7ZL48OkKjYWzVUjzlCcpkx1bv2O6ghUm2o#Other | viarvpn_free.t.me
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@141.193.213.190:443?path=/&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#Other | viarvpn_free.t.me
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@154.83.2.24:443?path=/&security=tls&encryption=none&host=vpn47.cc.cd&fp=chrome&type=ws&sni=vpn47.cc.cd#Other | viarvpn_free.t.me
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.208.61:443?encryption=none&security=tls&sni=vpn47.cc.cd&type=ws&host=vpn47.cc.cd&path=%2F#Other | viarvpn_free.t.me
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.208.61:443?type=ws&security=tls&fp=firefox&sni=vpn47.cc.cd&path=/&host=vpn47.cc.cd#Other | viarvpn_free.t.me
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.209.158:443?path=/&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#Other | viarvpn_free.t.me
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.209.212:443?type=ws&security=tls&fp=firefox&sni=vpn47.cc.cd&path=/&host=vpn47.cc.cd#Other | viarvpn_free.t.me
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.209.212:443?encryption=none&security=tls&sni=vpn47.cc.cd&type=ws&host=vpn47.cc.cd&path=%2F#Other | viarvpn_free.t.me
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.209.212:443?type=ws&security=tls&fp=firefox&sni=vpn47.cc.cd&path=%2F&host=vpn47.cc.cd#Other | viarvpn_free.t.me
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.209.42:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=/&security=tls&sni=vpn47.cc.cd&type=ws#Other | viarvpn_free.t.me
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.209.42:443?encryption=none&security=tls&sni=vpn47.cc.cd&type=ws&host=vpn47.cc.cd&path=%2F#Other | viarvpn_free.t.me
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.209.42:443?type=ws&security=tls&fp=firefox&sni=vpn47.cc.cd&path=/&host=vpn47.cc.cd#Other | viarvpn_free.t.me
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.210.63:443?path=/&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#Other | viarvpn_free.t.me
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.211.136:443?path=/&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#Other | viarvpn_free.t.me
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.211.136:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#Other | viarvpn_free.t.me
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.211.22:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#Other | viarvpn_free.t.me
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.211.52:443?encryption=none&security=tls&sni=vpn47.cc.cd&type=ws&host=vpn47.cc.cd&path=%2F#Other | viarvpn_free.t.me
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.211.52:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#Other | viarvpn_free.t.me
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.211.52:443?type=ws&security=tls&fp=firefox&sni=vpn47.cc.cd&path=/&host=vpn47.cc.cd#Other | viarvpn_free.t.me
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.211.52:443?type=ws&security=tls&fp=firefox&sni=vpn47.cc.cd&path=%2F&host=vpn47.cc.cd#Other | viarvpn_free.t.me
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@66.81.247.91:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#Other | viarvpn_free.t.me
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@91.193.58.201:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#Other | viarvpn_free.t.me
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.208.61:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#Other | viarvpn_free.t.me
-vless://7a809dc5-f525-493f-9b72-a33c4312056b@192.144.13.35:45079?encryption=none&security=none&type=tcp#Other | viarvpn_free.t.me
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.209.158:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#Other | viarvpn_free.t.me
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.210.63:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#Other | viarvpn_free.t.me
