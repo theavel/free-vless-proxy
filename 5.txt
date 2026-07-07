@@ -1,21 +1,17 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
+vless://5f2e8fd5-f696-4c55-ac6c-56c2656648b0@185.241.195.217:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&sid=be0191cc#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://ae43ed30-ad71-475d-b55c-b156f602a6cd@securitytrails.com:2087?security=tls&type=xhttp&path=/forall&host=fl2.forall-npv.shop&packetEncoding=xudp&alpn=h2,http/1.1&sni=fl2.forall-npv.shop&fp=chrome&mode=auto&encryption=none#🇫🇮 Финляндия | viarvpn_free.t.me
+vless://ae43ed30-ad71-475d-b55c-b156f602a6cd@securitytrails.com:2087?type=xhttp&security=tls&fp=chrome&sni=fl2.forall-npv.shop&path=/forall&mode=auto#🇫🇮 Финляндия | viarvpn_free.t.me
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#🇫🇷 Франция | viarvpn_free.t.me
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?security=tls&type=ws&path=/jdhfyws&host=amooaliii.net&packetEncoding=xudp&sni=amooaliii.net&fp=chrome&encryption=none#🇫🇷 Франция | viarvpn_free.t.me
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=amooaliii.net&path=%2Fjdhfyws&host=amooaliii.net#🇫🇷 Франция | viarvpn_free.t.me
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=sca31.afterdomain.shop&alpn=h2&type=grpc&host=sca31.afterdomain.shop#🇮🇹 Италия | viarvpn_free.t.me
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=sca38.afterdomain.shop&alpn=h2&type=grpc&host=sca38.afterdomain.shop#🇮🇹 Италия | viarvpn_free.t.me
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=sca39.afterdomain.shop&alpn=h2&type=grpc&host=sca39.afterdomain.shop#🇮🇹 Италия | viarvpn_free.t.me
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&type=grpc&security=tls&sni=sca12.afterdomain.shop&insecure=0&allowInsecure=0#🇮🇹 Италия | viarvpn_free.t.me
 vless://7983f39c-7251-43b9-991d-62677bfee640@support.zoom.us:80?packetEncoding=xudp&type=ws&path=%2Fapexcloud.ggff.net&host=apexcloud.ggff.net&sni=support.zoom.us#🇸🇬 Сингапур | viarvpn_free.t.me
-vless://7983f39c-7251-43b9-991d-62677bfee640@support.zoom.us:80?security=none&type=ws&path=%2Fapexcloud.ggff.net&host=apexcloud.ggff.net&packetEncoding=xudp&encryption=none#🇸🇬 Сингапур | viarvpn_free.t.me
+vless://7983f39c-7251-43b9-991d-62677bfee640@support.zoom.us:80?type=ws&security=none&fp=firefox&path=/apexcloud.ggff.net&host=apexcloud.ggff.net#🇸🇬 Сингапур | viarvpn_free.t.me
 vless://7983f39c-7251-43b9-991d-62677bfee640@support.zoom.us:80?type=ws&security=none&fp=firefox&sni=support.zoom.us&path=/apexcloud.ggff.net&host=apexcloud.ggff.net#🇸🇬 Сингапур | viarvpn_free.t.me
+vless://bef0efb5-8128-4dd7-80ce-f6a2629b338c@46.8.18.166:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=www.vk.com&pbk=ZlXBEYDy1NPe1mLvq7j8CCB9fBIaIvc8X3UZsbVxNT8&sid=ae03e6ef452252e0#🇱🇹 Литва | viarvpn_free.t.me
+vless://bef0efb5-8128-4dd7-80ce-f6a2629b338c@46.8.18.166:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=yandex.ru&pbk=djV0ofrWaRYqyKIgjuXuDGZt3QmkfDwyBk-ro_nv1zs&sid=b175ae75e2a15bf0&spx=%2F#🇱🇹 Литва | viarvpn_free.t.me
 vless://bef0efb5-8128-4dd7-80ce-f6a2629b338c@46.8.18.166:443?flow=xtls-rprx-vision&fp=firefox&pbk=djV0ofrWaRYqyKIgjuXuDGZt3QmkfDwyBk-ro_nv1zs&security=reality&sid=b175ae75e2a15bf0&sni=yandex.ru&type=tcp#🇱🇹 Литва | viarvpn_free.t.me
 vless://bef0efb5-8128-4dd7-80ce-f6a2629b338c@46.8.18.166:443?flow=xtls-rprx-vision&fp=firefox&pbk=ZlXBEYDy1NPe1mLvq7j8CCB9fBIaIvc8X3UZsbVxNT8&security=reality&sid=ae03e6ef452252e0&sni=www.vk.com&type=raw#🇱🇹 Литва | viarvpn_free.t.me
-vless://bef0efb5-8128-4dd7-80ce-f6a2629b338c@46.8.18.166:443?type=raw&security=reality&sni=www.vk.com&fp=qq&flow=xtls-rprx-vision&pbk=ZlXBEYDy1NPe1mLvq7j8CCB9fBIaIvc8X3UZsbVxNT8&sid=ae03e6ef452252e0#🇱🇹 Литва | viarvpn_free.t.me
-vless://fa792181-23a8-41fd-9048-94d9f0d574f6@alba.ardor-cloud.ru:444?allowInsecure=1&flow=&fp=chrome&pbk=wgxjTlVuBIi8T-QRQ2tmmH57seIfKCdE2pBGNWXcOCo&security=reality&serviceName=web.max.ru&sid=8614956789abcdef&sni=web.max.ru&type=grpc#Other | viarvpn_free.t.me
-vless://fe604665-7c82-44cf-a067-869fe9b2abae@45.43.159.153:7443?alpn=http/1.1&flow=xtls-rprx-vision&fp=firefox&packetEncoding=xudp&pbk=zOPjTJV8xgGMmD0Mg0jWsRYSOsa_2pp7SSs88EFK6nw&security=reality&sni=rbc.ru&type=tcp#Other | viarvpn_free.t.me
-vless://fe604665-7c82-44cf-a067-869fe9b2abae@45.43.159.153:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rbc.ru&alpn=http/1.1&fp=chrome&pbk=zOPjTJV8xgGMmD0Mg0jWsRYSOsa_2pp7SSs88EFK6nw&sid=&packetEncoding=xudp#Other | viarvpn_free.t.me
-vless://fe604665-7c82-44cf-a067-869fe9b2abae@45.43.159.153:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rbc.ru&alpn=http/1.1&fp=qq&pbk=zOPjTJV8xgGMmD0Mg0jWsRYSOsa_2pp7SSs88EFK6nw&sid&packetEncoding=xudp#Other | viarvpn_free.t.me
 vless://347166e5-b4ee-487a-8b8a-aadf99ffb9f2@176.123.165.127:57836?encryption=none&security=none&type=tcp#Other | viarvpn_free.t.me
-vless://2d212f81-7ea2-4d0b-884c-a6497ab41143@anydesk.com:8880?&security=none&type=ws&headerType=&host=hidden-union-a4b2.436.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#Other | viarvpn_free.t.me
-vless://85e14d59-02ea-4642-a317-50f1e1691660@anydesk.com:8880?&security=none&type=ws&headerType=&host=icy-hat-20f3.328-99f.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#Other | viarvpn_free.t.me
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@138.124.113.18:443?type=tcp&headerType=none&security=reality&encryption=none&sni=iamsterdam.com&fp=firefox&pbk=1RFs75L42oUjmgEKqahFVrKKN52cosDkrWskT053D3o&sid=0aafc7b3b9&spx=%2F&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
+vless://347166e5-b4ee-487a-8b8a-aadf99ffb9f2@176.123.165.127:57836?type=raw&security=none&fp=firefox#Other | viarvpn_free.t.me
