@@ -1,5 +1,9 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://f6aaa6db-d249-4dab-bc44-8ce670060de3@158.160.22.195:443?flow=xtls-rprx-vision&fp=firefox&pbk=9tKfmbONYzchVLBVki3UDOBgulMw2-_9fV5qm4aPiiM&security=reality&sid=700e5b8399d12d&sni=ya.ru&type=tcp#🇪🇪 Эстония | viarvpn_free.t.me
-vless://f6aaa6db-d249-4dab-bc44-8ce670060de3@158.160.252.95:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=ya.ru&pbk=G6ekEx_2qJMHo-DzjF7ww8UPbPiVSd8A6LY5yn-i3XU&sid=83915e401341#🇪🇪 Эстония | viarvpn_free.t.me
+vless://fe604665-7c82-44cf-a067-869fe9b2abae@45.43.159.153:7443?alpn=http/1.1&flow=xtls-rprx-vision&fp=firefox&packetEncoding=xudp&pbk=zOPjTJV8xgGMmD0Mg0jWsRYSOsa_2pp7SSs88EFK6nw&security=reality&sni=rbc.ru&type=tcp#Other | viarvpn_free.t.me
+vless://fe604665-7c82-44cf-a067-869fe9b2abae@45.43.159.153:7443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=zOPjTJV8xgGMmD0Mg0jWsRYSOsa_2pp7SSs88EFK6nw&sni=rbc.ru&packetencoding=xudp#Other | viarvpn_free.t.me
 vless://cb784d00-d34a-4389-b938-8717f7b28353@2.26.254.89:443?flow=xtls-rprx-vision&fp=firefox&pbk=Ulq3VvXRo14PiLx8Ymy8Z-UooTTAU6rjdJ_tIrJcJwA&security=reality&sid=e9fa03f679854462&sni=yastatic.net&type=tcp#Other | viarvpn_free.t.me
+vless://cb784d00-d34a-4389-b938-8717f7b28353@2.26.254.89:443?security=reality&encryption=none&pbk=Ulq3VvXRo14PiLx8Ymy8Z-UooTTAU6rjdJ_tIrJcJwA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yastatic.net&sid=e9fa03f679854462#Other | viarvpn_free.t.me
+vless://a3e03930-7645-4bf0-ad4d-40d44341fa88@90.156.218.67:443?type=tcp&headerType=none&security=reality&encryption=none&sni=sun2-11.userapi.com&fp=chrome&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
+vless://a3e03930-7645-4bf0-ad4d-40d44341fa88@83.166.250.44:443?type=grpc&headerType=none&security=reality&encryption=none&sni=viennaairport&fp=firefox&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&serviceName=grpc#Other | viarvpn_free.t.me
+vless://a3e03930-7645-4bf0-ad4d-40d44341fa88@91.219.227.28:443?type=grpc&headerType=none&security=reality&encryption=none&sni=viennaairport&fp=firefox&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&serviceName=grpc#Other | viarvpn_free.t.me

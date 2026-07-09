@@ -1,7 +1,13 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
+vless://57c77d07-bec3-4bf7-9b72-70ece40450f6@217.herumhas.shop:5443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&sni=max.ru#🇷🇺 Россия | viarvpn_free.t.me
+vless://57c77d07-bec3-4bf7-9b72-70ece40450f6@gdg.herumhas.shop:5443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&sni=max.ru#🇷🇺 Россия | viarvpn_free.t.me
+vless://57c77d07-bec3-4bf7-9b72-70ece40450f6@omg.herumhas.shop:5443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&sni=max.ru#🇷🇺 Россия | viarvpn_free.t.me
+vless://a3e03930-7645-4bf0-ad4d-40d44341fa88@95.163.214.212:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=firefox&sni=viennaairport&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA#🇷🇺 Россия | viarvpn_free.t.me
 vless://ad997094-40d4-461c-baf1-759d987351c3@192.144.13.35:59242?encryption=none&type=raw&security=none#🇷🇺 Россия | viarvpn_free.t.me
 vless://ad997094-40d4-461c-baf1-759d987351c3@192.144.13.35:59242?type=raw&security=none&fp=firefox#🇷🇺 Россия | viarvpn_free.t.me
-vless://2f93a08b-5c23-502c-936d-a53072cf9882@5.42.100.84:48212?encryption=none&fp=chrome&pbk=8rZnE8gkbRv3ZVHUvkyrMZnmoIRhtncAgQpUAPAwIlo&security=reality&serviceName=grpc&sid=62b5466a2183d4da&sni=yandex.ru&type=grpc#🇷🇺 Россия | viarvpn_free.t.me
-vless://2f93a08b-5c23-502c-936d-a53072cf9882@5.42.100.84:48212?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=firefox&sni=yandex.ru&pbk=8rZnE8gkbRv3ZVHUvkyrMZnmoIRhtncAgQpUAPAwIlo&sid=62b5466a2183d4da#🇷🇺 Россия | viarvpn_free.t.me
-vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@141.98.87.48:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=eh.vk.com&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896#🇩🇪 Германия | viarvpn_free.t.me
+vless://bb229808-c207-428c-a398-0b4bf30f29be@109.69.20.228:8443?&security=tls&fp=edge&sni=vpn.oplatasite.ru&type=tcp&headerType=&host=vpn.oplatasite.ru&path=%2F#🇷🇺 Россия | viarvpn_free.t.me
+vless://bb229808-c207-428c-a398-0b4bf30f29be@109.69.20.228:8443?encryption=none&security=tls&sni=vpn.oplatasite.ru&fp=edge&packetEncoding=xudp#🇷🇺 Россия | viarvpn_free.t.me
+vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@141.98.87.48:9999?encryption=none&type=raw&security=none#🇩🇪 Германия | viarvpn_free.t.me
+vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@freetg.strettenvpn.com:9999?encryption=none&security=none&type=tcp#🇩🇪 Германия | viarvpn_free.t.me
+vless://5f5973cc-b1f9-4655-8952-ca1de6e2f4bc@37.9.4.38:8443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=api.vk.ru&pbk=Q-GdAvOJdfsTVfS5uimCa9f5ARAsVNUqeoRSSOJbXGY&sid=7ccbcb93b59845de&spx=%2F#🇩🇪 Германия | viarvpn_free.t.me
