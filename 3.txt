@@ -1,14 +1,5 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://7cec3808-65d4-4dbd-941f-e9b640977071@185.71.67.223:443?encryption=none&type=xhttp&security=tls&path=/start&mode=auto&extra=null&sni=cdn.stroimvmeste.icu#🇩🇪 Германия | viarvpn_free.t.me
-vless://7cec3808-65d4-4dbd-941f-e9b640977071@cdn.stroimvmeste.icu:443?mode=auto&path=%2Fstart&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.stroimvmeste.icu#🇩🇪 Германия | viarvpn_free.t.me
-vless://7cec3808-65d4-4dbd-941f-e9b640977071@cdn.stroimvmeste.icu:443?path=%2Fstart&security=tls&alpn=h2%2C%20http%2F1.1&encryption=none&insecure=0&host=cdn.stroimvmeste.icu&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.stroimvmeste.icu#🇩🇪 Германия | viarvpn_free.t.me
-vless://7cec3808-65d4-4dbd-941f-e9b640977071@cdn.stroimvmeste.icu:443?type=xhttp&security=tls&sni=cdn.stroimvmeste.icu&path=/start&mode=auto#🇩🇪 Германия | viarvpn_free.t.me
-vless://bf75dd28-fa76-4f55-8497-9ea2205dbf49@92.53.64.241:443?encryption=none&type=grpc&security=reality&mode=gun&fp=QQ&sni=ru.vostokhub.com&pbk=M4HrL_LOJa2mlimPGjHOwfTqWCFN0tPnmdiKMJCwDzk&sid=fb9e2842cb738845&spx=%2F#🇩🇪 Германия | viarvpn_free.t.me
-vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@78.41.111.87:443?encryption=none&type=ws&security=tls&path=/api/user&host=s10211.cdn.ngenix.net&fp=chrome&sni=s10211.cdn.ngenix.net&alpn=http/1.1#🇩🇪 Германия | viarvpn_free.t.me
-vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@78.41.111.87:443?encryption=none&type=ws&security=tls&path=/api/user&host=s10211.cdn.ngenix.net&fp=qq&sni=s10211.cdn.ngenix.net&alpn=http/1.1#🇩🇪 Германия | viarvpn_free.t.me
-vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@78.41.111.87:443?encryption=none&type=ws&security=tls&path=/api/user&sni=s10211.cdn.ngenix.net#🇩🇪 Германия | viarvpn_free.t.me
-vless://f83b59be-d741-4667-bfc9-30cb8ead137c@92.53.64.241:443?encryption=none&type=grpc&security=reality&mode=gun&fp=QQ&sni=ru.vostokhub.com&pbk=M4HrL_LOJa2mlimPGjHOwfTqWCFN0tPnmdiKMJCwDzk&sid=fb9e2842cb738845&spx=%2F#🇩🇪 Германия | viarvpn_free.t.me
-vless://0450b7f9-09ca-4481-9094-f6c9394f8234@176.109.85.65:16321?encryption=none&type=grpc&mode=gun&security=reality&sni=360.yandex.ru&fp=firefox&pbk=FfZptJgxYiyEemH_mO7I8BKHF9Nc5ZGEG_sYC1dWjEw&sid=78b8ebdb7007ecec#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://2cf1537a-c22e-46ce-8b80-0921a274580d@62.152.56.73:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=edge&sni=wl-12.nodes.ac&pbk=lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg&sid=cf43c0c197cd464a#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://2cf1537a-c22e-46ce-8b80-0921a274580d@62.152.56.73:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=wl-12.nodes.ac&pbk=lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg&sid=cf43c0c197cd464a#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://2f93a08b-5c23-502c-936d-a53072cf9882@5.42.100.84:48212?encryption=none&fp=chrome&pbk=8rZnE8gkbRv3ZVHUvkyrMZnmoIRhtncAgQpUAPAwIlo&security=reality&serviceName=grpc&sid=62b5466a2183d4da&sni=yandex.ru&type=grpc#🇷🇺 Россия | viarvpn_free.t.me
+vless://2f93a08b-5c23-502c-936d-a53072cf9882@5.42.100.84:48212?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=firefox&sni=yandex.ru&pbk=8rZnE8gkbRv3ZVHUvkyrMZnmoIRhtncAgQpUAPAwIlo&sid=62b5466a2183d4da#🇷🇺 Россия | viarvpn_free.t.me
+vless://7cec3808-65d4-4dbd-941f-e9b640977071@185.71.67.223:443?encryption=none&type=xhttp&security=tls&path=/start&extra=null&fp=chrome&sni=cdn.stroimvmeste.icu#🇩🇪 Германия | viarvpn_free.t.me

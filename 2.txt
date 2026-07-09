@@ -1,14 +1,5 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@freetg.strettenvpn.com:443?security=reality&type=raw&sni=eh.vk.com&fp=chrome&flow=xtls-rprx-vision&sid=8248954896&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&encryption=none#🇩🇪 Германия | viarvpn_free.t.me
-vless://3f4e2e66-0670-4bb6-8dcf-20a535314b17@176.109.85.88:4443?fp=firefox&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&security=reality&serviceName=ns&sni=id.pervye.ru&type=grpc#🇩🇪 Германия | viarvpn_free.t.me
-vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@141.98.87.48:9999?encryption=none&type=raw&security=none#🇩🇪 Германия | viarvpn_free.t.me
-vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@141.98.87.48:9999?type=raw&security=none&fp=firefox#🇩🇪 Германия | viarvpn_free.t.me
-vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@freetg.strettenvpn.com:9999?encryption=none&security=none&type=tcp#🇩🇪 Германия | viarvpn_free.t.me
-vless://2cf1537a-c22e-46ce-8b80-0921a274580d@37.9.4.224:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=wl-2-1.legendary.ac&pbk=uL4x8EbCl080G43kFlv8nbpEyseWi1Dc_bl8F7lWtm8&sid=aa03ec59c9695e91#🇩🇪 Германия | viarvpn_free.t.me
-vless://2cf1537a-c22e-46ce-8b80-0921a274580d@62.152.58.114:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=wl-13-1.nodes.ac&pbk=jAJoyWJ4nMGai3H9BOa6QMUr2Vvpgqs8VipbaO5mCVU&sid=3130197867c23edb#🇩🇪 Германия | viarvpn_free.t.me
-vless://7cec3808-65d4-4dbd-941f-e9b640977071@185.71.67.223:443?encryption=none&type=xhttp&security=tls&host=cdn.stroimvmeste.icu&path=%2Fstart&extra=null&fp=chrome&sni=cdn.stroimvmeste.icu#🇩🇪 Германия | viarvpn_free.t.me
-vless://7cec3808-65d4-4dbd-941f-e9b640977071@185.71.67.223:443?encryption=none&type=xhttp&security=tls&host=cdn.stroimvmeste.icu&path=%2Fstart&extra=null&fp=chrome&sni=cdn.stroimvmeste.icu&alpn=h2%2C%2Bhttp%2F1.1#🇩🇪 Германия | viarvpn_free.t.me
-vless://7cec3808-65d4-4dbd-941f-e9b640977071@185.71.67.223:443?encryption=none&type=xhttp&security=tls&host=cdn.stroimvmeste.icu&path=/start&extra=null&fp=chrome&sni=cdn.stroimvmeste.icu&alpn=h2,+http/1.1#🇩🇪 Германия | viarvpn_free.t.me
-vless://7cec3808-65d4-4dbd-941f-e9b640977071@185.71.67.223:443?encryption=none&type=xhttp&security=tls&path=/start&extra=null&fp=chrome&sni=cdn.stroimvmeste.icu#🇩🇪 Германия | viarvpn_free.t.me
-vless://7cec3808-65d4-4dbd-941f-e9b640977071@185.71.67.223:443?encryption=none&type=xhttp&security=tls&path=/start&mode=auto&extra=null&fp=qq&sni=cdn.stroimvmeste.icu#🇩🇪 Германия | viarvpn_free.t.me
+vless://57c77d07-bec3-4bf7-9b72-70ece40450f6@5.188.140.160:5443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=max.ru&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ#🇷🇺 Россия | viarvpn_free.t.me
+vless://ad997094-40d4-461c-baf1-759d987351c3@192.144.13.35:59242?encryption=none&type=raw&security=none#🇷🇺 Россия | viarvpn_free.t.me
+vless://ad997094-40d4-461c-baf1-759d987351c3@192.144.13.35:59242?type=raw&security=none&fp=firefox#🇷🇺 Россия | viarvpn_free.t.me
