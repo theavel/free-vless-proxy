@@ -1,6 +1,6 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://db7cae85-3c1a-4e4f-b317-7cdeaf419c5a@217.16.31.86:1695?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&sid=c3607d#🇩🇪 Германия | viarvpn_free.t.me
 vless://db7cae85-3c1a-4e4f-b317-7cdeaf419c5a@217.16.31.86:1695?flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&sid=c3607d#🇩🇪 Германия | viarvpn_free.t.me
-vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@141.98.87.48:9999?type=raw&fp=firefox#🇩🇪 Германия | viarvpn_free.t.me
-vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@141.98.87.48:9999?type=raw&security=none&fp=chrome#🇩🇪 Германия | viarvpn_free.t.me
+vless://485f9b6d-2e64-4396-83cd-49912c11a176@195.209.86.193:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s52061.cdn.ngenix.net&fp=chrome&sni=s52061.cdn.ngenix.net&alpn=http%2F1.1#🇩🇪 Германия | viarvpn_free.t.me
+vless://9727d3cf-d839-4d8b-b22e-6d62483fea25@195.209.86.193:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s52061.cdn.ngenix.net&fp=chrome&sni=s52061.cdn.ngenix.net&alpn=http%2F1.1#🇩🇪 Германия | viarvpn_free.t.me
+vless://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@46.8.208.49:6443?encryption=none&security=tls&sni=slc-tst.hysteria.ltd&fp=qq&allowinsecure=0&type=ws&path=%2Fws#🇩🇪 Германия | viarvpn_free.t.me
