@@ -1,4 +1,4 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://74139fb5-fd3f-4133-a34a-b1d85da7a89f@186.246.31.136:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ads.x5.ru&fp=firefox&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&sid=ea1058117be12087&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
-vless://29fcd730-a23e-437f-ad41-76bc0ce87a09@92.38.139.69:58888?flow=xtls-rprx-vision&fp=firefox&fragment=100-200,10-20,tlshello&pbk=5rarCwWIE6vDLCyip5C66PYDsm7ETZ9V4LQR34dfuGA&security=reality&sid=6ba85179e30d4fc2&sni=max.ru&type=raw#Other | viarvpn_free.t.me
+vless://131bb705-8747-4576-b25d-31d47c66c283@45.148.119.228:2053?flow=xtls-rprx-vision&fp=firefox&pbk=e0zdq7dlQbw00kxTeSe_CZRFn-h--CTqb9yNK_wuLG4&security=reality&sni=yandex.ru&type=tcp#🇵🇱 Польша | viarvpn_free.t.me
+vless://131bb705-8747-4576-b25d-31d47c66c283@45.148.119.228:2053?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=yandex.ru&pbk=e0zdq7dlQbw00kxTeSe_CZRFn-h--CTqb9yNK_wuLG4#🇵🇱 Польша | viarvpn_free.t.me
