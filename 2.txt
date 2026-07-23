@@ -1,12 +1,18 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
+vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@31.12.75.21:2087?alpn=h2%2Chttp%2F1.1&encryption=none&path=%2F%3FTelegram-WangCai2&security=tls&sni=ch-de.sdcards.ir&type=xhttp&fp=edge#🇩🇪 Германия | viarvpn_free.t.me
+vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@31.12.75.21:2087?alpn=h2%2Chttp%2F1.1&encryption=none&path=%2F%3FTelegram-WangCai2&security=tls&sni=ch-de.sdcards.ir&type=xhttp&fp=firefox#🇩🇪 Германия | viarvpn_free.t.me
+vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@31.12.75.21:2087?alpn=h2%2Chttp%2F1.1&encryption=none&path=%2F%3FTelegram-WangCai2&security=tls&sni=ch-de.sdcards.ir&type=xhttp&fp=ios#🇩🇪 Германия | viarvpn_free.t.me
+vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@31.12.75.21:2087?encryption=none&extra=null&mode=auto&security=tls&sni=ch-de.sdcards.ir&type=xhttp&fp=chrome#🇩🇪 Германия | viarvpn_free.t.me
+vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@31.12.75.21:2087?encryption=none&type=xhttp&security=tls&host=ch-de.sdcards.ir&path=%2F%3FTelegram-WangCai2&mode=auto&extra=null&sni=ch-de.sdcards.ir&fp=qq#🇩🇪 Германия | viarvpn_free.t.me
+vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@31.12.75.21:2087?mode=auto&path=%2F%3FTelegram-WangCai2&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ch-de.sdcards.ir&type=xhttp&allowInsecure=0&sni=ch-de.sdcards.ir&fp=edge#🇩🇪 Германия | viarvpn_free.t.me
+vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@31.12.75.21:2087?mode=auto&path=%2F%3FTelegram-WangCai2&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ch-de.sdcards.ir&type=xhttp&allowInsecure=0&sni=ch-de.sdcards.ir&fp=ios#🇩🇪 Германия | viarvpn_free.t.me
+vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@31.12.75.21:2087?mode=auto&path=%2F%3FTelegram-WangCai2&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ch-de.sdcards.ir&type=xhttp&allowInsecure=0&sni=ch-de.sdcards.ir&fp=qq#🇩🇪 Германия | viarvpn_free.t.me
+vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@31.12.75.21:2087?alpn=h2%2Chttp%2F1.1&encryption=none&mode=auto&security=tls&sni=ch-de.sdcards.ir&type=xhttp&fp=chrome#🇩🇪 Германия | viarvpn_free.t.me
+vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@31.12.75.21:2087?alpn=h2%2Chttp%2F1.1&encryption=none&mode=auto&security=tls&sni=ch-de.sdcards.ir&type=xhttp&fp=firefox#🇩🇪 Германия | viarvpn_free.t.me
 vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@31.12.75.21:2087?alpn=h2%2Chttp%2F1.1&encryption=none&mode=auto&security=tls&sni=ch-de.sdcards.ir&type=xhttp&fp=ios#🇩🇪 Германия | viarvpn_free.t.me
 vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@31.12.75.21:2087?alpn=h2%2Chttp%2F1.1&encryption=none&mode=auto&security=tls&sni=ch-de.sdcards.ir&type=xhttp&fp=qq#🇩🇪 Германия | viarvpn_free.t.me
-vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@31.12.75.21:2087?encryption=none&extra=null&host=ch-de.sdcards.ir&mode=auto&path=%2F%3FTelegram-WangCai2&security=tls&sni=ch-de.sdcards.ir&type=xhttp&fp=edge#🇩🇪 Германия | viarvpn_free.t.me
-vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@31.12.75.21:2087?encryption=none&extra=null&host=ch-de.sdcards.ir&mode=auto&path=%2F%3FTelegram-WangCai2&security=tls&sni=ch-de.sdcards.ir&type=xhttp&fp=firefox#🇩🇪 Германия | viarvpn_free.t.me
-vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@31.12.75.21:2087?encryption=none&extra=null&host=ch-de.sdcards.ir&mode=auto&path=%2F%3FTelegram-WangCai2&security=tls&sni=ch-de.sdcards.ir&type=xhttp&fp=ios#🇩🇪 Германия | viarvpn_free.t.me
-vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@31.12.75.21:2087?encryption=none&extra=null&host=ch-de.sdcards.ir&mode=auto&path=%2F%3FTelegram-WangCai2&security=tls&sni=ch-de.sdcards.ir&type=xhttp&fp=qq#🇩🇪 Германия | viarvpn_free.t.me
-vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@31.12.75.21:2087?encryption=none&extra=null&mode=auto&security=tls&sni=ch-de.sdcards.ir&type=xhttp&fp=android#🇩🇪 Германия | viarvpn_free.t.me
 vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@31.12.75.21:2087?encryption=none&extra=null&mode=auto&security=tls&sni=ch-de.sdcards.ir&type=xhttp&fp=firefox#🇩🇪 Германия | viarvpn_free.t.me
 vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@31.12.75.21:2087?encryption=none&extra=null&mode=auto&security=tls&sni=ch-de.sdcards.ir&type=xhttp&fp=ios#🇩🇪 Германия | viarvpn_free.t.me
 vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@31.12.75.21:2087?encryption=none&extra=null&path=%2F%3FTelegram-WangCai2&security=tls&sni=ch-de.sdcards.ir&type=xhttp&fp=chrome#🇩🇪 Германия | viarvpn_free.t.me
+vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@31.12.75.21:2087?encryption=none&extra=null&path=%2F%3FTelegram-WangCai2&security=tls&sni=ch-de.sdcards.ir&type=xhttp&fp=edge#🇩🇪 Германия | viarvpn_free.t.me
