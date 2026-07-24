@@ -1,8 +1,16 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
+vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?type=tcp&security=tls&path=%2F&sni=ai-6a607097.noooo.win&flow=xtls-rprx-vision&fp=qq#Other | viarvpn_free.t.me
+vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?type=tcp&security=tls&path=%2F&sni=ai-6a607097.noooo.win&flow=xtls-rprx-vision&fp=randomized#Other | viarvpn_free.t.me
+vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?type=tcp&security=tls&sni=ai-6a607097.noooo.win&flow=xtls-rprx-vision-udp443&fp=chrome#Other | viarvpn_free.t.me
+vless://2785ec98-581e-43c1-a8b6-0fe3671f34ef@92.38.139.69:58888?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5rarCwWIE6vDLCyip5C66PYDsm7ETZ9V4LQR34dfuGA&security=reality&sid=6ba85179e30d4fc2&sni=max.ru&type=tcp#Other | viarvpn_free.t.me
+vless://6f98a077-004e-4b86-8b78-8d09308d3868@66.90.90.13:8443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ai-6a607097.noooo.win&type=tcp&fp=ios#Other | viarvpn_free.t.me
+vless://6f98a077-004e-4b86-8b78-8d09308d3868@66.90.90.13:8443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=qq&security=tls&sni=ai-6a607097.noooo.win&type=raw#Other | viarvpn_free.t.me
+vless://6f98a077-004e-4b86-8b78-8d09308d3868@66.90.90.13:8443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=safari&security=tls&sni=ai-6a607097.noooo.win&type=raw#Other | viarvpn_free.t.me
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@66.90.90.13:8443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ai-6a607097.noooo.win&type=tcp&fp=edge#Other | viarvpn_free.t.me
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@66.90.90.13:8443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ai-6a607097.noooo.win&type=tcp&fp=firefox#Other | viarvpn_free.t.me
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@66.90.90.13:8443?alpn=h2&encryption=none&flow=xtls-rprx-vision-udp443&fp=safari&security=tls&sni=ai-6a607097.noooo.win&type=raw#Other | viarvpn_free.t.me
+vless://6f98a077-004e-4b86-8b78-8d09308d3868@66.90.90.13:8443?alpn=h2&encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=ai-6a607097.noooo.win&type=raw&fp=ios#Other | viarvpn_free.t.me
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@66.90.90.13:8443?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ai-6a607097.noooo.win&type=tcp#Other | viarvpn_free.t.me
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@66.90.90.13:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ai-6a607097.noooo.win&type=raw#Other | viarvpn_free.t.me
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@66.90.90.13:8443?encryption=none&flow=xtls-rprx-vision&fp=qq&security=tls&sni=ai-6a607097.noooo.win&type=raw#Other | viarvpn_free.t.me
@@ -10,15 +18,13 @@ vless://6f98a077-004e-4b86-8b78-8d09308d3868@66.90.90.13:8443?encryption=none&fl
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@66.90.90.13:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ai-6a607097.noooo.win&type=raw&fp=edge#Other | viarvpn_free.t.me
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@66.90.90.13:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ai-6a607097.noooo.win&type=raw&fp=safari#Other | viarvpn_free.t.me
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@66.90.90.13:8443?encryption=none&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls&sni=ai-6a607097.noooo.win&type=raw#Other | viarvpn_free.t.me
+vless://6f98a077-004e-4b86-8b78-8d09308d3868@66.90.90.13:8443?encryption=none&flow=xtls-rprx-vision-udp443&fp=safari&security=tls&sni=ai-6a607097.noooo.win&type=raw#Other | viarvpn_free.t.me
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@66.90.90.13:8443?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=ai-6a607097.noooo.win&type=raw&fp=ios#Other | viarvpn_free.t.me
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@66.90.90.13:8443?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=ai-6a607097.noooo.win&type=raw&fp=safari#Other | viarvpn_free.t.me
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@66.90.90.13:8443?flow=xtls-rprx-vision&security=tls&sni=ai-6a607097.noooo.win&alpn=h2&fp=randomized&type=tcp&headerType=none&host=yt.noooo.win&path=/#Other | viarvpn_free.t.me
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@66.90.90.13:8443?flow=xtls-rprx-vision&security=tls&sni=ai-6a607097.noooo.win&alpn=h2&type=tcp&headerType=none&host=yt.noooo.win&path=%2F&fp=firefox#Other | viarvpn_free.t.me
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@66.90.90.13:8443?flow=xtls-rprx-vision&security=tls&sni=ai-6a607097.noooo.win&alpn=h2&type=tcp&headerType=none&host=yt.noooo.win&path=%2F&fp=safari#Other | viarvpn_free.t.me
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@66.90.90.13:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=randomized&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443&sni=ai-6a607097.noooo.win#Other | viarvpn_free.t.me
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@66.90.90.13:8443?sni=ai-6a607097.noooo.win&alpn=h2&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#Other | viarvpn_free.t.me
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@66.90.90.13:8443?sni=ai-6a607097.noooo.win&alpn=h2&flow=xtls-rprx-vision-udp443&security=tls&fp=ios#Other | viarvpn_free.t.me
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@66.90.90.13:8443?type=raw&security=tls&encryption=none&sni=ai-6a607097.noooo.win&fp=chrome&flow=xtls-rprx-vision&headerType=none#Other | viarvpn_free.t.me
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@66.90.90.13:8443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=ios&sni=ai-6a607097.noooo.win#Other | viarvpn_free.t.me
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?security=tls&type=tcp&alpn=h2&sni=ai-6a607097.noooo.win&fp=randomized&flow=xtls-rprx-vision#Other | viarvpn_free.t.me
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?type=tcp&security=tls&sni=ai-6a607097.noooo.win&fp=randomized&flow=xtls-rprx-vision-udp443#Other | viarvpn_free.t.me
+vless://6f98a077-004e-4b86-8b78-8d09308d3868@66.90.90.13:8443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision-udp443&fp=randomized&sni=ai-6a607097.noooo.win#Other | viarvpn_free.t.me
