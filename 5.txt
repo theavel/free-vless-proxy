@@ -1,5 +1,4 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@ss.l90909l.vip:2096?mode=gun&security=reality&encryption=none&authority=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&allowinsecure=0&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com&fp=edge#🇨🇭 Швейцария | viarvpn_free.t.me
 vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@ss.l90909l.vip:2096?mode=gun&security=reality&encryption=none&authority=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&allowinsecure=0&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com&fp=ios#🇨🇭 Швейцария | viarvpn_free.t.me
 vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@ss.l90909l.vip:2096?mode=gun&security=reality&encryption=none&authority=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&allowinsecure=0&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com&fp=safari#🇨🇭 Швейцария | viarvpn_free.t.me
