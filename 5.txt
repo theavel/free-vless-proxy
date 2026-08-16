@@ -1,9 +1,11 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://b0ecfb88-7438-4aef-ae3b-7984917d45ed@80.90.188.160:21443?type=grpc&security=reality&fp=firefox&pbk=WF3RXrggPm9ILy5KS7-N9rfBi7d1rgZAkK4X2Owstlk&sni=5post-gate.x5.ru&serviceName=grpc#🇹🇷 Турция | viarvpn_free.t.me
 vless://d547e5fe-ebad-4574-8691-0f6844e6ed78@212.193.24.225:443?security=reality&encryption=none&sni=ya.ru&fp=firefox&pbk=Oo6WRP0tgvO-WVZSjCf5PDrPVJ-IoYwiilK9g3__8C4&sid=cba0dcfd9c4f36&flow=xtls-rprx-vision#🇧🇷 Бразилия | viarvpn_free.t.me
-vless://59525c39-e731-4c27-bc9e-6d8cef67572c@201.24.120.68:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#Other | viarvpn_free.t.me
-vless://6620ef58-9c62-43fe-9596-ff862b200958@200.165.228.47:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#Other | viarvpn_free.t.me
+vless://34a38f21-310e-4da5-b549-35076e16993c@polbridge1.frost-api.com:443?&security=reality&flow=xtls-rprx-vision&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&fp=chrome&sni=eh.vk.com&type=tcp&headerType=none&host=eh.vk.com&path=%2F#Other | viarvpn_free.t.me
+vless://34a38f21-310e-4da5-b549-35076e16993c@polbridge1.frost-api.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&type=tcp&headerType=none#Other | viarvpn_free.t.me
+vless://3b037295-b93f-4ed1-b3ee-0efb8bc2f093@201.24.119.141:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru&fp=edge#Other | viarvpn_free.t.me
+vless://3b037295-b93f-4ed1-b3ee-0efb8bc2f093@201.24.119.141:4100?fp=qq&host=live.ok.ru&path=%2Fv1&security=none&type=ws#Other | viarvpn_free.t.me
+vless://e3a625d4-5adb-463d-bbff-bbe06b8e2c5c@200.165.228.51:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru&fp=qq#Other | viarvpn_free.t.me
 vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@82.202.141.237:9894?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=GVNhQWxHlpnqLnhlOeFpagU1QLVVHBepBQN0YcPjXVg&sni=www.io.ozone.ru#Other | viarvpn_free.t.me
 vless://6688ef96-b385-48a6-9094-ed1a42b95066@89.223.120.19:60443?type=grpc&security=reality&fp=firefox&pbk=5BtG-6xnXEH_RC13TGj76k94qmJmPpMiYSjRqp6KWBw&sni=5post-gate.x5.ru&serviceName=grpc#Other | viarvpn_free.t.me
 vless://b0ecfb88-7438-4aef-ae3b-7984917d45ed@147.45.183.158:60443?type=grpc&security=reality&fp=firefox&pbk=5BtG-6xnXEH_RC13TGj76k94qmJmPpMiYSjRqp6KWBw&sni=5post-gate.x5.ru&serviceName=grpc#Other | viarvpn_free.t.me
