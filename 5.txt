@@ -1,19 +1,5 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://d8409007-ca8d-4d92-8da3-3720a762fa02@msk.v2raytun-proxy.app:2083?encryption=none&security=reality&sni=ads.x5.ru&pbk=-ljhp6OZ_8KudLYANB-6BD6XaLIS5RqWvFnYRXKrXms&sid=a7c236bb91557d48&type=grpc&mode=gun&authority=&serviceName=grpc&fp=qq#Other | viarvpn_free.t.me
-vless://746c4004-1d8f-4541-8e8a-533213d8a863@66.90.93.74:8449?encryption=none&path=%2Fapi%2Fv6%2Fconnect&security=tls&sni=gateway-v1.bosx.net&type=ws&fp=chrome#Other | viarvpn_free.t.me
-vless://746c4004-1d8f-4541-8e8a-533213d8a863@66.90.93.74:8449?encryption=none&path=%2Fapi%2Fv6%2Fconnect&security=tls&sni=gateway-v1.bosx.net&type=ws&fp=firefox#Other | viarvpn_free.t.me
-vless://746c4004-1d8f-4541-8e8a-533213d8a863@66.90.93.74:8449?encryption=none&path=%2Fapi%2Fv6%2Fconnect&security=tls&sni=gateway-v1.bosx.net&type=ws&fp=qq#Other | viarvpn_free.t.me
-vless://746c4004-1d8f-4541-8e8a-533213d8a863@66.90.93.74:8449?encryption=none&path=%2Fapi%2Fv6%2Fconnect&security=tls&sni=gateway-v1.bosx.net&type=ws&fp=safari#Other | viarvpn_free.t.me
-vless://746c4004-1d8f-4541-8e8a-533213d8a863@66.90.93.74:8449?type=ws&security=tls&encryption=none&sni=gateway-v1.bosx.net&path=%2Fapi%2Fv6%2Fconnect&alpn=http%2F1.1&fp=edge#Other | viarvpn_free.t.me
-vless://746c4004-1d8f-4541-8e8a-533213d8a863@66.90.93.74:8449?type=ws&security=tls&encryption=none&sni=gateway-v1.bosx.net&path=%2Fapi%2Fv6%2Fconnect&alpn=http%2F1.1&fp=firefox#Other | viarvpn_free.t.me
-vless://746c4004-1d8f-4541-8e8a-533213d8a863@66.90.93.74:8449?type=ws&security=tls&encryption=none&sni=gateway-v1.bosx.net&path=%2Fapi%2Fv6%2Fconnect&alpn=http%2F1.1&fp=ios#Other | viarvpn_free.t.me
-vless://746c4004-1d8f-4541-8e8a-533213d8a863@66.90.93.74:8449?type=ws&security=tls&encryption=none&sni=gateway-v1.bosx.net&path=%2Fapi%2Fv6%2Fconnect&alpn=http%2F1.1&fp=safari#Other | viarvpn_free.t.me
-vless://746c4004-1d8f-4541-8e8a-533213d8a863@66.90.93.74:8443?type=ws&security=tls&encryption=none&sni=gateway-v1.bosx.net&path=%2Fapi%2Fconnect&alpn=http%2F1.1&fp=firefox#Other | viarvpn_free.t.me
-vless://746c4004-1d8f-4541-8e8a-533213d8a863@66.90.93.74:8443?type=ws&security=tls&encryption=none&sni=gateway-v1.bosx.net&path=%2Fapi%2Fconnect&alpn=http%2F1.1&fp=ios#Other | viarvpn_free.t.me
-vless://8364e505-9c81-4d72-a66b-fde0182be26b@66.90.93.74:8443?alpn=http%2F1.1&encryption=none&path=%2Fapi%2Fconnect&security=tls&sni=gateway-v1.bosx.net&type=ws&fp=chrome#Other | viarvpn_free.t.me
-vless://8364e505-9c81-4d72-a66b-fde0182be26b@66.90.93.74:8443?alpn=http%2F1.1&encryption=none&path=%2Fapi%2Fconnect&security=tls&sni=gateway-v1.bosx.net&type=ws&fp=firefox#Other | viarvpn_free.t.me
-vless://8364e505-9c81-4d72-a66b-fde0182be26b@66.90.93.74:8443?alpn=http%2F1.1&encryption=none&path=%2Fapi%2Fconnect&security=tls&sni=gateway-v1.bosx.net&type=ws&fp=ios#Other | viarvpn_free.t.me
 vless://8364e505-9c81-4d72-a66b-fde0182be26b@66.90.93.74:8443?alpn=http%2F1.1&encryption=none&path=%2Fapi%2Fconnect&security=tls&sni=gateway-v1.bosx.net&type=ws&fp=qq#Other | viarvpn_free.t.me
 vless://8364e505-9c81-4d72-a66b-fde0182be26b@66.90.93.74:8443?alpn=http%2F1.1&encryption=none&path=%2Fapi%2Fconnect&security=tls&sni=gateway-v1.bosx.net&type=ws&fp=safari#Other | viarvpn_free.t.me
 vless://8364e505-9c81-4d72-a66b-fde0182be26b@66.90.93.74:8443?encryption=none&path=%2Fapi%2Fconnect&security=tls&sni=gateway-v1.bosx.net&type=ws&fp=firefox#Other | viarvpn_free.t.me
@@ -21,4 +7,10 @@ vless://8364e505-9c81-4d72-a66b-fde0182be26b@66.90.93.74:8443?encryption=none&pa
 vless://8364e505-9c81-4d72-a66b-fde0182be26b@66.90.93.74:8443?encryption=none&path=%2Fapi%2Fconnect&security=tls&sni=gateway-v1.bosx.net&type=ws&fp=qq#Other | viarvpn_free.t.me
 vless://8364e505-9c81-4d72-a66b-fde0182be26b@66.90.93.74:8443?encryption=none&path=%2Fapi%2Fconnect&security=tls&sni=gateway-v1.bosx.net&type=ws&fp=safari#Other | viarvpn_free.t.me
 vless://746c4004-1d8f-4541-8e8a-533213d8a863@66.90.93.74:8443?type=ws&security=tls&encryption=none&sni=gateway-v1.bosx.net&path=%2Fapi%2Fconnect&alpn=http%2F1.1&fp=edge#Other | viarvpn_free.t.me
+vless://746c4004-1d8f-4541-8e8a-533213d8a863@66.90.93.74:8443?type=ws&security=tls&encryption=none&sni=gateway-v1.bosx.net&path=%2Fapi%2Fconnect&alpn=http%2F1.1&fp=ios#Other | viarvpn_free.t.me
 vless://746c4004-1d8f-4541-8e8a-533213d8a863@66.90.93.74:8443?type=ws&security=tls&encryption=none&sni=gateway-v1.bosx.net&path=%2Fapi%2Fconnect&alpn=http%2F1.1&fp=qq#Other | viarvpn_free.t.me
+vless://746c4004-1d8f-4541-8e8a-533213d8a863@66.90.93.74:8449?encryption=none&path=%2Fapi%2Fv6%2Fconnect&security=tls&sni=gateway-v1.bosx.net&type=ws&fp=chrome#Other | viarvpn_free.t.me
+vless://746c4004-1d8f-4541-8e8a-533213d8a863@66.90.93.74:8449?encryption=none&path=%2Fapi%2Fv6%2Fconnect&security=tls&sni=gateway-v1.bosx.net&type=ws&fp=safari#Other | viarvpn_free.t.me
+vless://746c4004-1d8f-4541-8e8a-533213d8a863@66.90.93.74:8449?type=ws&security=tls&encryption=none&sni=gateway-v1.bosx.net&path=%2Fapi%2Fv6%2Fconnect&alpn=http%2F1.1&fp=edge#Other | viarvpn_free.t.me
+vless://746c4004-1d8f-4541-8e8a-533213d8a863@66.90.93.74:8449?type=ws&security=tls&encryption=none&sni=gateway-v1.bosx.net&path=%2Fapi%2Fv6%2Fconnect&alpn=http%2F1.1&fp=ios#Other | viarvpn_free.t.me
+vless://746c4004-1d8f-4541-8e8a-533213d8a863@66.90.93.74:8449?type=ws&security=tls&encryption=none&sni=gateway-v1.bosx.net&path=%2Fapi%2Fv6%2Fconnect&alpn=http%2F1.1&fp=safari#Other | viarvpn_free.t.me
