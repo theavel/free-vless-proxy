@@ -1,7 +1,6 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://c90858de-68c4-4432-9b81-54933345c932@4k.represso.lol:14443?encryption=none&type=ws&security=tls&sni=4k.represso.lol&path=%2Frw&host=4k.represso.lol&fp=android#🇱🇹 Литва | viarvpn_free.t.me
-vless://c90858de-68c4-4432-9b81-54933345c932@4k.represso.lol:14443?encryption=none&type=ws&security=tls&sni=4k.represso.lol&path=%2Frw&host=4k.represso.lol&fp=chrome#🇱🇹 Литва | viarvpn_free.t.me
-vless://c90858de-68c4-4432-9b81-54933345c932@4k.represso.lol:14443?encryption=none&type=ws&security=tls&sni=4k.represso.lol&path=%2Frw&host=4k.represso.lol&fp=firefox#🇱🇹 Литва | viarvpn_free.t.me
-vless://c90858de-68c4-4432-9b81-54933345c932@4k.represso.lol:14443?encryption=none&type=ws&security=tls&sni=4k.represso.lol&path=%2Frw&host=4k.represso.lol&fp=ios#🇱🇹 Литва | viarvpn_free.t.me
-vless://c90858de-68c4-4432-9b81-54933345c932@4k.represso.lol:14443?encryption=none&type=ws&security=tls&sni=4k.represso.lol&path=%2Frw&host=4k.represso.lol&fp=safari#🇱🇹 Литва | viarvpn_free.t.me
+vless://6bdd905e-78d6-4ed2-8dcd-d006e5cc1c70@77.95.203.224:443?encryption=none&flow=xtls-rprx-vision&pbk=x_Xq88pDWx7xLRYLUiSF0KrH7nPyt_Fy0w-E70dTr3A&security=reality&sid=d4dbb62d53cd16ec&sni=foodnetwork.com&type=tcp&fp=chrome#Other | viarvpn_free.t.me
+vless://6bdd905e-78d6-4ed2-8dcd-d006e5cc1c70@77.95.203.224:443?encryption=none&flow=xtls-rprx-vision&pbk=x_Xq88pDWx7xLRYLUiSF0KrH7nPyt_Fy0w-E70dTr3A&security=reality&sid=d4dbb62d53cd16ec&sni=foodnetwork.com&type=tcp&fp=edge#Other | viarvpn_free.t.me
+vless://6bdd905e-78d6-4ed2-8dcd-d006e5cc1c70@77.95.203.224:443?encryption=none&flow=xtls-rprx-vision&pbk=x_Xq88pDWx7xLRYLUiSF0KrH7nPyt_Fy0w-E70dTr3A&security=reality&sid=d4dbb62d53cd16ec&sni=foodnetwork.com&type=tcp&fp=firefox#Other | viarvpn_free.t.me
+vless://6bdd905e-78d6-4ed2-8dcd-d006e5cc1c70@77.95.203.224:443?encryption=none&flow=xtls-rprx-vision&pbk=x_Xq88pDWx7xLRYLUiSF0KrH7nPyt_Fy0w-E70dTr3A&security=reality&sid=d4dbb62d53cd16ec&sni=foodnetwork.com&type=tcp&fp=safari#Other | viarvpn_free.t.me
