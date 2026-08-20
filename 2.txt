@@ -1,12 +1,13 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://22419260-5475-49d8-a29c-01905c54d1b8@89.19.223.136:443?encryption=none&type=tcp&security=none&fp=ios#🇷🇺 Россия | viarvpn_free.t.me
-vless://22419260-5475-49d8-a29c-01905c54d1b8@89.19.223.136:443?encryption=none&type=tcp&security=none&fp=android#🇷🇺 Россия | viarvpn_free.t.me
-vless://22419260-5475-49d8-a29c-01905c54d1b8@89.19.223.136:443?encryption=none&type=tcp&security=none&fp=chrome#🇷🇺 Россия | viarvpn_free.t.me
-vless://22419260-5475-49d8-a29c-01905c54d1b8@89.19.223.136:443?encryption=none&type=tcp&security=none&fp=edge#🇷🇺 Россия | viarvpn_free.t.me
-vless://22419260-5475-49d8-a29c-01905c54d1b8@89.19.223.136:443?encryption=none&type=tcp&security=none&fp=firefox#🇷🇺 Россия | viarvpn_free.t.me
-vless://423b1d79-08c4-0003-9d5e-c541f791b55f@138.124.255.236:443?type=tcp&security=reality&sni=russia.cendora.ru&pbk=ZXi0bwZwOe9e5CMticA2-bU7qamHgs_sN-2kHygbDyk&sid=e91da98020a38be9&encryption=none&flow=xtls-rprx-vision&fp=chrome#🇩🇪 Германия | viarvpn_free.t.me
-vless://423b1d79-08c4-0003-9d5e-c541f791b55f@138.124.255.236:443?type=tcp&security=reality&sni=russia.cendora.ru&pbk=ZXi0bwZwOe9e5CMticA2-bU7qamHgs_sN-2kHygbDyk&sid=e91da98020a38be9&encryption=none&flow=xtls-rprx-vision&fp=android#🇩🇪 Германия | viarvpn_free.t.me
-vless://423b1d79-08c4-0003-9d5e-c541f791b55f@138.124.255.236:443?type=tcp&security=reality&sni=russia.cendora.ru&pbk=ZXi0bwZwOe9e5CMticA2-bU7qamHgs_sN-2kHygbDyk&sid=e91da98020a38be9&encryption=none&flow=xtls-rprx-vision&fp=edge#🇩🇪 Германия | viarvpn_free.t.me
+vless://22419260-5475-49d8-a29c-01905c54d1b8@89.19.223.136:443?encryption=none&security=none&fp=safari#🇷🇺 Россия | viarvpn_free.t.me
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.246.204:2027?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=dc8109baf0f607ea&sni=storage.yandex.net&type=raw&fp=android#🇩🇪 Германия | viarvpn_free.t.me
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.246.204:2027?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=dc8109baf0f607ea&sni=storage.yandex.net&type=raw&fp=chrome#🇩🇪 Германия | viarvpn_free.t.me
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.246.204:2027?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=dc8109baf0f607ea&sni=storage.yandex.net&type=raw&fp=firefox#🇩🇪 Германия | viarvpn_free.t.me
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.246.204:2027?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=dc8109baf0f607ea&sni=storage.yandex.net&type=raw&fp=qq#🇩🇪 Германия | viarvpn_free.t.me
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.246.204:2027?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=dc8109baf0f607ea&sni=storage.yandex.net&type=raw&fp=safari#🇩🇪 Германия | viarvpn_free.t.me
 vless://423b1d79-08c4-0003-9d5e-c541f791b55f@138.124.255.236:443?type=tcp&security=reality&sni=russia.cendora.ru&pbk=ZXi0bwZwOe9e5CMticA2-bU7qamHgs_sN-2kHygbDyk&sid=e91da98020a38be9&encryption=none&flow=xtls-rprx-vision&fp=firefox#🇩🇪 Германия | viarvpn_free.t.me
 vless://423b1d79-08c4-0003-9d5e-c541f791b55f@138.124.255.236:443?type=tcp&security=reality&sni=russia.cendora.ru&pbk=ZXi0bwZwOe9e5CMticA2-bU7qamHgs_sN-2kHygbDyk&sid=e91da98020a38be9&encryption=none&flow=xtls-rprx-vision&fp=qq#🇩🇪 Германия | viarvpn_free.t.me
+vless://423b1d79-08c4-0003-9d5e-c541f791b55f@138.124.255.236:443?type=tcp&security=reality&sni=russia.cendora.ru&pbk=ZXi0bwZwOe9e5CMticA2-bU7qamHgs_sN-2kHygbDyk&sid=e91da98020a38be9&encryption=none&flow=xtls-rprx-vision&fp=chrome#🇩🇪 Германия | viarvpn_free.t.me
+vless://423b1d79-08c4-0003-9d5e-c541f791b55f@138.124.255.236:443?type=tcp&security=reality&sni=russia.cendora.ru&pbk=ZXi0bwZwOe9e5CMticA2-bU7qamHgs_sN-2kHygbDyk&sid=e91da98020a38be9&encryption=none&flow=xtls-rprx-vision&fp=edge#🇩🇪 Германия | viarvpn_free.t.me
+vless://423b1d79-08c4-0003-9d5e-c541f791b55f@138.124.255.236:443?type=tcp&security=reality&sni=russia.cendora.ru&pbk=ZXi0bwZwOe9e5CMticA2-bU7qamHgs_sN-2kHygbDyk&sid=e91da98020a38be9&encryption=none&flow=xtls-rprx-vision&fp=ios#🇩🇪 Германия | viarvpn_free.t.me
