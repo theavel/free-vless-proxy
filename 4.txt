@@ -1,15 +1,12 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9002?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc&fp=safari#Other | viarvpn_free.t.me
-vless://9e27f64b-7ae9-461b-b4c4-99696276633b@de3.voronvpn.com:443?security=reality&encryption=none&sni=storage.yandexcloud.net&pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&sid=54861d36&flow=xtls-rprx-vision&fp=android#Other | viarvpn_free.t.me
-vless://9e27f64b-7ae9-461b-b4c4-99696276633b@de3.voronvpn.com:443?security=reality&encryption=none&sni=storage.yandexcloud.net&pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&sid=54861d36&flow=xtls-rprx-vision&fp=chrome#Other | viarvpn_free.t.me
-vless://9e27f64b-7ae9-461b-b4c4-99696276633b@de3.voronvpn.com:443?security=reality&encryption=none&sni=storage.yandexcloud.net&pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&sid=54861d36&flow=xtls-rprx-vision&fp=edge#Other | viarvpn_free.t.me
-vless://9e27f64b-7ae9-461b-b4c4-99696276633b@de3.voronvpn.com:443?security=reality&encryption=none&sni=storage.yandexcloud.net&pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&sid=54861d36&flow=xtls-rprx-vision&fp=firefox#Other | viarvpn_free.t.me
-vless://9e27f64b-7ae9-461b-b4c4-99696276633b@de3.voronvpn.com:443?security=reality&encryption=none&sni=storage.yandexcloud.net&pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&sid=54861d36&flow=xtls-rprx-vision&fp=ios#Other | viarvpn_free.t.me
-vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.34.137.15:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru&fp=chrome#Other | viarvpn_free.t.me
-vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.34.137.15:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru&fp=edge#Other | viarvpn_free.t.me
-vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.34.137.15:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru&fp=firefox#Other | viarvpn_free.t.me
-vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.34.137.15:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru&fp=ios#Other | viarvpn_free.t.me
-vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.34.137.15:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru&fp=qq#Other | viarvpn_free.t.me
-vless://b9fa61b2-2049-4e17-bc96-e99c07871afd@msk-5.self-kvn.org:443?type=tcp&security=reality&sni=fomin-clinic.ru&pbk=Y7iH7q2MbNJyGAdTUfX4wFnxgh0dbuyFDI9Z20ABPjE&sid=79fdde3912083809&encryption=none&flow=xtls-rprx-vision&fp=android#Other | viarvpn_free.t.me
-vless://b9fa61b2-2049-4e17-bc96-e99c07871afd@msk-5.self-kvn.org:443?type=tcp&security=reality&sni=fomin-clinic.ru&pbk=Y7iH7q2MbNJyGAdTUfX4wFnxgh0dbuyFDI9Z20ABPjE&sid=79fdde3912083809&encryption=none&flow=xtls-rprx-vision&fp=firefox#Other | viarvpn_free.t.me
+vless://9e27f64b-7ae9-461b-b4c4-99696276633b@de3.voronvpn.com:443?pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&sid=54861d36&sni=storage.yandexcloud.net&headerType=none&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&fp=android#Other | viarvpn_free.t.me
+vless://9e27f64b-7ae9-461b-b4c4-99696276633b@de3.voronvpn.com:443?pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&sid=54861d36&sni=storage.yandexcloud.net&headerType=none&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&fp=chrome#Other | viarvpn_free.t.me
+vless://9e27f64b-7ae9-461b-b4c4-99696276633b@de3.voronvpn.com:443?pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&sid=54861d36&sni=storage.yandexcloud.net&headerType=none&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&fp=edge#Other | viarvpn_free.t.me
+vless://9e27f64b-7ae9-461b-b4c4-99696276633b@de3.voronvpn.com:443?pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&sid=54861d36&sni=storage.yandexcloud.net&headerType=none&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&fp=firefox#Other | viarvpn_free.t.me
+vless://9e27f64b-7ae9-461b-b4c4-99696276633b@de3.voronvpn.com:443?pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&sid=54861d36&sni=storage.yandexcloud.net&headerType=none&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&fp=ios#Other | viarvpn_free.t.me
+vless://6620ef58-9c62-43fe-9596-ff862b200958@200.165.228.47:4100?host=live.ok.ru&path=%2Fv1&security=none&type=ws&fp=android#Other | viarvpn_free.t.me
+vless://6620ef58-9c62-43fe-9596-ff862b200958@200.165.228.47:4100?host=live.ok.ru&path=%2Fv1&security=none&type=ws&fp=edge#Other | viarvpn_free.t.me
+vless://6620ef58-9c62-43fe-9596-ff862b200958@200.165.228.47:4100?host=live.ok.ru&path=%2Fv1&security=none&type=ws&fp=ios#Other | viarvpn_free.t.me
+vless://6620ef58-9c62-43fe-9596-ff862b200958@200.165.228.47:4100?host=live.ok.ru&path=%2Fv1&security=none&type=ws&fp=qq#Other | viarvpn_free.t.me
+vless://6620ef58-9c62-43fe-9596-ff862b200958@200.165.228.47:4100?host=live.ok.ru&path=%2Fv1&security=none&type=ws&fp=safari#Other | viarvpn_free.t.me
