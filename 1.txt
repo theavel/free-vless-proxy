@@ -1,5 +1,5 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://0129534e-6fb9-456a-bf63-e099dc141b15@176.119.159.185:443?type=tcp&headerType=none&security=none&encryption=none#🇷🇺 Россия | viarvpn_free.t.me
-vless://bf2d76c7-5a78-4d97-87e0-525775b79635@vrusl-e.mvpstr.com:8443?type=tcp&security=reality&sni=eda.x5.ru&pbk=1Ju_BituY9wFjl7Iv5Jbbh9fwtr8MPH215LWSWVLHhE&sid=8dad4f13199305c8&encryption=none&flow=xtls-rprx-vision&fp=ios#🇷🇺 Россия | viarvpn_free.t.me
-vless://bf2d76c7-5a78-4d97-87e0-525775b79635@185.91.54.143:8443?encryption=none&flow=xtls-rprx-vision&pbk=1Ju_BituY9wFjl7Iv5Jbbh9fwtr8MPH215LWSWVLHhE&security=reality&sid=8dad4f13199305c8&sni=eda.x5.ru&type=raw&fp=android#🇷🇺 Россия | viarvpn_free.t.me
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9001?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc&fp=chrome#🇷🇺 Россия | viarvpn_free.t.me
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9001?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc&fp=edge#🇷🇺 Россия | viarvpn_free.t.me
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9001?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc&fp=firefox#🇷🇺 Россия | viarvpn_free.t.me

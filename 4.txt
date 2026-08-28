@@ -1,4 +1,5 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://bf2d76c7-5a78-4d97-87e0-525775b79635@vrusl-e.mvpstr.com:8443?type=tcp&security=reality&sni=eda.x5.ru&pbk=1Ju_BituY9wFjl7Iv5Jbbh9fwtr8MPH215LWSWVLHhE&sid=8dad4f13199305c8&encryption=none&flow=xtls-rprx-vision&fp=firefox#🇷🇺 Россия | viarvpn_free.t.me
-vless://bf2d76c7-5a78-4d97-87e0-525775b79635@vrusl-e.mvpstr.com:8443?type=tcp&security=reality&sni=eda.x5.ru&pbk=1Ju_BituY9wFjl7Iv5Jbbh9fwtr8MPH215LWSWVLHhE&sid=8dad4f13199305c8&encryption=none&flow=xtls-rprx-vision&fp=qq#🇷🇺 Россия | viarvpn_free.t.me
+vless://9b5d2c22-b904-47cd-8a04-100e60d5d81b@91.185.83.113:443?encryption=none&security=tls&type=grpc&sni=fl.cloud-s3.xyz&alpn=h2&serviceName=vlgrpc&mode=gun&fp=firefox#🇫🇮 Финляндия | viarvpn_free.t.me
+vless://9b5d2c22-b904-47cd-8a04-100e60d5d81b@91.185.83.113:443?encryption=none&security=tls&type=grpc&sni=fl.cloud-s3.xyz&alpn=h2&serviceName=vlgrpc&mode=gun&fp=qq#🇫🇮 Финляндия | viarvpn_free.t.me
+vless://9b5d2c22-b904-47cd-8a04-100e60d5d81b@91.185.83.113:443?encryption=none&security=tls&type=grpc&sni=fl.cloud-s3.xyz&alpn=h2&serviceName=vlgrpc&mode=gun&fp=safari#🇫🇮 Финляндия | viarvpn_free.t.me

@@ -1,5 +1,5 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://bf2d76c7-5a78-4d97-87e0-525775b79635@185.91.54.143:8443?encryption=none&flow=xtls-rprx-vision&pbk=1Ju_BituY9wFjl7Iv5Jbbh9fwtr8MPH215LWSWVLHhE&security=reality&sid=8dad4f13199305c8&sni=eda.x5.ru&type=raw&fp=safari#🇷🇺 Россия | viarvpn_free.t.me
-vless://bf2d76c7-5a78-4d97-87e0-525775b79635@vrusl-e.mvpstr.com:8443?type=tcp&security=reality&sni=eda.x5.ru&pbk=1Ju_BituY9wFjl7Iv5Jbbh9fwtr8MPH215LWSWVLHhE&sid=8dad4f13199305c8&encryption=none&flow=xtls-rprx-vision&fp=chrome#🇷🇺 Россия | viarvpn_free.t.me
-vless://bf2d76c7-5a78-4d97-87e0-525775b79635@vrusl-e.mvpstr.com:8443?type=tcp&security=reality&sni=eda.x5.ru&pbk=1Ju_BituY9wFjl7Iv5Jbbh9fwtr8MPH215LWSWVLHhE&sid=8dad4f13199305c8&encryption=none&flow=xtls-rprx-vision&fp=edge#🇷🇺 Россия | viarvpn_free.t.me
+vless://d0dc4548-3dad-451d-91e2-935097099f13@46.8.208.55:443?type=tcp#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://9b5d2c22-b904-47cd-8a04-100e60d5d81b@91.185.83.113:443?encryption=none&security=tls&type=grpc&sni=fl.cloud-s3.xyz&alpn=h2&serviceName=vlgrpc&mode=gun&fp=android#🇫🇮 Финляндия | viarvpn_free.t.me
+vless://9b5d2c22-b904-47cd-8a04-100e60d5d81b@91.185.83.113:443?encryption=none&security=tls&type=grpc&sni=fl.cloud-s3.xyz&alpn=h2&serviceName=vlgrpc&mode=gun&fp=edge#🇫🇮 Финляндия | viarvpn_free.t.me
