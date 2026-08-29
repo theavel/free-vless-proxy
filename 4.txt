@@ -1,5 +1,7 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://9b5d2c22-b904-47cd-8a04-100e60d5d81b@91.185.83.113:443?encryption=none&security=tls&type=grpc&sni=fl.cloud-s3.xyz&alpn=h2&serviceName=vlgrpc&mode=gun&fp=firefox#🇫🇮 Финляндия | viarvpn_free.t.me
-vless://9b5d2c22-b904-47cd-8a04-100e60d5d81b@91.185.83.113:443?encryption=none&security=tls&type=grpc&sni=fl.cloud-s3.xyz&alpn=h2&serviceName=vlgrpc&mode=gun&fp=qq#🇫🇮 Финляндия | viarvpn_free.t.me
-vless://9b5d2c22-b904-47cd-8a04-100e60d5d81b@91.185.83.113:443?encryption=none&security=tls&type=grpc&sni=fl.cloud-s3.xyz&alpn=h2&serviceName=vlgrpc&mode=gun&fp=safari#🇫🇮 Финляндия | viarvpn_free.t.me
+vless://b9bcc3f6-389d-41b1-a673-4596fbf120e8@45.144.176.39:443?mode=gun&security=reality&encryption=none&authority=id.pervye.ru&pbk=xEShpzw3ELhAha1ilVBZdkfgxtRMxZmP8Ji_Y3FZSX0&type=grpc&serviceName=nss&sni=id.pervye.ru&fp=firefox#🇷🇺 Россия | viarvpn_free.t.me
+vless://b9bcc3f6-389d-41b1-a673-4596fbf120e8@45.144.176.39:443?mode=gun&security=reality&encryption=none&authority=id.pervye.ru&pbk=xEShpzw3ELhAha1ilVBZdkfgxtRMxZmP8Ji_Y3FZSX0&type=grpc&serviceName=nss&sni=id.pervye.ru&fp=safari#🇷🇺 Россия | viarvpn_free.t.me
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9002?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sni=api-maps.yandex.ru&type=grpc&fp=android#🇧🇬 Болгария | viarvpn_free.t.me
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9002?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sni=api-maps.yandex.ru&type=grpc&fp=chrome#🇧🇬 Болгария | viarvpn_free.t.me
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9002?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sni=api-maps.yandex.ru&type=grpc&fp=firefox#🇧🇬 Болгария | viarvpn_free.t.me

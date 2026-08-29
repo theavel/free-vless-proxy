@@ -1,3 +1,5 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://2e228435-33a0-47d1-a1d8-9a34b5a03c45@201.24.49.117:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#Other | viarvpn_free.t.me
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9002?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sni=api-maps.yandex.ru&type=grpc&fp=qq#🇧🇬 Болгария | viarvpn_free.t.me
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9002?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sni=api-maps.yandex.ru&type=grpc&fp=safari#🇧🇬 Болгария | viarvpn_free.t.me
+vless://aa7d939b-feaa-4ad3-9615-74216f490807@201.24.49.233:4100?path=%2Fv1&sni=live.ok.ru&type=ws#Other | viarvpn_free.t.me
