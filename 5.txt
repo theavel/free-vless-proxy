@@ -1,5 +1,11 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9002?security=reality&sni=api-maps.yandex.ru&type=grpc&serviceName=grpc-reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=ios#🇧🇬 Болгария | viarvpn_free.t.me
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9002?security=reality&sni=api-maps.yandex.ru&type=grpc&serviceName=grpc-reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=qq#🇧🇬 Болгария | viarvpn_free.t.me
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9002?security=reality&sni=api-maps.yandex.ru&type=grpc&serviceName=grpc-reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=safari#🇧🇬 Болгария | viarvpn_free.t.me
+vless://2dfd0db2-cd4e-4c09-97fc-67c3d8ee9409@178.250.240.108:443?type=raw&security=tls&flow=xtls-rprx-vision&sni=edge-ru1.vpn.partners&encryption=none&fp=firefox#🇱🇹 Литва | viarvpn_free.t.me
+vless://2dfd0db2-cd4e-4c09-97fc-67c3d8ee9409@178.250.240.108:443?type=raw&security=tls&flow=xtls-rprx-vision&sni=edge-ru1.vpn.partners&encryption=none&fp=qq#🇱🇹 Литва | viarvpn_free.t.me
+vless://2dfd0db2-cd4e-4c09-97fc-67c3d8ee9409@178.250.240.108:443?type=raw&security=tls&flow=xtls-rprx-vision&sni=edge-ru1.vpn.partners&encryption=none&fp=safari#🇱🇹 Литва | viarvpn_free.t.me
+vless://f84579d4-3031-47ac-9536-c67d196fb0a3@80.90.188.160:4100?type=ws&security=none&path=/v1#Other | viarvpn_free.t.me
+vless://Fluffy_VPN-zKZUa4Ie@72.56.38.83:443?security=reality&encryption=none&pbk=ZzIetLcQtENjIXQ9XZqFo8p3J81p8Emj0wi51Uy07n8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=absolute-disaster.org&fp=android#Other | viarvpn_free.t.me
+vless://Fluffy_VPN-zKZUa4Ie@72.56.38.83:443?security=reality&encryption=none&pbk=ZzIetLcQtENjIXQ9XZqFo8p3J81p8Emj0wi51Uy07n8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=absolute-disaster.org&fp=edge#Other | viarvpn_free.t.me
+vless://Fluffy_VPN-zKZUa4Ie@72.56.38.83:443?security=reality&encryption=none&pbk=ZzIetLcQtENjIXQ9XZqFo8p3J81p8Emj0wi51Uy07n8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=absolute-disaster.org&fp=firefox#Other | viarvpn_free.t.me
+vless://Fluffy_VPN-zKZUa4Ie@72.56.38.83:443?security=reality&encryption=none&pbk=ZzIetLcQtENjIXQ9XZqFo8p3J81p8Emj0wi51Uy07n8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=absolute-disaster.org&fp=ios#Other | viarvpn_free.t.me
+vless://Fluffy_VPN-zKZUa4Ie@72.56.38.83:443?security=reality&encryption=none&pbk=ZzIetLcQtENjIXQ9XZqFo8p3J81p8Emj0wi51Uy07n8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=absolute-disaster.org&fp=qq#Other | viarvpn_free.t.me
