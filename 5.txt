@@ -1,5 +1,4 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9001?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc&fp=random#🇷🇺 Россия | viarvpn_free.t.me
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9001?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc&fp=safari#🇷🇺 Россия | viarvpn_free.t.me
-vless://f84579d4-3031-47ac-9536-c67d196fb0a3@80.90.188.160:4100?type=ws&security=none&path=/v1#🇷🇺 Россия | viarvpn_free.t.me
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9002?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sni=api-maps.yandex.ru&type=grpc&fp=qq#🇧🇬 Болгария | viarvpn_free.t.me
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9002?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sni=api-maps.yandex.ru&type=grpc&fp=safari#🇧🇬 Болгария | viarvpn_free.t.me
