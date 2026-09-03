@@ -1,6 +1,4 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11444?encryption=none&type=grpc&security=reality&sni=mageia.ubuntuhosting.host&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&sid=d05e7ab9872797f4&serviceName=gun&fp=android#🇫🇷 Франция | viarvpn_free.t.me
-vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11444?encryption=none&type=grpc&security=reality&sni=mageia.ubuntuhosting.host&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&sid=d05e7ab9872797f4&serviceName=gun&fp=chrome#🇫🇷 Франция | viarvpn_free.t.me
-vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11444?encryption=none&type=grpc&security=reality&sni=mageia.ubuntuhosting.host&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&sid=d05e7ab9872797f4&serviceName=gun&fp=edge#🇫🇷 Франция | viarvpn_free.t.me
-vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11444?encryption=none&type=grpc&security=reality&sni=mageia.ubuntuhosting.host&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&sid=d05e7ab9872797f4&serviceName=gun&fp=qq#🇫🇷 Франция | viarvpn_free.t.me
+vless://f6392eed-95f4-4207-8d84-e7f0cf2d1102@185.91.52.152:443?type=grpc&headerType=none&security=reality&encryption=none&sni=music.yandex.ru&pbk=zrbrFoqiFTkSp6y9ACC2Wl6TtZo9uC0M8lAanIISagI&sid=c2276b15afea&spx=%2F&fp=ios#Other | viarvpn_free.t.me
+vless://f6392eed-95f4-4207-8d84-e7f0cf2d1102@185.91.52.152:443?type=grpc&headerType=none&security=reality&encryption=none&sni=music.yandex.ru&pbk=zrbrFoqiFTkSp6y9ACC2Wl6TtZo9uC0M8lAanIISagI&sid=c2276b15afea&spx=%2F&fp=qq#Other | viarvpn_free.t.me
