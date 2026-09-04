@@ -1,4 +1,8 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
+vless://5f922903-69b5-4d99-924d-52ca6337741e@46.8.208.29:443?encryption=none&mode=gun&pbk=HHZwsut0m8Z4tTCbU0QdnbyfQMQfk8XuEbBO0wFObis&security=reality&serviceName=UpdateService&sid=7765b2a4cef1033e&sni=cdn.okko.tv&type=grpc&fp=chrome#🇩🇪 Германия | viarvpn_free.t.me
+vless://5f922903-69b5-4d99-924d-52ca6337741e@46.8.208.29:443?encryption=none&mode=gun&pbk=HHZwsut0m8Z4tTCbU0QdnbyfQMQfk8XuEbBO0wFObis&security=reality&serviceName=UpdateService&sid=7765b2a4cef1033e&sni=cdn.okko.tv&type=grpc&fp=edge#🇩🇪 Германия | viarvpn_free.t.me
+vless://5f922903-69b5-4d99-924d-52ca6337741e@46.8.208.29:443?encryption=none&mode=gun&pbk=HHZwsut0m8Z4tTCbU0QdnbyfQMQfk8XuEbBO0wFObis&security=reality&serviceName=UpdateService&sid=7765b2a4cef1033e&sni=cdn.okko.tv&type=grpc&fp=ios#🇩🇪 Германия | viarvpn_free.t.me
+vless://5f922903-69b5-4d99-924d-52ca6337741e@46.8.208.29:443?encryption=none&mode=gun&pbk=HHZwsut0m8Z4tTCbU0QdnbyfQMQfk8XuEbBO0wFObis&security=reality&serviceName=UpdateService&sid=7765b2a4cef1033e&sni=cdn.okko.tv&type=grpc&fp=safari#🇩🇪 Германия | viarvpn_free.t.me
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@94.241.143.161:9871?encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc&fp=chrome#🇩🇪 Германия | viarvpn_free.t.me
 vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@94.241.143.161:9871?encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc&fp=edge#🇩🇪 Германия | viarvpn_free.t.me
-vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@94.241.143.161:9871?encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc&fp=firefox#🇩🇪 Германия | viarvpn_free.t.me
