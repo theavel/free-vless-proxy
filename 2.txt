@@ -1,6 +1,4 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://39d927a4-b8c7-4dc7-91f1-8b2e05d8b6b6@78.159.240.41:443?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=safari#🇩🇪 Германия | viarvpn_free.t.me
-vless://39d927a4-b8c7-4dc7-91f1-8b2e05d8b6b6@91.107.122.141:443?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=chrome#🇩🇪 Германия | viarvpn_free.t.me
-vless://39d927a4-b8c7-4dc7-91f1-8b2e05d8b6b6@91.107.122.141:443?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=firefox#🇩🇪 Германия | viarvpn_free.t.me
-vless://39d927a4-b8c7-4dc7-91f1-8b2e05d8b6b6@91.107.122.141:443?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=ios#🇩🇪 Германия | viarvpn_free.t.me
+vless://5a92a9d2-3067-49cd-bfc5-989bbdfc5d52@171.22.119.11:443?encryption=none&flow=xtls-rprx-vision&pbk=-6SjfnZXAYm69euKQ3XNhq0nC7No7YE4qfdc2qx0Xwo&security=reality&sid=a1b2c3d4&sni=special.aeternavpn.space&type=tcp&fp=ios#🇩🇪 Германия | viarvpn_free.t.me
+vless://5a92a9d2-3067-49cd-bfc5-989bbdfc5d52@171.22.119.11:443?encryption=none&flow=xtls-rprx-vision&pbk=-6SjfnZXAYm69euKQ3XNhq0nC7No7YE4qfdc2qx0Xwo&security=reality&sid=a1b2c3d4&sni=special.aeternavpn.space&type=tcp&fp=qq#🇩🇪 Германия | viarvpn_free.t.me
