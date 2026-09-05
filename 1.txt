@@ -1,4 +1,10 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://fb67fd37-8d41-43a9-a093-c0b807fc5299@pr-media.pepro.site:14443?type=ws&security=tls&encryption=none&sni=pr-media.pepro.site&path=%2Fws&host=pr-media.pepro.site&fp=android#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://fb67fd37-8d41-43a9-a093-c0b807fc5299@pr-media.pepro.site:14443?type=ws&security=tls&encryption=none&sni=pr-media.pepro.site&path=%2Fws&host=pr-media.pepro.site&fp=chrome#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://38eb3e71-4349-4bd6-9baf-9740e1896495@play.main-soft.ru:1035?encryption=none&flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&security=reality&sid=b0d8c9a285c70f6f&sni=cdnjs.com&type=tcp&fp=android#🇷🇺 Россия | viarvpn_free.t.me
+vless://38eb3e71-4349-4bd6-9baf-9740e1896495@play.main-soft.ru:1035?encryption=none&flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&security=reality&sid=b0d8c9a285c70f6f&sni=cdnjs.com&type=tcp&fp=chrome#🇷🇺 Россия | viarvpn_free.t.me
+vless://38eb3e71-4349-4bd6-9baf-9740e1896495@play.main-soft.ru:1035?encryption=none&flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&security=reality&sid=b0d8c9a285c70f6f&sni=cdnjs.com&type=tcp&fp=edge#🇷🇺 Россия | viarvpn_free.t.me
+vless://38eb3e71-4349-4bd6-9baf-9740e1896495@play.main-soft.ru:1035?encryption=none&flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&security=reality&sid=b0d8c9a285c70f6f&sni=cdnjs.com&type=tcp&fp=firefox#🇷🇺 Россия | viarvpn_free.t.me
+vless://38eb3e71-4349-4bd6-9baf-9740e1896495@play.main-soft.ru:1035?encryption=none&flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&security=reality&sid=b0d8c9a285c70f6f&sni=cdnjs.com&type=tcp&fp=ios#🇷🇺 Россия | viarvpn_free.t.me
+vless://29834e2e-729c-491f-af21-d1d9a8bde8c6@82.148.21.26:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=crypt-obhod-15.mystatic-cdn.ru&alpn=h2&fp=android#🇷🇺 Россия | viarvpn_free.t.me
+vless://29834e2e-729c-491f-af21-d1d9a8bde8c6@82.148.21.26:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=crypt-obhod-15.mystatic-cdn.ru&alpn=h2&fp=chrome#🇷🇺 Россия | viarvpn_free.t.me
+vless://29834e2e-729c-491f-af21-d1d9a8bde8c6@82.148.21.26:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=crypt-obhod-15.mystatic-cdn.ru&alpn=h2&fp=edge#🇷🇺 Россия | viarvpn_free.t.me
