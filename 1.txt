@@ -1,4 +1,12 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://af9c2bcf-fe68-4379-9c78-6e5f1b4af0e2@217.16.31.162:443?encryption=none&flow=xtls-rprx-vision&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=max.ru&type=tcp&fp=edge#🇷🇺 Россия | viarvpn_free.t.me
-vless://af9c2bcf-fe68-4379-9c78-6e5f1b4af0e2@217.16.31.162:443?encryption=none&flow=xtls-rprx-vision&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=max.ru&type=tcp&fp=chrome#🇷🇺 Россия | viarvpn_free.t.me
+vless://1291195a-ec3b-45bf-9381-9e2fce710813@37.18.14.168:2053?type=xhttp&headerType=none&security=tls&encryption=none&sni=9micenasralnakover.net&path=%2Fapi%2Fv1%2Fupload&host=9micenasralnakover.net&fp=edge#🇷🇺 Россия | viarvpn_free.t.me
+vless://1291195a-ec3b-45bf-9381-9e2fce710813@37.18.14.168:2053?type=xhttp&headerType=none&security=tls&encryption=none&sni=9micenasralnakover.net&path=%2Fapi%2Fv1%2Fupload&host=9micenasralnakover.net&fp=firefox#🇷🇺 Россия | viarvpn_free.t.me
+vless://1291195a-ec3b-45bf-9381-9e2fce710813@37.18.14.168:2053?type=xhttp&headerType=none&security=tls&encryption=none&sni=9micenasralnakover.net&path=%2Fapi%2Fv1%2Fupload&host=9micenasralnakover.net&fp=ios#🇷🇺 Россия | viarvpn_free.t.me
+vless://1291195a-ec3b-45bf-9381-9e2fce710813@37.18.14.168:2053?type=xhttp&headerType=none&security=tls&encryption=none&sni=9micenasralnakover.net&path=%2Fapi%2Fv1%2Fupload&host=9micenasralnakover.net&fp=safari#🇷🇺 Россия | viarvpn_free.t.me
+vless://af9c2bcf-fe68-4379-9c78-6e5f1b4af0e2@217.16.31.162:443?encryption=none&flow=xtls-rprx-vision&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=max.ru&type=raw&fp=ios#🇷🇺 Россия | viarvpn_free.t.me
+vless://af9c2bcf-fe68-4379-9c78-6e5f1b4af0e2@217.16.31.162:443?encryption=none&flow=xtls-rprx-vision&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=max.ru&type=raw&fp=qq#🇷🇺 Россия | viarvpn_free.t.me
+vless://1291195a-ec3b-45bf-9381-9e2fce710813@37.18.14.168:2053?type=xhttp&headerType=none&security=tls&encryption=none&sni=9micenasralnakover.net&path=%2Fapi%2Fv1%2Fupload&host=9micenasralnakover.net&fp=chrome#🇷🇺 Россия | viarvpn_free.t.me
+vless://af9c2bcf-fe68-4379-9c78-6e5f1b4af0e2@217.16.31.162:443?encryption=none&flow=xtls-rprx-vision&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=max.ru&type=raw&fp=chrome#🇷🇺 Россия | viarvpn_free.t.me
+vless://af9c2bcf-fe68-4379-9c78-6e5f1b4af0e2@217.16.31.162:443?encryption=none&flow=xtls-rprx-vision&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=max.ru&type=raw&fp=firefox#🇷🇺 Россия | viarvpn_free.t.me
+vless://af9c2bcf-fe68-4379-9c78-6e5f1b4af0e2@217.16.31.162:443?encryption=none&flow=xtls-rprx-vision&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=max.ru&type=raw&fp=safari#🇷🇺 Россия | viarvpn_free.t.me

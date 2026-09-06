@@ -1,4 +1,12 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://ecf728d9-1555-4e12-b178-1d8bd98465e4@game-booster.sowt.app:443?type=ws&headerType=none&security=tls&encryption=none&sni=game-booster.sowt.app&path=%2Fgateway%2Fv1%2Fws%2F6d50d81f0b49c137b1564bce4760eaee&fp=safari#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://ecf728d9-1555-4e12-b178-1d8bd98465e4@game-booster.sowt.app:443?type=ws&headerType=none&security=tls&encryption=none&sni=game-booster.sowt.app&path=%2Fgateway%2Fv1%2Fws%2F6d50d81f0b49c137b1564bce4760eaee&fp=firefox#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://b6489ebb-e964-46cd-b7eb-b3656a6438f5@fast48.slopllex.app:443?encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp&fp=android#Other | viarvpn_free.t.me
+vless://b6489ebb-e964-46cd-b7eb-b3656a6438f5@fast48.slopllex.app:443?encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp&fp=edge#Other | viarvpn_free.t.me
+vless://b6489ebb-e964-46cd-b7eb-b3656a6438f5@fast48.slopllex.app:443?encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp&fp=ios#Other | viarvpn_free.t.me
+vless://b6489ebb-e964-46cd-b7eb-b3656a6438f5@fast48.slopllex.app:443?encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp&fp=qq#Other | viarvpn_free.t.me
+vless://b6489ebb-e964-46cd-b7eb-b3656a6438f5@fast48.slopllex.app:443?encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp&fp=safari#Other | viarvpn_free.t.me
+vless://b6489ebb-e964-46cd-b7eb-b3656a6438f5@fast_s29.slopllex.app:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&fp=android#Other | viarvpn_free.t.me
+vless://b6489ebb-e964-46cd-b7eb-b3656a6438f5@fast_s29.slopllex.app:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#Other | viarvpn_free.t.me
+vless://b6489ebb-e964-46cd-b7eb-b3656a6438f5@fast_s29.slopllex.app:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox#Other | viarvpn_free.t.me
+vless://b6489ebb-e964-46cd-b7eb-b3656a6438f5@fast_s29.slopllex.app:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&fp=ios#Other | viarvpn_free.t.me
+vless://b6489ebb-e964-46cd-b7eb-b3656a6438f5@fast_s29.slopllex.app:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&fp=safari#Other | viarvpn_free.t.me
