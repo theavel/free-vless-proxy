@@ -1,6 +1,8 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://88ce17fc-7c6c-43a7-98a4-33fb59697b17@95.163.214.43:443?host=vk.com&mode=stream-one&path=%2Fapi%2Fv1%2Fe0163615&pbk=VdG4ntV15FfNWV4rvSny2mvOTSXfOUVKHNC0dOyXY2s&security=reality&sid=864fbb122f15b43d&sni=ok.ru&spx=%2F&type=xhttp&fp=qq#🇷🇺 Россия | viarvpn_free.t.me
-vless://2f39df59-0ec9-4b92-b6f7-10f746942c70@46.8.208.29:443?type=grpc&security=reality&pbk=HHZwsut0m8Z4tTCbU0QdnbyfQMQfk8XuEbBO0wFObis&sid=7765b2a4cef1033e&sni=cdn.okko.tv&serviceName=UpdateService&fp=android#🇩🇪 Германия | viarvpn_free.t.me
-vless://2f39df59-0ec9-4b92-b6f7-10f746942c70@46.8.208.29:443?type=grpc&security=reality&pbk=HHZwsut0m8Z4tTCbU0QdnbyfQMQfk8XuEbBO0wFObis&sid=7765b2a4cef1033e&sni=cdn.okko.tv&serviceName=UpdateService&fp=chrome#🇩🇪 Германия | viarvpn_free.t.me
-vless://2f39df59-0ec9-4b92-b6f7-10f746942c70@46.8.208.29:443?type=grpc&security=reality&pbk=HHZwsut0m8Z4tTCbU0QdnbyfQMQfk8XuEbBO0wFObis&sid=7765b2a4cef1033e&sni=cdn.okko.tv&serviceName=UpdateService&fp=edge#🇩🇪 Германия | viarvpn_free.t.me
+vless://88ce17fc-7c6c-43a7-98a4-33fb59697b17@95.163.214.43:443?type=xhttp&security=reality&path=%2Fapi%2Fv1%2Fe0163615&sni=ok.ru&pbk=VdG4ntV15FfNWV4rvSny2mvOTSXfOUVKHNC0dOyXY2s&sid=864fbb122f15b43d&fp=chrome#🇷🇺 Россия | viarvpn_free.t.me
+vless://88ce17fc-7c6c-43a7-98a4-33fb59697b17@95.163.214.43:443?type=xhttp&security=reality&path=%2Fapi%2Fv1%2Fe0163615&sni=ok.ru&pbk=VdG4ntV15FfNWV4rvSny2mvOTSXfOUVKHNC0dOyXY2s&sid=864fbb122f15b43d&fp=safari#🇷🇺 Россия | viarvpn_free.t.me
+vless://88ce17fc-7c6c-43a7-98a4-33fb59697b17@95.163.214.43:443?type=xhttp&security=reality&path=%2Fapi%2Fv1%2Fe0163615&sni=ok.ru&pbk=VdG4ntV15FfNWV4rvSny2mvOTSXfOUVKHNC0dOyXY2s&sid=864fbb122f15b43d&fp=edge#🇷🇺 Россия | viarvpn_free.t.me
+vless://88ce17fc-7c6c-43a7-98a4-33fb59697b17@95.163.214.43:443?type=xhttp&security=reality&path=%2Fapi%2Fv1%2Fe0163615&sni=ok.ru&pbk=VdG4ntV15FfNWV4rvSny2mvOTSXfOUVKHNC0dOyXY2s&sid=864fbb122f15b43d&fp=qq#🇷🇺 Россия | viarvpn_free.t.me
+vless://8c9a8787-056f-4b47-b193-0dcfa273d825@144.31.28.104:8443?encryption=none&flow=xtls-rprx-vision&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&security=reality&sid=d82c4b67f9a13e5c&sni=ads.x5.ru&type=tcp&fp=android#🇫🇮 Финляндия | viarvpn_free.t.me
+vless://8c9a8787-056f-4b47-b193-0dcfa273d825@144.31.28.104:8443?encryption=none&flow=xtls-rprx-vision&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&security=reality&sid=d82c4b67f9a13e5c&sni=ads.x5.ru&type=tcp&fp=chrome#🇫🇮 Финляндия | viarvpn_free.t.me

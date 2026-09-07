@@ -1,6 +1,8 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://2f39df59-0ec9-4b92-b6f7-10f746942c70@46.8.208.29:443?type=grpc&security=reality&pbk=HHZwsut0m8Z4tTCbU0QdnbyfQMQfk8XuEbBO0wFObis&sid=7765b2a4cef1033e&sni=cdn.okko.tv&serviceName=UpdateService&fp=qq#🇩🇪 Германия | viarvpn_free.t.me
-vless://2f39df59-0ec9-4b92-b6f7-10f746942c70@46.8.208.29:443?type=grpc&security=reality&pbk=HHZwsut0m8Z4tTCbU0QdnbyfQMQfk8XuEbBO0wFObis&sid=7765b2a4cef1033e&sni=cdn.okko.tv&serviceName=UpdateService&fp=safari#🇩🇪 Германия | viarvpn_free.t.me
-vless://b2965434-9d33-4eb7-b463-d1043e39092f@cdn5.cloud-vk.com:443?security=reality&encryption=none&pbk=4Z1HpHko94l9nZW0Gbn22VSwb8DexIzNPjHehOALfWM&headerType=&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=b23516&fp=chrome#🇭🇺 Венгрия | viarvpn_free.t.me
-vless://b2965434-9d33-4eb7-b463-d1043e39092f@cdn5.cloud-vk.com:443?security=reality&encryption=none&pbk=4Z1HpHko94l9nZW0Gbn22VSwb8DexIzNPjHehOALfWM&headerType=&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=b23516&fp=edge#🇭🇺 Венгрия | viarvpn_free.t.me
+vless://8c9a8787-056f-4b47-b193-0dcfa273d825@144.31.28.104:8443?encryption=none&flow=xtls-rprx-vision&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&security=reality&sid=d82c4b67f9a13e5c&sni=ads.x5.ru&type=tcp&fp=firefox#🇫🇮 Финляндия | viarvpn_free.t.me
+vless://8c9a8787-056f-4b47-b193-0dcfa273d825@144.31.28.104:8443?encryption=none&flow=xtls-rprx-vision&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&security=reality&sid=d82c4b67f9a13e5c&sni=ads.x5.ru&type=tcp&fp=ios#🇫🇮 Финляндия | viarvpn_free.t.me
+vless://8c9a8787-056f-4b47-b193-0dcfa273d825@144.31.28.104:8443?encryption=none&flow=xtls-rprx-vision&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&security=reality&sid=d82c4b67f9a13e5c&sni=ads.x5.ru&type=tcp&fp=qq#🇫🇮 Финляндия | viarvpn_free.t.me
+vless://8c9a8787-056f-4b47-b193-0dcfa273d825@194.87.52.142:443?encryption=none&flow=xtls-rprx-vision&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&security=reality&sid=d82c4b67f9a13e5c&sni=ads.x5.ru&type=tcp&fp=chrome#🇨🇿 Чехия | viarvpn_free.t.me
+vless://8c9a8787-056f-4b47-b193-0dcfa273d825@194.87.52.142:443?encryption=none&flow=xtls-rprx-vision&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&security=reality&sid=d82c4b67f9a13e5c&sni=ads.x5.ru&type=tcp&fp=edge#🇨🇿 Чехия | viarvpn_free.t.me
+vless://8c9a8787-056f-4b47-b193-0dcfa273d825@194.87.52.142:443?encryption=none&flow=xtls-rprx-vision&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&security=reality&sid=d82c4b67f9a13e5c&sni=ads.x5.ru&type=tcp&fp=firefox#🇨🇿 Чехия | viarvpn_free.t.me
