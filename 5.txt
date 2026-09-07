@@ -1,9 +1,4 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://70d482eb-7584-4841-a02a-c668f1ee33e7@141.0.184.240:8443?encryption=none&flow=xtls-rprx-vision&pbk=AxzvGjWPl7k1QMOWsRCgtuizgSS5NVWXwRoYsKP-630&security=reality&sid=f2a3b4c5&sni=dzen.ru&type=tcp&fp=firefox#Other | viarvpn_free.t.me
-vless://70d482eb-7584-4841-a02a-c668f1ee33e7@141.0.184.240:8443?encryption=none&flow=xtls-rprx-vision&pbk=AxzvGjWPl7k1QMOWsRCgtuizgSS5NVWXwRoYsKP-630&security=reality&sid=f2a3b4c5&sni=dzen.ru&type=tcp&fp=ios#Other | viarvpn_free.t.me
-vless://70d482eb-7584-4841-a02a-c668f1ee33e7@141.0.184.240:8443?encryption=none&flow=xtls-rprx-vision&pbk=AxzvGjWPl7k1QMOWsRCgtuizgSS5NVWXwRoYsKP-630&security=reality&sid=f2a3b4c5&sni=dzen.ru&type=tcp&fp=safari#Other | viarvpn_free.t.me
-vless://70d482eb-7584-4841-a02a-c668f1ee33e7@fi.routeliora.ru:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=dzen.ru&pbk=AxzvGjWPl7k1QMOWsRCgtuizgSS5NVWXwRoYsKP-630&sid=f2a3b4c5&spx=%2F&flow=xtls-rprx-vision&fp=android#Other | viarvpn_free.t.me
-vless://70d482eb-7584-4841-a02a-c668f1ee33e7@fi.routeliora.ru:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=dzen.ru&pbk=AxzvGjWPl7k1QMOWsRCgtuizgSS5NVWXwRoYsKP-630&sid=f2a3b4c5&spx=%2F&flow=xtls-rprx-vision&fp=firefox#Other | viarvpn_free.t.me
-vless://70d482eb-7584-4841-a02a-c668f1ee33e7@fi.routeliora.ru:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=dzen.ru&pbk=AxzvGjWPl7k1QMOWsRCgtuizgSS5NVWXwRoYsKP-630&sid=f2a3b4c5&spx=%2F&flow=xtls-rprx-vision&fp=ios#Other | viarvpn_free.t.me
-vless://70d482eb-7584-4841-a02a-c668f1ee33e7@fi.routeliora.ru:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=dzen.ru&pbk=AxzvGjWPl7k1QMOWsRCgtuizgSS5NVWXwRoYsKP-630&sid=f2a3b4c5&spx=%2F&flow=xtls-rprx-vision&fp=qq#Other | viarvpn_free.t.me
+vless://b7797db2-27fa-4127-a9f7-18ae181a1cb7@79.174.92.85:6443?encryption=none&mode=gun&pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&security=reality&serviceName=grpc&sid=bad5722c72a0&sni=iv.kommersant.ru&type=grpc&fp=ios#🇫🇮 Финляндия | viarvpn_free.t.me
+vless://b7797db2-27fa-4127-a9f7-18ae181a1cb7@79.174.92.85:6443?encryption=none&mode=gun&pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&security=reality&serviceName=grpc&sid=bad5722c72a0&sni=iv.kommersant.ru&type=grpc&fp=qq#🇫🇮 Финляндия | viarvpn_free.t.me
