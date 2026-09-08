@@ -1,15 +1,9 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://88ce17fc-7c6c-43a7-98a4-33fb59697b17@95.163.214.43:443?host=vk.com&path=%2Fapi%2Fv1%2Fe0163615&pbk=VdG4ntV15FfNWV4rvSny2mvOTSXfOUVKHNC0dOyXY2s&security=reality&sid=864fbb122f15b43d&sni=ok.ru&type=xhttp&fp=firefox#🇷🇺 Россия | viarvpn_free.t.me
-vless://88ce17fc-7c6c-43a7-98a4-33fb59697b17@95.163.214.43:443?host=vk.com&path=%2Fapi%2Fv1%2Fe0163615&pbk=VdG4ntV15FfNWV4rvSny2mvOTSXfOUVKHNC0dOyXY2s&security=reality&sid=864fbb122f15b43d&sni=ok.ru&type=xhttp&fp=safari#🇷🇺 Россия | viarvpn_free.t.me
-vless://88ce17fc-7c6c-43a7-98a4-33fb59697b17@95.163.214.43:443?host=vk.com&path=%2Fapi%2Fv1%2Fe0163615&pbk=VdG4ntV15FfNWV4rvSny2mvOTSXfOUVKHNC0dOyXY2s&security=reality&sid=864fbb122f15b43d&sni=ok.ru&type=xhttp&fp=chrome#🇷🇺 Россия | viarvpn_free.t.me
-vless://02f3a6a2-289e-4026-8e26-616d47e0914f@185.241.195.116:14443?alpn=h2%2Chttp%2F1.1&encryption=none&path=%2Ftzws&security=tls&sni=asd.coteite.pro&type=ws&fp=android#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://02f3a6a2-289e-4026-8e26-616d47e0914f@185.241.195.116:14443?type=ws&security=tls&path=%2Ftzws&sni=asd.coteite.pro&fp=chrome#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://02f3a6a2-289e-4026-8e26-616d47e0914f@185.241.195.116:14443?type=ws&security=tls&path=%2Ftzws&sni=asd.coteite.pro&fp=firefox#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://02f3a6a2-289e-4026-8e26-616d47e0914f@185.241.195.116:14443?type=ws&security=tls&path=%2Ftzws&sni=asd.coteite.pro&fp=ios#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://02f3a6a2-289e-4026-8e26-616d47e0914f@185.241.195.116:14443?type=ws&security=tls&path=%2Ftzws&sni=asd.coteite.pro&fp=safari#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://02f3a6a2-289e-4026-8e26-616d47e0914f@asd.coteite.pro:14443?encryption=none&security=tls&type=ws&sni=asd.coteite.pro&host=asd.coteite.pro&path=%2Ftzws&fp=chrome#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://02f3a6a2-289e-4026-8e26-616d47e0914f@asd.coteite.pro:14443?encryption=none&security=tls&type=ws&sni=asd.coteite.pro&host=asd.coteite.pro&path=%2Ftzws&fp=firefox#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://02f3a6a2-289e-4026-8e26-616d47e0914f@asd.coteite.pro:14443?encryption=none&security=tls&type=ws&sni=asd.coteite.pro&host=asd.coteite.pro&path=%2Ftzws&fp=ios#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://02f3a6a2-289e-4026-8e26-616d47e0914f@asd.coteite.pro:14443?encryption=none&security=tls&type=ws&sni=asd.coteite.pro&host=asd.coteite.pro&path=%2Ftzws&fp=qq#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://02f3a6a2-289e-4026-8e26-616d47e0914f@asd.coteite.pro:14443?type=ws&headerType=none&security=tls&encryption=none&sni=asd.coteite.pro&alpn=http%2F1.1&path=%2Ftzws&host=asd.coteite.pro&fp=ios#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://af9c2bcf-fe68-4379-9c78-6e5f1b4af0e2@217.16.31.162:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&sni=max.ru&fp=qq#🇷🇺 Россия | viarvpn_free.t.me
+vless://476d23b8-ab0e-4297-aebf-2c373f7538f0@194.67.122.222:443?encryption=none&flow=xtls-rprx-vision&pbk=cBmLpnMQBQj4CEB3LFVFDntZnLUp-r7ZUTUpFBWbR2Q&security=reality&sni=yastatic.net&type=tcp&fp=android#🇩🇪 Германия | viarvpn_free.t.me
+vless://476d23b8-ab0e-4297-aebf-2c373f7538f0@194.67.122.222:443?encryption=none&flow=xtls-rprx-vision&pbk=cBmLpnMQBQj4CEB3LFVFDntZnLUp-r7ZUTUpFBWbR2Q&security=reality&sni=yastatic.net&type=tcp&fp=edge#🇩🇪 Германия | viarvpn_free.t.me
+vless://476d23b8-ab0e-4297-aebf-2c373f7538f0@194.67.122.222:443?encryption=none&flow=xtls-rprx-vision&pbk=cBmLpnMQBQj4CEB3LFVFDntZnLUp-r7ZUTUpFBWbR2Q&security=reality&sni=yastatic.net&type=tcp&fp=ios#🇩🇪 Германия | viarvpn_free.t.me
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@31.131.255.31:9891?type=grpc&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&encryption=none&fp=firefox#🇨🇿 Чехия | viarvpn_free.t.me
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@31.131.255.31:9891?type=grpc&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&encryption=none&fp=android#🇨🇿 Чехия | viarvpn_free.t.me
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@31.131.255.31:9891?type=grpc&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&encryption=none&fp=ios#🇨🇿 Чехия | viarvpn_free.t.me
