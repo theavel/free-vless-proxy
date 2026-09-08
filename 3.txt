@@ -1,9 +1,9 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://af9c2bcf-fe68-4379-9c78-6e5f1b4af0e2@217.16.31.162:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&sni=max.ru&fp=qq#🇷🇺 Россия | viarvpn_free.t.me
-vless://476d23b8-ab0e-4297-aebf-2c373f7538f0@194.67.122.222:443?encryption=none&flow=xtls-rprx-vision&pbk=cBmLpnMQBQj4CEB3LFVFDntZnLUp-r7ZUTUpFBWbR2Q&security=reality&sni=yastatic.net&type=tcp&fp=android#🇩🇪 Германия | viarvpn_free.t.me
-vless://476d23b8-ab0e-4297-aebf-2c373f7538f0@194.67.122.222:443?encryption=none&flow=xtls-rprx-vision&pbk=cBmLpnMQBQj4CEB3LFVFDntZnLUp-r7ZUTUpFBWbR2Q&security=reality&sni=yastatic.net&type=tcp&fp=edge#🇩🇪 Германия | viarvpn_free.t.me
-vless://476d23b8-ab0e-4297-aebf-2c373f7538f0@194.67.122.222:443?encryption=none&flow=xtls-rprx-vision&pbk=cBmLpnMQBQj4CEB3LFVFDntZnLUp-r7ZUTUpFBWbR2Q&security=reality&sni=yastatic.net&type=tcp&fp=ios#🇩🇪 Германия | viarvpn_free.t.me
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@84.201.142.221:33743?encryption=none&mode=gun&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&security=reality&serviceName=TunService&sni=www.google.com&type=grpc&fp=safari#🇵🇱 Польша | viarvpn_free.t.me
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@84.201.142.221:33743?encryption=none&mode=gun&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&security=reality&serviceName=TunService&sni=www.google.com&type=grpc&fp=firefox#🇵🇱 Польша | viarvpn_free.t.me
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@31.131.255.31:9891?type=grpc&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&encryption=none&fp=chrome#🇨🇿 Чехия | viarvpn_free.t.me
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@31.131.255.31:9891?type=grpc&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&encryption=none&fp=firefox#🇨🇿 Чехия | viarvpn_free.t.me
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@31.131.255.31:9891?type=grpc&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&encryption=none&fp=android#🇨🇿 Чехия | viarvpn_free.t.me
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@31.131.255.31:9891?type=grpc&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&encryption=none&fp=ios#🇨🇿 Чехия | viarvpn_free.t.me
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@31.131.255.31:9891?type=grpc&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&encryption=none&fp=safari#🇨🇿 Чехия | viarvpn_free.t.me
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@31.131.255.31:9891?type=grpc&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&encryption=none&fp=android#🇨🇿 Чехия | viarvpn_free.t.me
