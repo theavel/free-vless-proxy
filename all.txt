@@ -1,2 +1,12 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
+vless://e8002f83-f46a-40d8-9b36-ff982f029488@lt26.cdnfern.org:443?encryption=none&security=tls&sni=lt26.cdnfern.org&alpn=h2&type=xhttp&mode=auto&path=%2Fapi%2Fv1%2F&fp=edge#🇱🇹 Литва | viarvpn_free.t.me
+vless://e8002f83-f46a-40d8-9b36-ff982f029488@lt26.cdnfern.org:443?encryption=none&security=tls&sni=lt26.cdnfern.org&alpn=h2&type=xhttp&mode=auto&path=%2Fapi%2Fv1%2F&fp=qq#🇱🇹 Литва | viarvpn_free.t.me
+vless://e8002f83-f46a-40d8-9b36-ff982f029488@lt26.cdnfern.org:443?encryption=none&security=tls&sni=lt26.cdnfern.org&alpn=h2&type=xhttp&mode=auto&path=%2Fapi%2Fv1%2F&fp=android#🇱🇹 Литва | viarvpn_free.t.me
+vless://e8002f83-f46a-40d8-9b36-ff982f029488@lt26.cdnfern.org:443?encryption=none&security=tls&sni=lt26.cdnfern.org&alpn=h2&type=xhttp&mode=auto&path=%2Fapi%2Fv1%2F&fp=ios#🇱🇹 Литва | viarvpn_free.t.me
+vless://e8002f83-f46a-40d8-9b36-ff982f029488@lt26.cdnfern.org:443?encryption=none&security=tls&sni=lt26.cdnfern.org&alpn=h2&type=xhttp&mode=auto&path=%2Fapi%2Fv1%2F&fp=safari#🇱🇹 Литва | viarvpn_free.t.me
+vless://a7c35c0c-e8b6-49a4-9d2c-1acee63fe2d6@146.103.100.242:443?encryption=none&flow=xtls-rprx-vision&pbk=CxjnGHCI3HXN2RAXwytela7jXyOGDCBqzMAqTfm60D0&security=reality&sid=4ed920401771c4ab&sni=dzen.ru&type=tcp&fp=edge#Other | viarvpn_free.t.me
+vless://a7c35c0c-e8b6-49a4-9d2c-1acee63fe2d6@146.103.100.242:443?encryption=none&flow=xtls-rprx-vision&pbk=CxjnGHCI3HXN2RAXwytela7jXyOGDCBqzMAqTfm60D0&security=reality&sid=4ed920401771c4ab&sni=dzen.ru&type=tcp&fp=firefox#Other | viarvpn_free.t.me
+vless://a7c35c0c-e8b6-49a4-9d2c-1acee63fe2d6@146.103.100.242:443?encryption=none&flow=xtls-rprx-vision&pbk=CxjnGHCI3HXN2RAXwytela7jXyOGDCBqzMAqTfm60D0&security=reality&sid=4ed920401771c4ab&sni=dzen.ru&type=tcp&fp=ios#Other | viarvpn_free.t.me
+vless://a7c35c0c-e8b6-49a4-9d2c-1acee63fe2d6@146.103.100.242:443?encryption=none&flow=xtls-rprx-vision&pbk=CxjnGHCI3HXN2RAXwytela7jXyOGDCBqzMAqTfm60D0&security=reality&sid=4ed920401771c4ab&sni=dzen.ru&type=tcp&fp=qq#Other | viarvpn_free.t.me
+vless://a7c35c0c-e8b6-49a4-9d2c-1acee63fe2d6@146.103.100.242:443?encryption=none&flow=xtls-rprx-vision&pbk=CxjnGHCI3HXN2RAXwytela7jXyOGDCBqzMAqTfm60D0&security=reality&sid=4ed920401771c4ab&sni=dzen.ru&type=tcp&fp=safari#Other | viarvpn_free.t.me
