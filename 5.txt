@@ -1,12 +1,8 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://e8002f83-f46a-40d8-9b36-ff982f029488@lt26.cdnfern.org:443?encryption=none&security=tls&sni=lt26.cdnfern.org&alpn=h2&type=xhttp&mode=auto&path=%2Fapi%2Fv1%2F&fp=safari#Other | viarvpn_free.t.me
-vless://e8002f83-f46a-40d8-9b36-ff982f029488@78.24.92.27:443?encryption=none&path=%2Fapi%2Fv1%2F&security=tls&sni=lt26.cdnfern.org&type=xhttp&fp=chrome#Other | viarvpn_free.t.me
-vless://e8002f83-f46a-40d8-9b36-ff982f029488@lt26.cdnfern.org:443?encryption=none&security=tls&sni=lt26.cdnfern.org&alpn=h2&type=xhttp&mode=auto&path=%2Fapi%2Fv1%2F&fp=ios#Other | viarvpn_free.t.me
-vless://86ea1e85-b95d-4afd-b28f-b41831d56665@186.246.10.40:443?encryption=none&host=cdn.dachniy-vopros.org&path=%2Fhome&security=tls&sni=cdn.dachniy-vopros.org&type=ws&fp=edge#Other | viarvpn_free.t.me
+vless://33a1a0e1-7dd1-414b-9751-901aeb44ae7d@89.23.113.175:443?type=xhttp&security=tls&encryption=none&sni=ru4.lebedvpn.cc&alpn=h3&path=%2F0828d250570a&mode=stream-up&host=ru4.lebedvpn.cc&fp=ios#Other | viarvpn_free.t.me
+vless://86ea1e85-b95d-4afd-b28f-b41831d56665@186.246.10.40:443?encryption=none&host=cdn.dachniy-vopros.org&path=%2Fhome&security=tls&sni=cdn.dachniy-vopros.org&type=ws&fp=firefox#Other | viarvpn_free.t.me
 vless://86ea1e85-b95d-4afd-b28f-b41831d56665@186.246.10.40:443?encryption=none&host=cdn.dachniy-vopros.org&path=%2Fhome&security=tls&sni=cdn.dachniy-vopros.org&type=ws&fp=ios#Other | viarvpn_free.t.me
-vless://86ea1e85-b95d-4afd-b28f-b41831d56665@186.246.10.40:443?type=ws&security=tls&encryption=none&sni=cdn.dachniy-vopros.org&host=cdn.dachniy-vopros.org&path=%2Fhome&alpn=http%2F1.1&fp=chrome#Other | viarvpn_free.t.me
-vless://86ea1e85-b95d-4afd-b28f-b41831d56665@186.246.10.40:443?type=ws&security=tls&encryption=none&sni=cdn.dachniy-vopros.org&host=cdn.dachniy-vopros.org&path=%2Fhome&alpn=http%2F1.1&fp=edge#Other | viarvpn_free.t.me
 vless://86ea1e85-b95d-4afd-b28f-b41831d56665@186.246.10.40:443?type=ws&security=tls&encryption=none&sni=cdn.dachniy-vopros.org&host=cdn.dachniy-vopros.org&path=%2Fhome&alpn=http%2F1.1&fp=qq#Other | viarvpn_free.t.me
-vless://86ea1e85-b95d-4afd-b28f-b41831d56665@186.246.10.40:443?type=ws&security=tls&encryption=none&sni=cdn.dachniy-vopros.org&host=cdn.dachniy-vopros.org&path=%2Fhome&alpn=http%2F1.1&fp=safari#Other | viarvpn_free.t.me
-vless://86ea1e85-b95d-4afd-b28f-b41831d56665@186.246.10.40:443?encryption=none&host=cdn.dachniy-vopros.org&path=%2Fhome&security=tls&sni=cdn.dachniy-vopros.org&type=ws&fp=qq#Other | viarvpn_free.t.me
+vless://86ea1e85-b95d-4afd-b28f-b41831d56665@186.246.10.40:443?encryption=none&host=cdn.dachniy-vopros.org&path=%2Fhome&security=tls&sni=cdn.dachniy-vopros.org&type=ws&fp=edge#Other | viarvpn_free.t.me
+vless://33a1a0e1-7dd1-414b-9751-901aeb44ae7d@89.23.113.175:443?type=xhttp&security=tls&encryption=none&sni=ru4.lebedvpn.cc&alpn=h3&path=%2F0828d250570a&mode=stream-up&host=ru4.lebedvpn.cc&fp=qq#Other | viarvpn_free.t.me
