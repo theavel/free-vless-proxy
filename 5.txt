@@ -1,6 +1,6 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://57ae2ef6-2aef-0002-b0c1-b8c9d4dfc233@5.129.198.223:443?path=%2Fapi%2Fv3%2Fupdates&pbk=MiyOBOmkjV9uSx-oM1Aoq9JgIXKjAgvXceTNgSeBvRk&security=reality&sid=d8c870848236fa69&sni=cdn-tw-msk-mishka.attention-game.ru&type=xhttp&fp=qq#🇸🇪 Швеция | viarvpn_free.t.me
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@201.24.50.67:9892?encryption=none&security=reality&sni=dl.google.com&type=grpc&serviceName=grpc-tunnel&mode=gun&flow=&alpn=&allowInsecure=0&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&fp=chrome#Other | viarvpn_free.t.me
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@201.24.50.67:9892?mode=multi&type=grpc&security=reality&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&serviceName=grpc-tunnel&fp=firefox#Other | viarvpn_free.t.me
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@201.24.50.67:9892?mode=multi&type=grpc&security=reality&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&serviceName=grpc-tunnel&fp=safari#Other | viarvpn_free.t.me
+vless://3d53970b-419b-4a27-87b5-e9c99bb02eca@31.76.34.100:443?encryption=none&flow=xtls-rprx-vision&pbk=nY7HQ2YzzXRZd2PJgWS7mPKG-5iXuIBIEl_V-OXmg0c&security=reality&sni=cdn3.ndprotected.com&type=tcp&fp=chrome#Other | viarvpn_free.t.me
+vless://3d53970b-419b-4a27-87b5-e9c99bb02eca@31.76.34.100:443?encryption=none&flow=xtls-rprx-vision&pbk=nY7HQ2YzzXRZd2PJgWS7mPKG-5iXuIBIEl_V-OXmg0c&security=reality&sni=cdn3.ndprotected.com&type=tcp&fp=firefox#Other | viarvpn_free.t.me
+vless://3d53970b-419b-4a27-87b5-e9c99bb02eca@31.76.34.100:443?encryption=none&flow=xtls-rprx-vision&pbk=nY7HQ2YzzXRZd2PJgWS7mPKG-5iXuIBIEl_V-OXmg0c&security=reality&sni=cdn3.ndprotected.com&type=tcp&fp=qq#Other | viarvpn_free.t.me
+vless://3d53970b-419b-4a27-87b5-e9c99bb02eca@31.76.34.100:443?encryption=none&flow=xtls-rprx-vision&pbk=nY7HQ2YzzXRZd2PJgWS7mPKG-5iXuIBIEl_V-OXmg0c&security=reality&sni=cdn3.ndprotected.com&type=tcp&fp=safari#Other | viarvpn_free.t.me
