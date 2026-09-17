@@ -1,5 +1,8 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.146.8:443?type=xhttp&security=reality&sni=max.ru&pbk=biyXF3Egpu0ul4Jyf04Vh1Zl6u3JGXJ2k5y5y7pDjgo&fp=edge#Other | viarvpn_free.t.me
-vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.146.8:443?type=xhttp&security=reality&sni=max.ru&pbk=biyXF3Egpu0ul4Jyf04Vh1Zl6u3JGXJ2k5y5y7pDjgo&fp=firefox#Other | viarvpn_free.t.me
-vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.146.8:443?type=xhttp&security=reality&sni=max.ru&pbk=biyXF3Egpu0ul4Jyf04Vh1Zl6u3JGXJ2k5y5y7pDjgo&fp=qq#Other | viarvpn_free.t.me
+vless://3d53970b-419b-4a27-87b5-e9c99bb02eca@84.201.152.230:443?type=tcp&headerType=none&security=reality&encryption=none&sni=s3.mmmnetwork.work&pbk=F732kKVYV_z7VxExBfZdZFxhvkyukvYnumsRlupQSDc&sid=adf12efb&flow=xtls-rprx-vision&fp=edge#🇫🇮 Финляндия | viarvpn_free.t.me
+vless://3d53970b-419b-4a27-87b5-e9c99bb02eca@84.201.152.230:443?type=tcp&headerType=none&security=reality&encryption=none&sni=s3.mmmnetwork.work&pbk=F732kKVYV_z7VxExBfZdZFxhvkyukvYnumsRlupQSDc&sid=adf12efb&flow=xtls-rprx-vision&fp=firefox#🇫🇮 Финляндия | viarvpn_free.t.me
+vless://3d53970b-419b-4a27-87b5-e9c99bb02eca@84.201.152.230:443?type=tcp&headerType=none&security=reality&encryption=none&sni=s3.mmmnetwork.work&pbk=F732kKVYV_z7VxExBfZdZFxhvkyukvYnumsRlupQSDc&sid=adf12efb&flow=xtls-rprx-vision&fp=qq#🇫🇮 Финляндия | viarvpn_free.t.me
+vless://3d53970b-419b-4a27-87b5-e9c99bb02eca@84.201.152.230:443?type=tcp&headerType=none&security=reality&encryption=none&sni=s3.mmmnetwork.work&pbk=F732kKVYV_z7VxExBfZdZFxhvkyukvYnumsRlupQSDc&sid=adf12efb&flow=xtls-rprx-vision&fp=safari#🇫🇮 Финляндия | viarvpn_free.t.me
+vless://38eb3e71-4349-4bd6-9baf-9740e1896495@188.225.33.63:2084?encryption=none&flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&security=reality&sid=b0d8c9a285c70f6f&sni=unpkg.com&type=tcp&fp=edge#🇸🇪 Швеция | viarvpn_free.t.me
+vless://38eb3e71-4349-4bd6-9baf-9740e1896495@188.225.33.63:2084?encryption=none&flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&security=reality&sid=b0d8c9a285c70f6f&sni=unpkg.com&type=tcp&fp=firefox#🇸🇪 Швеция | viarvpn_free.t.me
