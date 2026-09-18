@@ -1,5 +1,9 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://16b3793b-3335-4832-b1fd-877b2c5e15d6@45.90.162.226:24443?type=tcp&security=reality&path=%2F&sni=www.vk.com&flow=xtls-rprx-vision&pbk=pCIyfmbMRts0miZB4KFKNNm0zvJr0JEx8_XykIllwUo&sid=4d83d822573492aa&fp=firefox#Other | viarvpn_free.t.me
-vless://16b3793b-3335-4832-b1fd-877b2c5e15d6@45.90.162.226:24443?type=tcp&security=reality&path=%2F&sni=www.vk.com&flow=xtls-rprx-vision&pbk=pCIyfmbMRts0miZB4KFKNNm0zvJr0JEx8_XykIllwUo&sid=4d83d822573492aa&fp=qq#Other | viarvpn_free.t.me
-vless://16b3793b-3335-4832-b1fd-877b2c5e15d6@45.90.162.226:24443?type=tcp&security=reality&path=%2F&sni=www.vk.com&flow=xtls-rprx-vision&pbk=pCIyfmbMRts0miZB4KFKNNm0zvJr0JEx8_XykIllwUo&sid=4d83d822573492aa&fp=safari#Other | viarvpn_free.t.me
+vless://b1b3e430-ff52-44b8-b95d-27fa580fbc4f@82.146.56.45:443?type=grpc&security=reality&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&serviceName=vless-grpc-reality&fp=android#Other | viarvpn_free.t.me
+vless://b1b3e430-ff52-44b8-b95d-27fa580fbc4f@82.146.56.45:443?type=grpc&security=reality&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&serviceName=vless-grpc-reality&fp=firefox#Other | viarvpn_free.t.me
+vless://b1b3e430-ff52-44b8-b95d-27fa580fbc4f@82.146.56.45:443?type=grpc&security=reality&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&serviceName=vless-grpc-reality&fp=ios#Other | viarvpn_free.t.me
+vless://b1b3e430-ff52-44b8-b95d-27fa580fbc4f@82.146.56.45:443?type=grpc&security=reality&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&serviceName=vless-grpc-reality&fp=safari#Other | viarvpn_free.t.me
+vless://b1b3e430-ff52-44b8-b95d-27fa580fbc4f@82.146.57.228:443?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=chrome#Other | viarvpn_free.t.me
+vless://b1b3e430-ff52-44b8-b95d-27fa580fbc4f@82.146.57.228:443?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=qq#Other | viarvpn_free.t.me
+vless://b1b3e430-ff52-44b8-b95d-27fa580fbc4f@82.146.57.228:443?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=safari#Other | viarvpn_free.t.me
