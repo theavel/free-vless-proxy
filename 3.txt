@@ -1,6 +1,5 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@31.184.219.147:9872?type=grpc&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&pbk=sm3E3hjmT6_Gmg_O9rBz4nfXYrHpnl6-LvcCp6T6_xc&encryption=none&fp=chrome#🇸🇪 Швеция | viarvpn_free.t.me
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@31.184.219.147:9872?type=grpc&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&pbk=sm3E3hjmT6_Gmg_O9rBz4nfXYrHpnl6-LvcCp6T6_xc&encryption=none&fp=edge#🇸🇪 Швеция | viarvpn_free.t.me
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@31.184.219.147:9872?type=grpc&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&pbk=sm3E3hjmT6_Gmg_O9rBz4nfXYrHpnl6-LvcCp6T6_xc&encryption=none&fp=ios#🇸🇪 Швеция | viarvpn_free.t.me
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@31.184.219.147:9872?type=grpc&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&pbk=sm3E3hjmT6_Gmg_O9rBz4nfXYrHpnl6-LvcCp6T6_xc&encryption=none&fp=qq#🇸🇪 Швеция | viarvpn_free.t.me
+vless://953358cb-82ba-4296-960d-6d2ec3468f4c@45.8.228.167:443?encryption=none&extra=null&mode=packet-up&path=%2Fxhttp_client_upload&pbk=n7Eivi9aG8PMxvaP5flLiukPADZIDVuzyOsOWDG43kQ&security=reality&sid=5eca&sni=dailycanvas.sysopnova.art&type=xhttp&fp=android#🇮🇹 Италия | viarvpn_free.t.me
+vless://953358cb-82ba-4296-960d-6d2ec3468f4c@45.8.228.167:443?encryption=none&extra=null&mode=packet-up&path=%2Fxhttp_client_upload&pbk=n7Eivi9aG8PMxvaP5flLiukPADZIDVuzyOsOWDG43kQ&security=reality&sid=5eca&sni=dailycanvas.sysopnova.art&type=xhttp&fp=firefox#🇮🇹 Италия | viarvpn_free.t.me
+vless://953358cb-82ba-4296-960d-6d2ec3468f4c@45.8.228.167:443?encryption=none&extra=null&mode=packet-up&path=%2Fxhttp_client_upload&pbk=n7Eivi9aG8PMxvaP5flLiukPADZIDVuzyOsOWDG43kQ&security=reality&sid=5eca&sni=dailycanvas.sysopnova.art&type=xhttp&fp=ios#🇮🇹 Италия | viarvpn_free.t.me
