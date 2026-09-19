@@ -1,3 +1,4 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://d9dc1c96-d478-4563-912e-0037aa2978a2@95.129.236.239:443?alpn=http%2F1.1&encryption=none&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws&fp=chrome#🇸🇪 Швеция | viarvpn_free.t.me
+vless://5f160f52-90b8-4e9a-a977-fb8b3823775a@95.129.236.239:443?alpn=http%2F1.1&encryption=none&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws&fp=edge#🇸🇪 Швеция | viarvpn_free.t.me
+vless://5f160f52-90b8-4e9a-a977-fb8b3823775a@95.129.236.239:443?alpn=http%2F1.1&encryption=none&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws&fp=firefox#🇸🇪 Швеция | viarvpn_free.t.me
