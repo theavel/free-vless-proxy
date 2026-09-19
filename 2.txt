@@ -1,4 +1,5 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://5f160f52-90b8-4e9a-a977-fb8b3823775a@95.129.236.239:443?alpn=http%2F1.1&encryption=none&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws&fp=edge#🇸🇪 Швеция | viarvpn_free.t.me
-vless://5f160f52-90b8-4e9a-a977-fb8b3823775a@95.129.236.239:443?alpn=http%2F1.1&encryption=none&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws&fp=firefox#🇸🇪 Швеция | viarvpn_free.t.me
+vless://bcb5a897-8cc4-4e21-ad96-c82fb3a9d72a@dzen-ru-1.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=dzen-ru-1.com&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=19aa22f681923dc8&allowInsecure=1&fp=ios#🇷🇺 Россия | viarvpn_free.t.me
+vless://bcb5a897-8cc4-4e21-ad96-c82fb3a9d72a@dzen-ru-1.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=dzen-ru-1.com&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=19aa22f681923dc8&allowInsecure=1&fp=qq#🇷🇺 Россия | viarvpn_free.t.me
+vless://75db4327-dff6-4de2-a089-6924b22b7e51@pechatprint-63.ru:8080?encryption=none&security=tls&sni=pechatprint-63.ru&type=ws&path=%2Fchws&fp=firefox#🇩🇪 Германия | viarvpn_free.t.me
