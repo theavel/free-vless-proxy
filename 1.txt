@@ -1,9 +1,7 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://ae8e2b94-5d44-437b-9002-80c2015f0e23@201.34.128.128:6443?encryption=none&type=grpc&security=tls&sni=nld.centermass.net&alpn=h2&serviceName=media.playback.v1.SessionGateway&fp=chrome#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://ae8e2b94-5d44-437b-9002-80c2015f0e23@201.34.128.128:6443?encryption=none&type=grpc&security=tls&sni=nld.centermass.net&alpn=h2&serviceName=media.playback.v1.SessionGateway&fp=ios#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://ae8e2b94-5d44-437b-9002-80c2015f0e23@201.34.128.128:6443?encryption=none&type=grpc&security=tls&sni=nld.centermass.net&alpn=h2&serviceName=media.playback.v1.SessionGateway&fp=qq#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://e121b564-fade-44aa-ba15-aa46538efaca@201.34.128.128:6443?encryption=none&type=grpc&security=tls&sni=nld.centermass.net&serviceName=media.playback.v1.SessionGateway&fp=chrome#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://e121b564-fade-44aa-ba15-aa46538efaca@201.34.128.128:6443?encryption=none&type=grpc&security=tls&sni=nld.centermass.net&serviceName=media.playback.v1.SessionGateway&fp=edge#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://e121b564-fade-44aa-ba15-aa46538efaca@201.34.128.128:6443?encryption=none&type=grpc&security=tls&sni=nld.centermass.net&serviceName=media.playback.v1.SessionGateway&fp=firefox#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://e121b564-fade-44aa-ba15-aa46538efaca@201.34.128.128:6443?encryption=none&type=grpc&security=tls&sni=nld.centermass.net&serviceName=media.playback.v1.SessionGateway&fp=ios#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://ae8e2b94-5d44-437b-9002-80c2015f0e23@188.225.25.191:5001?encryption=none&type=grpc&security=tls&sni=rus.centermass.net&alpn=h2&serviceName=media.playback.v1.SessionGateway&fp=android#🇷🇺 Россия | viarvpn_free.t.me
+vless://ae8e2b94-5d44-437b-9002-80c2015f0e23@188.225.25.191:5001?encryption=none&type=grpc&security=tls&sni=rus.centermass.net&alpn=h2&serviceName=media.playback.v1.SessionGateway&fp=edge#🇷🇺 Россия | viarvpn_free.t.me
+vless://ae8e2b94-5d44-437b-9002-80c2015f0e23@188.225.25.191:5001?encryption=none&type=grpc&security=tls&sni=rus.centermass.net&alpn=h2&serviceName=media.playback.v1.SessionGateway&fp=firefox#🇷🇺 Россия | viarvpn_free.t.me
+vless://ae8e2b94-5d44-437b-9002-80c2015f0e23@188.225.25.191:5001?encryption=none&type=grpc&security=tls&sni=rus.centermass.net&alpn=h2&serviceName=media.playback.v1.SessionGateway&fp=ios#🇷🇺 Россия | viarvpn_free.t.me
+vless://ae8e2b94-5d44-437b-9002-80c2015f0e23@188.225.25.191:5001?encryption=none&type=grpc&security=tls&sni=rus.centermass.net&alpn=h2&serviceName=media.playback.v1.SessionGateway&fp=safari#🇷🇺 Россия | viarvpn_free.t.me

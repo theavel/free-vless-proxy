@@ -1,5 +1,7 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://5d224cf0-4c4e-46e2-a89c-9b804c5d3999@95.129.236.239:443?alpn=http%2F1.1&encryption=none&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws&fp=edge#Other | viarvpn_free.t.me
-vless://5d224cf0-4c4e-46e2-a89c-9b804c5d3999@95.129.236.239:443?alpn=http%2F1.1&encryption=none&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws&fp=ios#Other | viarvpn_free.t.me
-vless://5d224cf0-4c4e-46e2-a89c-9b804c5d3999@95.129.236.239:443?alpn=http%2F1.1&encryption=none&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws&fp=qq#Other | viarvpn_free.t.me
+vless://b1346aad-8d2b-4b06-a3cf-e20399c3ebd2@95.129.236.239:443?alpn=http%2F1.1&encryption=none&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws&fp=chrome#Other | viarvpn_free.t.me
+vless://b1346aad-8d2b-4b06-a3cf-e20399c3ebd2@95.129.236.239:443?alpn=http%2F1.1&encryption=none&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws&fp=edge#Other | viarvpn_free.t.me
+vless://b1346aad-8d2b-4b06-a3cf-e20399c3ebd2@95.129.236.239:443?alpn=http%2F1.1&encryption=none&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws&fp=firefox#Other | viarvpn_free.t.me
+vless://b1346aad-8d2b-4b06-a3cf-e20399c3ebd2@95.129.236.239:443?alpn=http%2F1.1&encryption=none&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws&fp=ios#Other | viarvpn_free.t.me
+vless://b1346aad-8d2b-4b06-a3cf-e20399c3ebd2@95.129.236.239:443?alpn=http%2F1.1&encryption=none&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws&fp=safari#Other | viarvpn_free.t.me
