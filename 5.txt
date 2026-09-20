@@ -1,7 +1,10 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://b1346aad-8d2b-4b06-a3cf-e20399c3ebd2@95.129.236.239:443?alpn=http%2F1.1&encryption=none&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws&fp=chrome#Other | viarvpn_free.t.me
-vless://b1346aad-8d2b-4b06-a3cf-e20399c3ebd2@95.129.236.239:443?alpn=http%2F1.1&encryption=none&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws&fp=edge#Other | viarvpn_free.t.me
-vless://b1346aad-8d2b-4b06-a3cf-e20399c3ebd2@95.129.236.239:443?alpn=http%2F1.1&encryption=none&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws&fp=firefox#Other | viarvpn_free.t.me
-vless://b1346aad-8d2b-4b06-a3cf-e20399c3ebd2@95.129.236.239:443?alpn=http%2F1.1&encryption=none&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws&fp=ios#Other | viarvpn_free.t.me
-vless://b1346aad-8d2b-4b06-a3cf-e20399c3ebd2@95.129.236.239:443?alpn=http%2F1.1&encryption=none&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws&fp=safari#Other | viarvpn_free.t.me
+vless://a19b1a22-878e-4664-b550-09176b551bb6@103.130.145.181:4567?type=tcp&headerType=none&security=reality&encryption=none&sni=max.ru&pbk=IjSmXTft4php0NernxeRWQICO8piq3trvLIOeMPXJGk&flow=xtls-rprx-vision&fp=edge#🇹🇷 Турция | viarvpn_free.t.me
+vless://a19b1a22-878e-4664-b550-09176b551bb6@103.130.145.181:4567?type=tcp&headerType=none&security=reality&encryption=none&sni=max.ru&pbk=IjSmXTft4php0NernxeRWQICO8piq3trvLIOeMPXJGk&flow=xtls-rprx-vision&fp=firefox#🇹🇷 Турция | viarvpn_free.t.me
+vless://a19b1a22-878e-4664-b550-09176b551bb6@103.130.145.181:4567?type=tcp&headerType=none&security=reality&encryption=none&sni=max.ru&pbk=IjSmXTft4php0NernxeRWQICO8piq3trvLIOeMPXJGk&flow=xtls-rprx-vision&fp=ios#🇹🇷 Турция | viarvpn_free.t.me
+vless://a19b1a22-878e-4664-b550-09176b551bb6@103.130.145.181:4567?type=tcp&headerType=none&security=reality&encryption=none&sni=max.ru&pbk=IjSmXTft4php0NernxeRWQICO8piq3trvLIOeMPXJGk&flow=xtls-rprx-vision&fp=qq#🇹🇷 Турция | viarvpn_free.t.me
+vless://cdd6bfce-781a-4454-b7d5-4778abb5c24f@posa6.api3-max.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=posa6.api3-max.ru&alpn=h3&flow=xtls-rprx-vision&fp=edge#Other | viarvpn_free.t.me
+vless://cdd6bfce-781a-4454-b7d5-4778abb5c24f@posa6.api3-max.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=posa6.api3-max.ru&alpn=h3&flow=xtls-rprx-vision&fp=firefox#Other | viarvpn_free.t.me
+vless://cdd6bfce-781a-4454-b7d5-4778abb5c24f@posa6.api3-max.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=posa6.api3-max.ru&alpn=h3&flow=xtls-rprx-vision&fp=qq#Other | viarvpn_free.t.me
+vless://cdd6bfce-781a-4454-b7d5-4778abb5c24f@posa6.api3-max.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=posa6.api3-max.ru&alpn=h3&flow=xtls-rprx-vision&fp=safari#Other | viarvpn_free.t.me
