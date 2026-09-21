@@ -1,5 +1,3 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://Fluffy_VPN-Oth8rOq3@51.250.106.197:443?path=%2F&security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=LGSiGIQDFwB3IgQw8IBEsI5qfQoPQRSeUZWofnEu00U&host=max.ru&type=xhttp&sni=max.ru&fp=chrome#Other | viarvpn_free.t.me
-vless://Fluffy_VPN-Oth8rOq3@51.250.106.197:443?path=%2F&security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=LGSiGIQDFwB3IgQw8IBEsI5qfQoPQRSeUZWofnEu00U&host=max.ru&type=xhttp&sni=max.ru&fp=ios#Other | viarvpn_free.t.me
-vless://Fluffy_VPN-Oth8rOq3@51.250.106.197:443?path=%2F&security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=LGSiGIQDFwB3IgQw8IBEsI5qfQoPQRSeUZWofnEu00U&host=max.ru&type=xhttp&sni=max.ru&fp=qq#Other | viarvpn_free.t.me
+vless://a5a311a8-6b0b-4ddc-b354-79acb4e19d67@84.240.206.178:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ok.ru&pbk=YPxklREENCJn2akAL8LHl9IuYYLlOv_3FG_9oJXiDXQ&allowInsecure=1&fp=safari#Other | viarvpn_free.t.me

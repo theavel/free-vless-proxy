@@ -1,4 +1,3 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://e48e4377-1f29-485b-80d4-85fd4fa27bfa@159.194.217.26:443?security=reality&encryption=none&pbk=APL7UqMEGSeIQNe4evUy3gdFRnTD_l3UMtgTcIfh2XY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.siemens.com&sid=babcbe551bde8268&fp=chrome#🇷🇺 Россия | viarvpn_free.t.me
-vless://e48e4377-1f29-485b-80d4-85fd4fa27bfa@159.194.217.26:443?security=reality&encryption=none&pbk=APL7UqMEGSeIQNe4evUy3gdFRnTD_l3UMtgTcIfh2XY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.siemens.com&sid=babcbe551bde8268&fp=edge#🇷🇺 Россия | viarvpn_free.t.me
+vless://a5a311a8-6b0b-4ddc-b354-79acb4e19d67@84.240.206.178:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ok.ru&pbk=YPxklREENCJn2akAL8LHl9IuYYLlOv_3FG_9oJXiDXQ&allowInsecure=1&fp=edge#Other | viarvpn_free.t.me
