@@ -1,9 +1,5 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://f07d9192-9d39-49fc-ba70-610fcb7fb176@155.212.161.140:443?encryption=none&flow=xtls-rprx-vision&pbk=X3U2Y1fzAORyXdy_awWirvlCjOV_Qsj6SEOPd4hFHgE&security=reality&sid=091faecd7e0808ed&sni=stablequenchcone.heatherneedle.info&type=raw&fp=chrome#🇷🇺 Россия | viarvpn_free.t.me
-vless://f07d9192-9d39-49fc-ba70-610fcb7fb176@155.212.161.140:443?encryption=none&flow=xtls-rprx-vision&pbk=X3U2Y1fzAORyXdy_awWirvlCjOV_Qsj6SEOPd4hFHgE&security=reality&sid=091faecd7e0808ed&sni=stablequenchcone.heatherneedle.info&type=raw&fp=edge#🇷🇺 Россия | viarvpn_free.t.me
-vless://f07d9192-9d39-49fc-ba70-610fcb7fb176@155.212.161.140:443?encryption=none&flow=xtls-rprx-vision&pbk=X3U2Y1fzAORyXdy_awWirvlCjOV_Qsj6SEOPd4hFHgE&security=reality&sid=091faecd7e0808ed&sni=stablequenchcone.heatherneedle.info&type=raw&fp=safari#🇷🇺 Россия | viarvpn_free.t.me
-vless://d82e3813-9c83-43a5-bd30-385ed7c20a94@37.139.42.138:443?alpn=http%2F1.1&encryption=none&path=%2Fe7ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=chrome#🇩🇪 Германия | viarvpn_free.t.me
-vless://d82e3813-9c83-43a5-bd30-385ed7c20a94@37.139.42.138:443?alpn=http%2F1.1&encryption=none&path=%2Fe7ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=edge#🇩🇪 Германия | viarvpn_free.t.me
-vless://d82e3813-9c83-43a5-bd30-385ed7c20a94@37.139.42.138:443?alpn=http%2F1.1&encryption=none&path=%2Fe7ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=firefox#🇩🇪 Германия | viarvpn_free.t.me
-vless://d82e3813-9c83-43a5-bd30-385ed7c20a94@37.139.42.138:443?alpn=http%2F1.1&encryption=none&path=%2Fe7ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=ios#🇩🇪 Германия | viarvpn_free.t.me
+vless://06ec3898-f952-52a5-8547-51ae1e6f0a62@51.250.106.197:443?encryption=none&extra=null&host=max.ru&pbk=LGSiGIQDFwB3IgQw8IBEsI5qfQoPQRSeUZWofnEu00U&security=reality&sni=max.ru&type=xhttp&fp=chrome#Other | viarvpn_free.t.me
+vless://06ec3898-f952-52a5-8547-51ae1e6f0a62@51.250.106.197:443?encryption=none&extra=null&host=max.ru&pbk=LGSiGIQDFwB3IgQw8IBEsI5qfQoPQRSeUZWofnEu00U&security=reality&sni=max.ru&type=xhttp&fp=edge#Other | viarvpn_free.t.me
+vless://06ec3898-f952-52a5-8547-51ae1e6f0a62@51.250.106.197:443?encryption=none&extra=null&host=max.ru&pbk=LGSiGIQDFwB3IgQw8IBEsI5qfQoPQRSeUZWofnEu00U&security=reality&sni=max.ru&type=xhttp&fp=qq#Other | viarvpn_free.t.me
