@@ -1,9 +1,13 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://ffac6b3c-d79c-4543-ab4a-3bd3019edbc1@94.198.54.132:8443?security=reality&type=grpc&serviceName=grpc&sni=reels.frkn.org&pbk=ZXvgBIvhN87thoELQot4o6b6Fe9n_wATxfobHRAwgys&sid=0498897564df&fp=android#🇷🇺 Россия | viarvpn_free.t.me
-vless://ffac6b3c-d79c-4543-ab4a-3bd3019edbc1@94.198.54.132:8443?security=reality&type=grpc&serviceName=grpc&sni=reels.frkn.org&pbk=ZXvgBIvhN87thoELQot4o6b6Fe9n_wATxfobHRAwgys&sid=0498897564df&fp=edge#🇷🇺 Россия | viarvpn_free.t.me
-vless://ffac6b3c-d79c-4543-ab4a-3bd3019edbc1@94.198.54.132:8443?security=reality&type=grpc&serviceName=grpc&sni=reels.frkn.org&pbk=ZXvgBIvhN87thoELQot4o6b6Fe9n_wATxfobHRAwgys&sid=0498897564df&fp=firefox#🇷🇺 Россия | viarvpn_free.t.me
-vless://ffac6b3c-d79c-4543-ab4a-3bd3019edbc1@94.198.54.132:8443?security=reality&type=grpc&serviceName=grpc&sni=reels.frkn.org&pbk=ZXvgBIvhN87thoELQot4o6b6Fe9n_wATxfobHRAwgys&sid=0498897564df&fp=ios#🇷🇺 Россия | viarvpn_free.t.me
-vless://ffac6b3c-d79c-4543-ab4a-3bd3019edbc1@94.198.54.132:8443?security=reality&type=grpc&serviceName=grpc&sni=reels.frkn.org&pbk=ZXvgBIvhN87thoELQot4o6b6Fe9n_wATxfobHRAwgys&sid=0498897564df&fp=qq#🇷🇺 Россия | viarvpn_free.t.me
+vless://44e1105d-b46e-402f-933b-eaa136fcbb24@195.133.198.200:7443?alpn=h2%2Chttp%2F1.1&encryption=none&mode=gun&security=tls&serviceName=grpc&sni=vd.lavivas.org&type=grpc&fp=safari#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://44e1105d-b46e-402f-933b-eaa136fcbb24@vd.lavivas.org:7443/?type=grpc&encryption=none&flow=&serviceName=grpc&security=tls&sni=vd.lavivas.org&alpn=h2%2Chttp%2F1.1&fp=chrome#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://44e1105d-b46e-402f-933b-eaa136fcbb24@vd.lavivas.org:7443/?type=grpc&encryption=none&flow=&serviceName=grpc&security=tls&sni=vd.lavivas.org&alpn=h2%2Chttp%2F1.1&fp=edge#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://44e1105d-b46e-402f-933b-eaa136fcbb24@vd.lavivas.org:7443/?type=grpc&encryption=none&flow=&serviceName=grpc&security=tls&sni=vd.lavivas.org&alpn=h2%2Chttp%2F1.1&fp=firefox#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://44e1105d-b46e-402f-933b-eaa136fcbb24@vd.lavivas.org:7443/?type=grpc&encryption=none&flow=&serviceName=grpc&security=tls&sni=vd.lavivas.org&alpn=h2%2Chttp%2F1.1&fp=qq#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://44e1105d-b46e-402f-933b-eaa136fcbb24@vdss.lavivas.org:2096/?type=grpc&encryption=none&flow=&serviceName=grpc&security=tls&sni=vdss.lavivas.org&alpn=h2&fp=firefox#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://44e1105d-b46e-402f-933b-eaa136fcbb24@vdss.lavivas.org:8080/?type=grpc&encryption=none&flow=&serviceName=grpc&security=tls&sni=vdss.lavivas.org&alpn=h2&fp=edge#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://44e1105d-b46e-402f-933b-eaa136fcbb24@vdss.lavivas.org:8080/?type=grpc&encryption=none&flow=&serviceName=grpc&security=tls&sni=vdss.lavivas.org&alpn=h2&fp=firefox#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://44e1105d-b46e-402f-933b-eaa136fcbb24@vdss.lavivas.org:8080/?type=grpc&encryption=none&flow=&serviceName=grpc&security=tls&sni=vdss.lavivas.org&alpn=h2&fp=ios#🇳🇱 Нидерланды | viarvpn_free.t.me
 vless://44e1105d-b46e-402f-933b-eaa136fcbb24@vdss.lavivas.org:8080/?type=grpc&encryption=none&flow=&serviceName=grpc&security=tls&sni=vdss.lavivas.org&alpn=h2&fp=qq#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://44e1105d-b46e-402f-933b-eaa136fcbb24@vdss.lavivas.org:8080/?type=grpc&encryption=none&flow=&serviceName=grpc&security=tls&sni=vdss.lavivas.org&alpn=h2&fp=chrome#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://44e1105d-b46e-402f-933b-eaa136fcbb24@vdss.lavivas.org:8080/?type=grpc&encryption=none&flow=&serviceName=grpc&security=tls&sni=vdss.lavivas.org&alpn=h2&fp=safari#🇳🇱 Нидерланды | viarvpn_free.t.me

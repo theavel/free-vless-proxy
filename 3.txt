@@ -1,9 +1,13 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://a76f6959-7d88-40c5-8984-4d888aa42389@90.156.218.106:2107?security=reality&encryption=none&pbk=4YFpLhV9HbwlCXzvCL8EfvYe-V-VCuXZIaOWS11lKXI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=957a14.relay-edge.net&sid=11f303a9ff001d7c&fp=safari#🇫🇮 Финляндия | viarvpn_free.t.me
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@45.8.228.167:443?encryption=none&extra=null&mode=packet-up&path=%2Fxhttp_client_upload&pbk=n7Eivi9aG8PMxvaP5flLiukPADZIDVuzyOsOWDG43kQ&security=reality&sid=5eca&sni=bl3fk52.sysopnova.art&type=xhttp&fp=android#🇮🇹 Италия | viarvpn_free.t.me
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@45.8.228.167:443?encryption=none&extra=null&mode=packet-up&path=%2Fxhttp_client_upload&pbk=n7Eivi9aG8PMxvaP5flLiukPADZIDVuzyOsOWDG43kQ&security=reality&sid=5eca&sni=bl3fk52.sysopnova.art&type=xhttp&fp=edge#🇮🇹 Италия | viarvpn_free.t.me
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@45.8.228.167:443?encryption=none&extra=null&mode=packet-up&path=%2Fxhttp_client_upload&pbk=n7Eivi9aG8PMxvaP5flLiukPADZIDVuzyOsOWDG43kQ&security=reality&sid=5eca&sni=bl3fk52.sysopnova.art&type=xhttp&fp=firefox#🇮🇹 Италия | viarvpn_free.t.me
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@45.8.228.167:443?encryption=none&extra=null&mode=packet-up&path=%2Fxhttp_client_upload&pbk=n7Eivi9aG8PMxvaP5flLiukPADZIDVuzyOsOWDG43kQ&security=reality&sid=5eca&sni=bl3fk52.sysopnova.art&type=xhttp&fp=ios#🇮🇹 Италия | viarvpn_free.t.me
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@45.8.228.167:443?encryption=none&extra=null&mode=packet-up&path=%2Fxhttp_client_upload&pbk=n7Eivi9aG8PMxvaP5flLiukPADZIDVuzyOsOWDG43kQ&security=reality&sid=5eca&sni=bl3fk52.sysopnova.art&type=xhttp&fp=safari#🇮🇹 Италия | viarvpn_free.t.me
-vless://a76f6959-7d88-40c5-8984-4d888aa42389@90.156.218.106:2104?security=reality&encryption=none&pbk=4YFpLhV9HbwlCXzvCL8EfvYe-V-VCuXZIaOWS11lKXI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=419ec9.relay-edge.net&sid=11f303a9ff001d7c&fp=android#🇪🇪 Эстония | viarvpn_free.t.me
+vless://44e1105d-b46e-402f-933b-eaa136fcbb24@45.8.228.131:8080?alpn=h2&encryption=none&mode=gun&security=tls&serviceName=grpc&sni=vdss.lavivas.org&type=grpc&fp=edge#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://44e1105d-b46e-402f-933b-eaa136fcbb24@45.8.228.131:8080?alpn=h2&encryption=none&mode=gun&security=tls&serviceName=grpc&sni=vdss.lavivas.org&type=grpc&fp=firefox#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://44e1105d-b46e-402f-933b-eaa136fcbb24@45.8.228.131:8080?alpn=h2&encryption=none&mode=gun&security=tls&serviceName=grpc&sni=vdss.lavivas.org&type=grpc&fp=ios#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://44e1105d-b46e-402f-933b-eaa136fcbb24@45.8.228.131:8080?alpn=h2&encryption=none&mode=gun&security=tls&serviceName=grpc&sni=vdss.lavivas.org&type=grpc&fp=qq#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://44e1105d-b46e-402f-933b-eaa136fcbb24@vd.lavivas.org:7443/?type=grpc&encryption=none&flow=&serviceName=grpc&security=tls&sni=vd.lavivas.org&alpn=h2%2Chttp%2F1.1&fp=safari#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://44e1105d-b46e-402f-933b-eaa136fcbb24@vd.lavivas.org:7443?type=grpc&security=tls&sni=vd.lavivas.org&serviceName=grpc&fp=chrome#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://44e1105d-b46e-402f-933b-eaa136fcbb24@vd.lavivas.org:7443?type=grpc&security=tls&sni=vd.lavivas.org&serviceName=grpc&fp=edge#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://44e1105d-b46e-402f-933b-eaa136fcbb24@vd.lavivas.org:7443?type=grpc&security=tls&sni=vd.lavivas.org&serviceName=grpc&fp=firefox#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://44e1105d-b46e-402f-933b-eaa136fcbb24@vd.lavivas.org:7443?type=grpc&security=tls&sni=vd.lavivas.org&serviceName=grpc&fp=qq#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://44e1105d-b46e-402f-933b-eaa136fcbb24@vd.lavivas.org:7443?type=grpc&security=tls&sni=vd.lavivas.org&serviceName=grpc&fp=safari#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://44e1105d-b46e-402f-933b-eaa136fcbb24@vdss.lavivas.org:2096/?type=grpc&encryption=none&flow=&serviceName=grpc&security=tls&sni=vdss.lavivas.org&alpn=h2&fp=edge#🇳🇱 Нидерланды | viarvpn_free.t.me
