@@ -1,18 +1,2 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@dostavitos.stroymatdv.cc:443?encryption=none&security=tls&type=ws&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&path=%2Fe9ws&fp=android#🇩🇪 Германия | viarvpn_free.t.me
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@dostavitos.stroymatdv.cc:443?encryption=none&security=tls&type=ws&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&path=%2Fe9ws&fp=chrome#🇩🇪 Германия | viarvpn_free.t.me
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@dostavitos.stroymatdv.cc:443?encryption=none&security=tls&type=ws&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&path=%2Fe9ws&fp=edge#🇩🇪 Германия | viarvpn_free.t.me
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@dostavitos.stroymatdv.cc:443?encryption=none&security=tls&type=ws&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&path=%2Fe9ws&fp=firefox#🇩🇪 Германия | viarvpn_free.t.me
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@dostavitos.stroymatdv.cc:443?encryption=none&security=tls&type=ws&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&path=%2Fe9ws&fp=safari#🇩🇪 Германия | viarvpn_free.t.me
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@dostavitos.stroymatdv.cc:443?encryption=none&security=tls&type=ws&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&path=%2Fe9ws&fp=qq#🇩🇪 Германия | viarvpn_free.t.me
-vless://365de9e9-ba29-0008-af2d-766f9638e3be@5.42.123.9:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=diffoscope.com&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=1c3e8241a8743df9&fp=chrome#Other | viarvpn_free.t.me
-vless://365de9e9-ba29-0008-af2d-766f9638e3be@5.42.123.9:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=diffoscope.com&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=1c3e8241a8743df9&fp=edge#Other | viarvpn_free.t.me
-vless://365de9e9-ba29-0008-af2d-766f9638e3be@5.42.123.9:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=diffoscope.com&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=1c3e8241a8743df9&fp=firefox#Other | viarvpn_free.t.me
-vless://365de9e9-ba29-0008-af2d-766f9638e3be@5.42.123.9:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=diffoscope.com&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=1c3e8241a8743df9&fp=ios#Other | viarvpn_free.t.me
-vless://365de9e9-ba29-0008-af2d-766f9638e3be@5.42.123.9:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=diffoscope.com&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=1c3e8241a8743df9&fp=qq#Other | viarvpn_free.t.me
-vless://9e4d44c2-f237-4d6b-bb09-77b839fe7ea4@obl1.finiki.lol:443?encryption=none&type=ws&security=tls&sni=obl1.finiki.lol&alpn=http%2F1.1&path=%2Fwsgate&host=obl1.finiki.lol&fp=android#Other | viarvpn_free.t.me
-vless://9e4d44c2-f237-4d6b-bb09-77b839fe7ea4@obl1.finiki.lol:443?encryption=none&type=ws&security=tls&sni=obl1.finiki.lol&alpn=http%2F1.1&path=%2Fwsgate&host=obl1.finiki.lol&fp=chrome#Other | viarvpn_free.t.me
-vless://9e4d44c2-f237-4d6b-bb09-77b839fe7ea4@obl1.finiki.lol:443?encryption=none&type=ws&security=tls&sni=obl1.finiki.lol&alpn=http%2F1.1&path=%2Fwsgate&host=obl1.finiki.lol&fp=edge#Other | viarvpn_free.t.me
-vless://9e4d44c2-f237-4d6b-bb09-77b839fe7ea4@obl1.finiki.lol:443?encryption=none&type=ws&security=tls&sni=obl1.finiki.lol&alpn=http%2F1.1&path=%2Fwsgate&host=obl1.finiki.lol&fp=ios#Other | viarvpn_free.t.me
-vless://9e4d44c2-f237-4d6b-bb09-77b839fe7ea4@obl1.finiki.lol:443?encryption=none&type=ws&security=tls&sni=obl1.finiki.lol&alpn=http%2F1.1&path=%2Fwsgate&host=obl1.finiki.lol&fp=safari#Other | viarvpn_free.t.me
