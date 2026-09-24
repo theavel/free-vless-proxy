@@ -1,14 +1,7 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://b71637c2-94a5-49bd-8233-b4ed5e3170c3@176.124.214.116:8443?encryption=none&type=ws&path=%2Fimages&host=free-ger1.wooden-table.org&security=tls&sni=free-ger1.wooden-table.org&alpn=http%2F1.1&fp=edge#🇩🇪 Германия | viarvpn_free.t.me
-vless://b71637c2-94a5-49bd-8233-b4ed5e3170c3@176.124.214.116:8443?encryption=none&type=ws&path=%2Fimages&host=free-ger1.wooden-table.org&security=tls&sni=free-ger1.wooden-table.org&alpn=http%2F1.1&fp=ios#🇩🇪 Германия | viarvpn_free.t.me
-vless://b71637c2-94a5-49bd-8233-b4ed5e3170c3@176.124.214.116:8443?encryption=none&type=ws&path=%2Fimages&host=free-ger1.wooden-table.org&security=tls&sni=free-ger1.wooden-table.org&alpn=http%2F1.1&fp=safari#🇩🇪 Германия | viarvpn_free.t.me
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@37.139.42.138:443?encryption=none&path=%2Fe9ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=android#Other | viarvpn_free.t.me
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@37.139.42.138:443?encryption=none&path=%2Fe9ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=edge#Other | viarvpn_free.t.me
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@37.139.42.138:443?encryption=none&path=%2Fe9ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=firefox#Other | viarvpn_free.t.me
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@37.139.42.138:443?encryption=none&path=%2Fe9ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=ios#Other | viarvpn_free.t.me
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@37.139.42.138:443?encryption=none&path=%2Fe9ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=qq#Other | viarvpn_free.t.me
-vless://a72ca3b6-1a26-47f5-aca3-039bb5539eb4@200.169.183.68:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=4a7b1c8d&sni=s3-m.perecmusic.ru&fp=android#Other | viarvpn_free.t.me
-vless://a72ca3b6-1a26-47f5-aca3-039bb5539eb4@200.169.183.68:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=4a7b1c8d&sni=s3-m.perecmusic.ru&fp=firefox#Other | viarvpn_free.t.me
-vless://a72ca3b6-1a26-47f5-aca3-039bb5539eb4@200.169.183.68:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=4a7b1c8d&sni=s3-m.perecmusic.ru&fp=ios#Other | viarvpn_free.t.me
-vless://a72ca3b6-1a26-47f5-aca3-039bb5539eb4@200.169.183.68:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=4a7b1c8d&sni=s3-m.perecmusic.ru&fp=qq#Other | viarvpn_free.t.me
+vless://ffac6b3c-d79c-4543-ab4a-3bd3019edbc1@94.198.54.132:8443?encryption=none&security=reality&sni=reels.frkn.org&pbk=ZXvgBIvhN87thoELQot4o6b6Fe9n_wATxfobHRAwgys&sid=0498897564df&type=grpc&serviceName=grpc&fp=ios#🇷🇺 Россия | viarvpn_free.t.me
+vless://ffac6b3c-d79c-4543-ab4a-3bd3019edbc1@94.198.54.132:8443?encryption=none&security=reality&sni=reels.frkn.org&pbk=ZXvgBIvhN87thoELQot4o6b6Fe9n_wATxfobHRAwgys&sid=0498897564df&type=grpc&serviceName=grpc&fp=android#🇷🇺 Россия | viarvpn_free.t.me
+vless://ffac6b3c-d79c-4543-ab4a-3bd3019edbc1@94.198.54.132:8443?encryption=none&security=reality&sni=reels.frkn.org&pbk=ZXvgBIvhN87thoELQot4o6b6Fe9n_wATxfobHRAwgys&sid=0498897564df&type=grpc&serviceName=grpc&fp=edge#🇷🇺 Россия | viarvpn_free.t.me
+vless://ffac6b3c-d79c-4543-ab4a-3bd3019edbc1@94.198.54.132:8443?encryption=none&security=reality&sni=reels.frkn.org&pbk=ZXvgBIvhN87thoELQot4o6b6Fe9n_wATxfobHRAwgys&sid=0498897564df&type=grpc&serviceName=grpc&fp=firefox#🇷🇺 Россия | viarvpn_free.t.me
+vless://ffac6b3c-d79c-4543-ab4a-3bd3019edbc1@94.198.54.132:8443?encryption=none&security=reality&sni=reels.frkn.org&pbk=ZXvgBIvhN87thoELQot4o6b6Fe9n_wATxfobHRAwgys&sid=0498897564df&type=grpc&serviceName=grpc&fp=qq#🇷🇺 Россия | viarvpn_free.t.me
