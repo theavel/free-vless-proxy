@@ -1,8 +1,14 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@dostavitos.stroymatdv.cc:443?encryption=none&security=tls&type=ws&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&path=%2Fe9ws&fp=chrome#🇩🇪 Германия | viarvpn_free.t.me
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@dostavitos.stroymatdv.cc:443?encryption=none&security=tls&type=ws&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&path=%2Fe9ws&fp=edge#🇩🇪 Германия | viarvpn_free.t.me
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@dostavitos.stroymatdv.cc:443?encryption=none&security=tls&type=ws&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&path=%2Fe9ws&fp=firefox#🇩🇪 Германия | viarvpn_free.t.me
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@dostavitos.stroymatdv.cc:443?encryption=none&security=tls&type=ws&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&path=%2Fe9ws&fp=qq#🇩🇪 Германия | viarvpn_free.t.me
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@dostavitos.stroymatdv.cc:443?encryption=none&security=tls&type=ws&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&path=%2Fe9ws&fp=safari#🇩🇪 Германия | viarvpn_free.t.me
-vless://ab40c8b0-268e-4251-b8a6-133a53a946ef@5.42.107.38:14443?encryption=none&host=nlf2.krevetkabs111.net&path=%2Fapi%2Fgenerate&security=tls&sni=nlf2.krevetkabs111.net&type=ws&fp=android#🇩🇪 Германия | viarvpn_free.t.me
+vless://b71637c2-94a5-49bd-8233-b4ed5e3170c3@176.124.214.116:8443?encryption=none&type=ws&path=%2Fimages&host=free-ger1.wooden-table.org&security=tls&sni=free-ger1.wooden-table.org&alpn=http%2F1.1&fp=edge#🇩🇪 Германия | viarvpn_free.t.me
+vless://b71637c2-94a5-49bd-8233-b4ed5e3170c3@176.124.214.116:8443?encryption=none&type=ws&path=%2Fimages&host=free-ger1.wooden-table.org&security=tls&sni=free-ger1.wooden-table.org&alpn=http%2F1.1&fp=ios#🇩🇪 Германия | viarvpn_free.t.me
+vless://b71637c2-94a5-49bd-8233-b4ed5e3170c3@176.124.214.116:8443?encryption=none&type=ws&path=%2Fimages&host=free-ger1.wooden-table.org&security=tls&sni=free-ger1.wooden-table.org&alpn=http%2F1.1&fp=safari#🇩🇪 Германия | viarvpn_free.t.me
+vless://365de9e9-ba29-4819-af2d-766f9638e3be@37.139.42.138:443?encryption=none&path=%2Fe9ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=android#Other | viarvpn_free.t.me
+vless://365de9e9-ba29-4819-af2d-766f9638e3be@37.139.42.138:443?encryption=none&path=%2Fe9ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=edge#Other | viarvpn_free.t.me
+vless://365de9e9-ba29-4819-af2d-766f9638e3be@37.139.42.138:443?encryption=none&path=%2Fe9ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=firefox#Other | viarvpn_free.t.me
+vless://365de9e9-ba29-4819-af2d-766f9638e3be@37.139.42.138:443?encryption=none&path=%2Fe9ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=ios#Other | viarvpn_free.t.me
+vless://365de9e9-ba29-4819-af2d-766f9638e3be@37.139.42.138:443?encryption=none&path=%2Fe9ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=qq#Other | viarvpn_free.t.me
+vless://a72ca3b6-1a26-47f5-aca3-039bb5539eb4@200.169.183.68:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=4a7b1c8d&sni=s3-m.perecmusic.ru&fp=android#Other | viarvpn_free.t.me
+vless://a72ca3b6-1a26-47f5-aca3-039bb5539eb4@200.169.183.68:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=4a7b1c8d&sni=s3-m.perecmusic.ru&fp=firefox#Other | viarvpn_free.t.me
+vless://a72ca3b6-1a26-47f5-aca3-039bb5539eb4@200.169.183.68:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=4a7b1c8d&sni=s3-m.perecmusic.ru&fp=ios#Other | viarvpn_free.t.me
+vless://a72ca3b6-1a26-47f5-aca3-039bb5539eb4@200.169.183.68:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=4a7b1c8d&sni=s3-m.perecmusic.ru&fp=qq#Other | viarvpn_free.t.me
