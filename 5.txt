@@ -1,10 +1,6 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.123.167.90:9881?encryption=none&security=reality&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabb&type=grpc&serviceName=grpc-tunnel&fp=random#Other | viarvpn_free.t.me
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.123.167.90:9881?encryption=none&security=reality&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabb&type=grpc&serviceName=grpc-tunnel&fp=safari#Other | viarvpn_free.t.me
-vless://8057eabc-921d-0003-9acb-80ccc6b48379@92.255.79.246:443?encryption=none&security=reality&sni=download.amd.com&pbk=8P2rVrZZ8v1q7WpYiRWnZ_nk2UI_4PqpN_DdZP91700&type=grpc&serviceName=Lizat&mode=multi&fp=android#Other | viarvpn_free.t.me
-vless://8057eabc-921d-0003-9acb-80ccc6b48379@92.255.79.246:443?encryption=none&security=reality&sni=download.amd.com&pbk=8P2rVrZZ8v1q7WpYiRWnZ_nk2UI_4PqpN_DdZP91700&type=grpc&serviceName=Lizat&mode=multi&fp=ios#Other | viarvpn_free.t.me
-vless://8057eabc-921d-0003-9acb-80ccc6b48379@92.255.79.246:443?encryption=none&security=reality&sni=download.amd.com&pbk=8P2rVrZZ8v1q7WpYiRWnZ_nk2UI_4PqpN_DdZP91700&type=grpc&serviceName=Lizat&mode=multi&fp=qq#Other | viarvpn_free.t.me
-vless://8057eabc-921d-0003-9acb-80ccc6b48379@92.255.79.246:443?encryption=none&security=reality&sni=download.amd.com&pbk=8P2rVrZZ8v1q7WpYiRWnZ_nk2UI_4PqpN_DdZP91700&type=grpc&serviceName=Lizat&mode=multi&fp=safari#Other | viarvpn_free.t.me
-vless://8057eabc-921d-0001-9acb-80ccc6b48379@92.255.79.246:443?encryption=none&security=reality&sni=download.amd.com&pbk=8P2rVrZZ8v1q7WpYiRWnZ_nk2UI_4PqpN_DdZP91700&type=grpc&serviceName=Lizat&mode=multi&fp=safari#Other | viarvpn_free.t.me
-vless://8057eabc-921d-0003-9acb-80ccc6b48379@92.255.79.246:443?encryption=none&security=reality&sni=download.amd.com&pbk=8P2rVrZZ8v1q7WpYiRWnZ_nk2UI_4PqpN_DdZP91700&type=grpc&serviceName=Lizat&mode=multi&fp=edge#Other | viarvpn_free.t.me
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.123.167.90:9881?encryption=none&security=reality&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&type=grpc&serviceName=grpc-tunnel&fp=firefox#Other | viarvpn_free.t.me
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.123.167.90:9881?encryption=none&security=reality&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabb&type=grpc&serviceName=grpc-tunnel&fp=firefox#Other | viarvpn_free.t.me
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.123.167.90:9881?encryption=none&security=reality&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabb&type=grpc&serviceName=grpc-tunnel&fp=ios#Other | viarvpn_free.t.me
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.123.167.90:9881?encryption=none&security=reality&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabb&type=grpc&serviceName=grpc-tunnel&fp=qq#Other | viarvpn_free.t.me
