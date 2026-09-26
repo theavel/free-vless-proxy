@@ -1,13 +1,11 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@assets-de2.pleiades.codes:443?type=grpc&headerType=none&security=tls&encryption=none&sni=assets-de2.pleiades.codes&serviceName=cdn.v1.AssetService&fp=chrome#🇷🇺 Россия | viarvpn_free.t.me
-vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@assets-de2.pleiades.codes:443?type=grpc&headerType=none&security=tls&encryption=none&sni=assets-de2.pleiades.codes&serviceName=cdn.v1.AssetService&fp=edge#🇷🇺 Россия | viarvpn_free.t.me
-vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@assets-de2.pleiades.codes:443?type=grpc&headerType=none&security=tls&encryption=none&sni=assets-de2.pleiades.codes&serviceName=cdn.v1.AssetService&fp=ios#🇷🇺 Россия | viarvpn_free.t.me
-vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@assets-de2.pleiades.codes:443?type=grpc&headerType=none&security=tls&encryption=none&sni=assets-de2.pleiades.codes&serviceName=cdn.v1.AssetService&fp=safari#🇷🇺 Россия | viarvpn_free.t.me
-vless://c40ec629-cd50-4569-8ea7-ea7c498423fd@95.133.236.241:443?mode=gun&security=reality&encryption=none&pbk=BzI9KKxbdc7fbgZpK0WX9p6jgJBVJo44dj6D15uW5HA&type=grpc&sni=ads.x5.ru&sid=77d4e9e5a5243324&fp=chrome#🇩🇪 Германия | viarvpn_free.t.me
-vless://c40ec629-cd50-4569-8ea7-ea7c498423fd@95.133.236.241:443?mode=gun&security=reality&encryption=none&pbk=BzI9KKxbdc7fbgZpK0WX9p6jgJBVJo44dj6D15uW5HA&type=grpc&sni=ads.x5.ru&sid=77d4e9e5a5243324&fp=firefox#🇩🇪 Германия | viarvpn_free.t.me
-vless://c40ec629-cd50-4569-8ea7-ea7c498423fd@95.133.236.241:443?mode=gun&security=reality&encryption=none&pbk=BzI9KKxbdc7fbgZpK0WX9p6jgJBVJo44dj6D15uW5HA&type=grpc&sni=ads.x5.ru&sid=77d4e9e5a5243324&fp=qq#🇩🇪 Германия | viarvpn_free.t.me
-vless://c40ec629-cd50-4569-8ea7-ea7c498423fd@95.133.236.241:443?mode=gun&security=reality&encryption=none&pbk=BzI9KKxbdc7fbgZpK0WX9p6jgJBVJo44dj6D15uW5HA&type=grpc&sni=ads.x5.ru&sid=77d4e9e5a5243324&fp=safari#🇩🇪 Германия | viarvpn_free.t.me
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@37.139.42.138:443?encryption=none&path=%2Fe9ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=random#🇩🇪 Германия | viarvpn_free.t.me
+vless://365de9e9-ba29-4819-af2d-766f9638e3be@dostavitos.stroymatdv.cc:443?encryption=none&security=tls&type=ws&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&path=%2Fe9ws&fp=android#🇩🇪 Германия | viarvpn_free.t.me
+vless://365de9e9-ba29-4819-af2d-766f9638e3be@dostavitos.stroymatdv.cc:443?encryption=none&security=tls&type=ws&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&path=%2Fe9ws&fp=chrome#🇩🇪 Германия | viarvpn_free.t.me
+vless://365de9e9-ba29-4819-af2d-766f9638e3be@dostavitos.stroymatdv.cc:443?encryption=none&security=tls&type=ws&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&path=%2Fe9ws&fp=safari#🇩🇪 Германия | viarvpn_free.t.me
 vless://365de9e9-ba29-4819-af2d-766f9638e3be@37.139.42.138:443?encryption=none&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&path=%2Fe9ws&host=dostavitos.stroymatdv.cc&fp=random#🇩🇪 Германия | viarvpn_free.t.me
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@37.139.42.138:443?encryption=none&path=%2Fe9ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=android#🇩🇪 Германия | viarvpn_free.t.me
+vless://365de9e9-ba29-4819-af2d-766f9638e3be@dostavitos.stroymatdv.cc:443?encryption=none&security=tls&type=ws&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&path=%2Fe9ws&fp=ios#🇩🇪 Германия | viarvpn_free.t.me
+vless://365de9e9-ba29-4819-af2d-766f9638e3be@dostavitos.stroymatdv.cc:443?type=ws&security=tls&path=%2Fe9ws&sni=dostavitos.stroymatdv.cc&fp=safari#🇩🇪 Германия | viarvpn_free.t.me
+vless://365de9e9-ba29-4819-af2d-766f9638e3be@37.139.42.138:443?encryption=none&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&path=%2Fe9ws&host=dostavitos.stroymatdv.cc&fp=chrome#🇩🇪 Германия | viarvpn_free.t.me
+vless://365de9e9-ba29-4819-af2d-766f9638e3be@37.139.42.138:443?encryption=none&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&path=%2Fe9ws&host=dostavitos.stroymatdv.cc&fp=edge#🇩🇪 Германия | viarvpn_free.t.me
+vless://365de9e9-ba29-4819-af2d-766f9638e3be@37.139.42.138:443?encryption=none&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&path=%2Fe9ws&host=dostavitos.stroymatdv.cc&fp=qq#🇩🇪 Германия | viarvpn_free.t.me
