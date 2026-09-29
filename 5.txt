@@ -1,10 +1,5 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://a545e637-ca12-477f-9f91-f80e15cb51b0@158.160.206.62:443?encryption=none&security=tls&sni=usa1s.xn--ghqu5fm27b67w.com&type=ws&path=%2Fpq%2Fus1&host=usa1s.xn--ghqu5fm27b67w.com&fp=chrome#Other | viarvpn_free.t.me
-vless://a545e637-ca12-477f-9f91-f80e15cb51b0@158.160.206.62:443?encryption=none&security=tls&sni=usa1s.xn--ghqu5fm27b67w.com&type=ws&path=%2Fpq%2Fus1&host=usa1s.xn--ghqu5fm27b67w.com&fp=firefox#Other | viarvpn_free.t.me
-vless://a545e637-ca12-477f-9f91-f80e15cb51b0@158.160.206.62:443?encryption=none&security=tls&sni=usa1s.xn--ghqu5fm27b67w.com&type=ws&path=%2Fpq%2Fus1&host=usa1s.xn--ghqu5fm27b67w.com&fp=ios#Other | viarvpn_free.t.me
-vless://a545e637-ca12-477f-9f91-f80e15cb51b0@158.160.206.62:443?encryption=none&security=tls&sni=usa1s.xn--ghqu5fm27b67w.com&type=ws&path=%2Fpq%2Fus1&host=usa1s.xn--ghqu5fm27b67w.com&fp=safari#Other | viarvpn_free.t.me
-vless://c4f5d29c-9eec-4451-861e-3b13d0549f85@s1b2w5zn.dendiboss.org:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=s1b2w5zn.dendiboss.org&pbk=uIzdlp-LZNt9VPhNdoKlQQ_m7jiRmS4uz0odXe2oGmk&sid=53dbb497&fp=android#Other | viarvpn_free.t.me
-vless://c4f5d29c-9eec-4451-861e-3b13d0549f85@s1b2w5zn.dendiboss.org:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=s1b2w5zn.dendiboss.org&pbk=uIzdlp-LZNt9VPhNdoKlQQ_m7jiRmS4uz0odXe2oGmk&sid=53dbb497&fp=chrome#Other | viarvpn_free.t.me
-vless://c4f5d29c-9eec-4451-861e-3b13d0549f85@s1b2w5zn.dendiboss.org:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=s1b2w5zn.dendiboss.org&pbk=uIzdlp-LZNt9VPhNdoKlQQ_m7jiRmS4uz0odXe2oGmk&sid=53dbb497&fp=edge#Other | viarvpn_free.t.me
-vless://c4f5d29c-9eec-4451-861e-3b13d0549f85@s1b2w5zn.dendiboss.org:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=s1b2w5zn.dendiboss.org&pbk=uIzdlp-LZNt9VPhNdoKlQQ_m7jiRmS4uz0odXe2oGmk&sid=53dbb497&fp=safari#Other | viarvpn_free.t.me
+vless://Fluffy_VPN-8d7GxL0p@195.209.219.176:443?security=reality&type=tcp&sni=absolute-disaster.org&flow=xtls-rprx-vision&pbk=AzPJmJdRCwGXucsY1R-YPZk5xdxRo5IZPAWsA3JWOUI&fp=chrome#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://Fluffy_VPN-8d7GxL0p@195.209.219.176:443?security=reality&type=tcp&sni=absolute-disaster.org&flow=xtls-rprx-vision&pbk=AzPJmJdRCwGXucsY1R-YPZk5xdxRo5IZPAWsA3JWOUI&fp=firefox#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://Fluffy_VPN-8d7GxL0p@195.209.219.176:443?security=reality&type=tcp&sni=absolute-disaster.org&flow=xtls-rprx-vision&pbk=AzPJmJdRCwGXucsY1R-YPZk5xdxRo5IZPAWsA3JWOUI&fp=safari#🇳🇱 Нидерланды | viarvpn_free.t.me

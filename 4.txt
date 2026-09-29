@@ -1,10 +1,5 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://3e628fe4-2cbf-4740-9e49-d8b5d9b61916@185.178.208.176:443?encryption=none&host=cdn1.pandaonline.org&path=%2Fstream%2F119857546%2Fchat&security=tls&sni=cdn1.pandaonline.org&type=ws&fp=safari#🇵🇱 Польша | viarvpn_free.t.me
-vless://3e628fe4-2cbf-4740-9e49-d8b5d9b61916@185.178.208.176:443?encryption=none&host=cdn1.pandaonline.org&path=%2Fstream%2F119857546%2Fchat&security=tls&sni=cdn1.pandaonline.org&type=ws&fp=qq#🇵🇱 Польша | viarvpn_free.t.me
-vless://3e628fe4-2cbf-4740-9e49-d8b5d9b61916@cdn1.pandaonline.org:443?alpn=h3&encryption=none&host=cdn1.pandaonline.org&path=%2Fstream%2F119857546%2Fchat&security=tls&sni=cdn1.pandaonline.org&type=ws&fp=chrome#🇵🇱 Польша | viarvpn_free.t.me
-vless://3e628fe4-2cbf-4740-9e49-d8b5d9b61916@cdn1.pandaonline.org:443?alpn=h3&encryption=none&host=cdn1.pandaonline.org&path=%2Fstream%2F119857546%2Fchat&security=tls&sni=cdn1.pandaonline.org&type=ws&fp=edge#🇵🇱 Польша | viarvpn_free.t.me
-vless://3e628fe4-2cbf-4740-9e49-d8b5d9b61916@cdn1.pandaonline.org:443?alpn=h3&encryption=none&host=cdn1.pandaonline.org&path=%2Fstream%2F119857546%2Fchat&security=tls&sni=cdn1.pandaonline.org&type=ws&fp=firefox#🇵🇱 Польша | viarvpn_free.t.me
-vless://3e628fe4-2cbf-4740-9e49-d8b5d9b61916@cdn1.pandaonline.org:443?alpn=h3&encryption=none&host=cdn1.pandaonline.org&path=%2Fstream%2F119857546%2Fchat&security=tls&sni=cdn1.pandaonline.org&type=ws&fp=ios#🇵🇱 Польша | viarvpn_free.t.me
-vless://3e628fe4-2cbf-4740-9e49-d8b5d9b61916@cdn1.pandaonline.org:443?alpn=h3&encryption=none&host=cdn1.pandaonline.org&path=%2Fstream%2F119857546%2Fchat&security=tls&sni=cdn1.pandaonline.org&type=ws&fp=qq#🇵🇱 Польша | viarvpn_free.t.me
-vless://a545e637-ca12-477f-9f91-f80e15cb51b0@158.160.206.62:443?encryption=none&security=tls&sni=usa1s.xn--ghqu5fm27b67w.com&type=ws&path=%2Fpq%2Fus1&host=usa1s.xn--ghqu5fm27b67w.com&fp=android#Other | viarvpn_free.t.me
+vless://ff2936d3-caa4-4b79-bb96-1475bd39ceda@113.30.154.75:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp&fp=safari#🇷🇺 Россия | viarvpn_free.t.me
+vless://Fluffy_VPN-8d7GxL0p@195.209.219.176:443?security=reality&type=tcp&sni=absolute-disaster.org&flow=xtls-rprx-vision&pbk=AzPJmJdRCwGXucsY1R-YPZk5xdxRo5IZPAWsA3JWOUI&fp=ios#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://Fluffy_VPN-8d7GxL0p@195.209.219.176:443?security=reality&type=tcp&sni=absolute-disaster.org&flow=xtls-rprx-vision&pbk=AzPJmJdRCwGXucsY1R-YPZk5xdxRo5IZPAWsA3JWOUI&fp=android#🇳🇱 Нидерланды | viarvpn_free.t.me
