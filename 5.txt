@@ -1,8 +1,18 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://2412bd96-925b-43f2-81d1-0ed4f0793699@72.56.11.73:443?encryption=none&flow=xtls-rprx-vision&pbk=q_PjPQ1Qlq_iOlyxaXIJOggz59tYpuCHfksd8MzBhXE&security=reality&sid=b3ef5984820e8da0&sni=dlcdn.apache.org&type=tcp&fp=qq#🇪🇸 Испания | viarvpn_free.t.me
-vless://027d304a-90a9-48c4-ad3c-599d4fabd59d@46.8.21.214:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fast123.slopllex.app&fp=chrome#Other | viarvpn_free.t.me
-vless://027d304a-90a9-48c4-ad3c-599d4fabd59d@46.8.21.214:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fast123.slopllex.app&fp=firefox#Other | viarvpn_free.t.me
-vless://027d304a-90a9-48c4-ad3c-599d4fabd59d@46.8.21.214:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fast123.slopllex.app&fp=ios#Other | viarvpn_free.t.me
-vless://027d304a-90a9-48c4-ad3c-599d4fabd59d@46.8.21.214:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fast123.slopllex.app&fp=qq#Other | viarvpn_free.t.me
-vless://027d304a-90a9-48c4-ad3c-599d4fabd59d@46.8.21.214:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fast123.slopllex.app&fp=safari#Other | viarvpn_free.t.me
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@45.132.177.96:9889?encryption=none&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc&fp=random#Other | viarvpn_free.t.me
+vless://a9c66e1a-798e-437f-b0bf-f06c32a9666a@46.253.143.185:25947?security=reality&encryption=none&pbk=CQlKsUxdTGqcS0I4ZZUzUzIvWzOowSeaPbWk0IKaxC0&headerType=none&type=tcp&sni=vk.com&sid=650ae4b84a581e1c&fp=android#Other | viarvpn_free.t.me
+vless://a9c66e1a-798e-437f-b0bf-f06c32a9666a@46.253.143.185:25947?security=reality&encryption=none&pbk=CQlKsUxdTGqcS0I4ZZUzUzIvWzOowSeaPbWk0IKaxC0&headerType=none&type=tcp&sni=vk.com&sid=650ae4b84a581e1c&fp=chrome#Other | viarvpn_free.t.me
+vless://9737cc16-7266-45ce-94d9-6e05a45e0b9c@84.38.181.249:443?allowInsecure=1&encryption=none&path=%2F&pbk=pyZ0M0nE3aGx2UtCXNhajcneyCF4E8J3zpxhIKkQw0w&security=reality&sid=6bc02f1c474260c3&sni=open.spotify.com&type=xhttp&fp=chrome#Other | viarvpn_free.t.me
+vless://9737cc16-7266-45ce-94d9-6e05a45e0b9c@84.38.181.249:443?allowInsecure=1&encryption=none&path=%2F&pbk=pyZ0M0nE3aGx2UtCXNhajcneyCF4E8J3zpxhIKkQw0w&security=reality&sid=6bc02f1c474260c3&sni=open.spotify.com&type=xhttp&fp=edge#Other | viarvpn_free.t.me
+vless://9737cc16-7266-45ce-94d9-6e05a45e0b9c@84.38.181.249:443?allowInsecure=1&encryption=none&path=%2F&pbk=pyZ0M0nE3aGx2UtCXNhajcneyCF4E8J3zpxhIKkQw0w&security=reality&sid=6bc02f1c474260c3&sni=open.spotify.com&type=xhttp&fp=firefox#Other | viarvpn_free.t.me
+vless://9737cc16-7266-45ce-94d9-6e05a45e0b9c@84.38.181.249:443?allowInsecure=1&encryption=none&path=%2F&pbk=pyZ0M0nE3aGx2UtCXNhajcneyCF4E8J3zpxhIKkQw0w&security=reality&sid=6bc02f1c474260c3&sni=open.spotify.com&type=xhttp&fp=ios#Other | viarvpn_free.t.me
+vless://9737cc16-7266-45ce-94d9-6e05a45e0b9c@84.38.181.249:443?allowInsecure=1&encryption=none&path=%2F&pbk=pyZ0M0nE3aGx2UtCXNhajcneyCF4E8J3zpxhIKkQw0w&security=reality&sid=6bc02f1c474260c3&sni=open.spotify.com&type=xhttp&fp=qq#Other | viarvpn_free.t.me
+vless://e0b9fb0f-1bbd-478b-9580-c2294778338b@201.34.159.213:443?encryption=none&security=tls&serviceName=cdn.v1.AssetService&sni=us1.g4m1.biz&type=grpc&fp=edge#Other | viarvpn_free.t.me
+vless://e0b9fb0f-1bbd-478b-9580-c2294778338b@201.34.159.213:443?encryption=none&security=tls&serviceName=cdn.v1.AssetService&sni=us1.g4m1.biz&type=grpc&fp=firefox#Other | viarvpn_free.t.me
+vless://e0b9fb0f-1bbd-478b-9580-c2294778338b@201.34.159.221:443?encryption=none&security=tls&serviceName=cdn.v1.AssetService&sni=us1.g4m1.biz&type=grpc&fp=firefox#Other | viarvpn_free.t.me
+vless://e0b9fb0f-1bbd-478b-9580-c2294778338b@201.34.159.221:443?encryption=none&security=tls&serviceName=cdn.v1.AssetService&sni=us1.g4m1.biz&type=grpc&fp=ios#Other | viarvpn_free.t.me
+vless://e0b9fb0f-1bbd-478b-9580-c2294778338b@us1.g4m1.biz:443?encryption=none&security=tls&sni=us1.g4m1.biz&alpn=h2&type=grpc&serviceName=cdn.v1.AssetService&fp=android#Other | viarvpn_free.t.me
+vless://e0b9fb0f-1bbd-478b-9580-c2294778338b@us1.g4m1.biz:443?encryption=none&security=tls&sni=us1.g4m1.biz&alpn=h2&type=grpc&serviceName=cdn.v1.AssetService&fp=random#Other | viarvpn_free.t.me
+vless://2bca4849-d000-4e92-bb53-574edc5a4355@45.144.179.225:8444?security=reality&type=grpc&mode=gun&serviceName=vk.com&sni=falngl.lindenwork.com&sid=1a7e154c&pbk=39DW91UjCxZi3ZaGWKfTLmQSvcc34PQXZFU26WSzxww&encryption=none&fp=chrome#Other | viarvpn_free.t.me
+vless://2bca4849-d000-4e92-bb53-574edc5a4355@45.144.179.225:8444?security=reality&type=grpc&mode=gun&serviceName=vk.com&sni=falngl.lindenwork.com&sid=1a7e154c&pbk=39DW91UjCxZi3ZaGWKfTLmQSvcc34PQXZFU26WSzxww&encryption=none&fp=ios#Other | viarvpn_free.t.me
