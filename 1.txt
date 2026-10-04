@@ -1,11 +1,6 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://e785cccf-2740-4478-bb91-f8f6302421c4@46.8.209.137:443?alpn=http%2F1.1&encryption=none&path=%2Fassets%2Fchunk%2FmvQTG32WRbIF&security=tls&sni=orionv1.online&type=ws&fp=edge#🇩🇪 Германия | viarvpn_free.t.me
-vless://e785cccf-2740-4478-bb91-f8f6302421c4@46.8.209.137:443?alpn=http%2F1.1&encryption=none&path=%2Fassets%2Fchunk%2FmvQTG32WRbIF&security=tls&sni=orionv1.online&type=ws&fp=firefox#🇩🇪 Германия | viarvpn_free.t.me
-vless://e785cccf-2740-4478-bb91-f8f6302421c4@46.8.209.137:443?alpn=http%2F1.1&encryption=none&path=%2Fassets%2Fchunk%2FmvQTG32WRbIF&security=tls&sni=orionv1.online&type=ws&fp=ios#🇩🇪 Германия | viarvpn_free.t.me
-vless://e785cccf-2740-4478-bb91-f8f6302421c4@46.8.209.137:443?alpn=http%2F1.1&encryption=none&path=%2Fassets%2Fchunk%2FmvQTG32WRbIF&security=tls&sni=orionv1.online&type=ws&fp=qq#🇩🇪 Германия | viarvpn_free.t.me
-vless://3f222a01-62d1-5e63-b9b8-6668ff0088b5@5.188.81.58:500/?type=xhttp&encryption=none&flow=&host=media.illusion-id.ru&path=%2Flive%2Fseg&mode=auto&security=tls&sni=media.illusion-id.ru&alpn=h3&fp=chrome#🇸🇪 Швеция | viarvpn_free.t.me
-vless://bcd297ab-f064-0031-a659-5d7f90075fa8@161.104.38.98:443?type=xhttp&path=%2Fassets&security=reality&sni=donatov.net&pbk=kYwdZueXQt_DEKPrWTw8yoj6G4AWqupg8UrWjAgWbkE&sid=8ba6e72ee60667f6&fp=edge#🇸🇪 Швеция | viarvpn_free.t.me
-vless://bcd297ab-f064-0031-a659-5d7f90075fa8@161.104.38.98:443?type=xhttp&path=%2Fassets&security=reality&sni=donatov.net&pbk=kYwdZueXQt_DEKPrWTw8yoj6G4AWqupg8UrWjAgWbkE&sid=8ba6e72ee60667f6&fp=ios#🇸🇪 Швеция | viarvpn_free.t.me
-vless://bcd297ab-f064-0031-a659-5d7f90075fa8@161.104.38.98:443?type=xhttp&path=%2Fassets&security=reality&sni=donatov.net&pbk=kYwdZueXQt_DEKPrWTw8yoj6G4AWqupg8UrWjAgWbkE&sid=8ba6e72ee60667f6&fp=qq#🇸🇪 Швеция | viarvpn_free.t.me
-vless://bcd297ab-f064-0031-a659-5d7f90075fa8@161.104.38.98:443?type=xhttp&path=%2Fassets&security=reality&sni=donatov.net&pbk=kYwdZueXQt_DEKPrWTw8yoj6G4AWqupg8UrWjAgWbkE&sid=8ba6e72ee60667f6&fp=safari#🇸🇪 Швеция | viarvpn_free.t.me
+vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&fp=chrome#🇵🇱 Польша | viarvpn_free.t.me
+vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&fp=firefox#🇵🇱 Польша | viarvpn_free.t.me
+vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&fp=ios#🇵🇱 Польша | viarvpn_free.t.me
+vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&fp=safari#🇵🇱 Польша | viarvpn_free.t.me
