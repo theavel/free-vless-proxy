@@ -1,7 +1,6 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://a5893c8b-28a2-4947-9a1c-708db25506c3@95.129.236.124:443?security=tls&type=ws&sni=console.game-booster.sowt.app&path=%2Fgateway%2Fv1%2Fws%2F7b24d0b5be48f08bc93aea0617ae9d57&host=console.game-booster.sowt.app&fp=firefox#🇵🇱 Польша | viarvpn_free.t.me
-vless://a5893c8b-28a2-4947-9a1c-708db25506c3@95.129.236.124:443?security=tls&type=ws&sni=console.game-booster.sowt.app&path=%2Fgateway%2Fv1%2Fws%2F7b24d0b5be48f08bc93aea0617ae9d57&host=console.game-booster.sowt.app&fp=ios#🇵🇱 Польша | viarvpn_free.t.me
+vless://a5893c8b-28a2-4947-9a1c-708db25506c3@95.129.236.124:443?encryption=none&host=console.game-booster.sowt.app&path=%2Fgateway%2Fv1%2Fws%2F7b24d0b5be48f08bc93aea0617ae9d57&security=tls&sni=console.game-booster.sowt.app&type=ws&fp=safari#🇵🇱 Польша | viarvpn_free.t.me
 vless://9ea8b000-58ce-0050-b108-989dd4f248f1@31.131.251.17:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=quatro.lmstream.org&type=raw&fp=chrome#🇵🇱 Польша | viarvpn_free.t.me
 vless://9ea8b000-58ce-0050-b108-989dd4f248f1@31.131.251.17:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=quatro.lmstream.org&type=raw&fp=firefox#🇵🇱 Польша | viarvpn_free.t.me
 vless://9ea8b000-58ce-0050-b108-989dd4f248f1@31.131.251.17:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=quatro.lmstream.org&type=raw&fp=ios#🇵🇱 Польша | viarvpn_free.t.me
@@ -11,7 +10,7 @@ vless://9ea8b000-58ce-0050-b108-989dd4f248f1@31.131.251.17:443?encryption=none&f
 vless://9ea8b000-58ce-0050-b108-989dd4f248f1@31.131.251.17:443?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=quatro.lmstream.org&type=raw&fp=ios#🇵🇱 Польша | viarvpn_free.t.me
 vless://9ea8b000-58ce-0050-b108-989dd4f248f1@31.131.251.17:443?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=quatro.lmstream.org&type=raw&fp=qq#🇵🇱 Польша | viarvpn_free.t.me
 vless://9ea8b000-58ce-0050-b108-989dd4f248f1@31.131.251.17:443?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=quatro.lmstream.org&type=raw&fp=safari#🇵🇱 Польша | viarvpn_free.t.me
+vless://a5893c8b-28a2-4947-9a1c-708db25506c3@91.215.43.248:443?encryption=none&host=my.kempekl.online&path=%2Fgateway%2Fv1%2Fws%2Fa64eb463966ba9c4bfd628f1de0362ae&security=tls&sni=my.kempekl.online&type=ws&fp=chrome#🇵🇱 Польша | viarvpn_free.t.me
 vless://a5893c8b-28a2-4947-9a1c-708db25506c3@91.215.43.248:443?encryption=none&host=my.kempekl.online&path=%2Fgateway%2Fv1%2Fws%2Fa64eb463966ba9c4bfd628f1de0362ae&security=tls&sni=my.kempekl.online&type=ws&fp=firefox#🇵🇱 Польша | viarvpn_free.t.me
 vless://a5893c8b-28a2-4947-9a1c-708db25506c3@91.215.43.248:443?encryption=none&host=my.kempekl.online&path=%2Fgateway%2Fv1%2Fws%2Fa64eb463966ba9c4bfd628f1de0362ae&security=tls&sni=my.kempekl.online&type=ws&fp=qq#🇵🇱 Польша | viarvpn_free.t.me
-vless://4f4ba283-2dd7-4eda-9211-63ae357373cf@ns.l90909l.vip:2096?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com&fp=edge#🇨🇭 Швейцария | viarvpn_free.t.me
-vless://4f4ba283-2dd7-4eda-9211-63ae357373cf@ns.l90909l.vip:2096?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com&fp=safari#🇨🇭 Швейцария | viarvpn_free.t.me
+vless://a5893c8b-28a2-4947-9a1c-708db25506c3@91.215.43.248:443?encryption=none&host=my.kempekl.online&path=%2Fgateway%2Fv1%2Fws%2Fa64eb463966ba9c4bfd628f1de0362ae&security=tls&sni=my.kempekl.online&type=ws&fp=safari#🇵🇱 Польша | viarvpn_free.t.me
