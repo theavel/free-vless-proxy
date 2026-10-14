@@ -1,6 +1,5 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://81ee7b74-7ccd-4ccb-8f4b-f1bd02f0491e@storage.fatcutecat.net:443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=storage.fatcutecat.net&fp=chrome#🇷🇺 Россия | viarvpn_free.t.me
 vless://81ee7b74-7ccd-4ccb-8f4b-f1bd02f0491e@storage.fatcutecat.net:443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=storage.fatcutecat.net&fp=edge#🇷🇺 Россия | viarvpn_free.t.me
 vless://81ee7b74-7ccd-4ccb-8f4b-f1bd02f0491e@storage.fatcutecat.net:443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=storage.fatcutecat.net&fp=ios#🇷🇺 Россия | viarvpn_free.t.me
 vless://81ee7b74-7ccd-4ccb-8f4b-f1bd02f0491e@storage.fatcutecat.net:443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=storage.fatcutecat.net&fp=qq#🇷🇺 Россия | viarvpn_free.t.me

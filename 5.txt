@@ -1,6 +1,5 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?type=raw&security=reality&encryption=none&sni=eh.vk.ru&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&flow=xtls-rprx-vision&headerType=none&fp=chrome#🇵🇱 Польша | viarvpn_free.t.me
-vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?type=raw&security=reality&encryption=none&sni=eh.vk.ru&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&flow=xtls-rprx-vision&headerType=none&fp=firefox#🇵🇱 Польша | viarvpn_free.t.me
-vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?type=raw&security=reality&encryption=none&sni=eh.vk.ru&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&flow=xtls-rprx-vision&headerType=none&fp=ios#🇵🇱 Польша | viarvpn_free.t.me
-vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?type=raw&security=reality&encryption=none&sni=eh.vk.ru&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&flow=xtls-rprx-vision&headerType=none&fp=safari#🇵🇱 Польша | viarvpn_free.t.me
+vless://81ee7b74-7ccd-4ccb-8f4b-f1bd02f0491e@185.46.11.136:443?encryption=none&security=tls&sni=storage.fatcutecat.net&type=tcp&fp=ios#Other | viarvpn_free.t.me
+vless://81ee7b74-7ccd-4ccb-8f4b-f1bd02f0491e@185.46.11.136:443?encryption=none&security=tls&sni=storage.fatcutecat.net&type=tcp&fp=qq#Other | viarvpn_free.t.me
+vless://81ee7b74-7ccd-4ccb-8f4b-f1bd02f0491e@185.46.11.136:443?encryption=none&security=tls&sni=storage.fatcutecat.net&type=tcp&fp=safari#Other | viarvpn_free.t.me

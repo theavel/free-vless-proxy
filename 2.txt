@@ -1,6 +1,5 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
 vless://81ee7b74-7ccd-4ccb-8f4b-f1bd02f0491e@storage.fatcutecat.net:443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=storage.fatcutecat.net&fp=safari#🇷🇺 Россия | viarvpn_free.t.me
-vless://244d9eab-3311-40c7-b47f-4968dc3088a6@45.139.24.74:443?security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&type=raw&flow=xtls-rprx-vision&sni=tcprus5.figurapn.ru&sid=868419504747f6de&fp=android#🇷🇺 Россия | viarvpn_free.t.me
+vless://81ee7b74-7ccd-4ccb-8f4b-f1bd02f0491e@storage.fatcutecat.net:443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=storage.fatcutecat.net&fp=chrome#🇷🇺 Россия | viarvpn_free.t.me
 vless://244d9eab-3311-40c7-b47f-4968dc3088a6@45.139.24.74:443?security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&type=raw&flow=xtls-rprx-vision&sni=tcprus5.figurapn.ru&sid=868419504747f6de&fp=chrome#🇷🇺 Россия | viarvpn_free.t.me
-vless://244d9eab-3311-40c7-b47f-4968dc3088a6@45.139.24.74:443?security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&type=raw&flow=xtls-rprx-vision&sni=tcprus5.figurapn.ru&sid=868419504747f6de&fp=edge#🇷🇺 Россия | viarvpn_free.t.me
