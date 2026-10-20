@@ -1,6 +1,8 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://381f7080-8f2c-49db-8321-dae85bee2115@9.247.34.134:8443?encryption=none&type=grpc&security=reality&sni=www.rutube.ru&pbk=KXrPtOUvDVBzcpniQ5Q9hLbuo99B0g5pz97oVJn0LGk&sid=50c503221adcb931&spx=%2F&serviceName=api.v1.Sync&fp=android#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://381f7080-8f2c-49db-8321-dae85bee2115@9.247.34.134:8443?encryption=none&type=grpc&security=reality&sni=www.rutube.ru&pbk=KXrPtOUvDVBzcpniQ5Q9hLbuo99B0g5pz97oVJn0LGk&sid=50c503221adcb931&spx=%2F&serviceName=api.v1.Sync&fp=chrome#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://381f7080-8f2c-49db-8321-dae85bee2115@9.247.34.134:8443?encryption=none&type=grpc&security=reality&sni=www.rutube.ru&pbk=KXrPtOUvDVBzcpniQ5Q9hLbuo99B0g5pz97oVJn0LGk&sid=50c503221adcb931&spx=%2F&serviceName=api.v1.Sync&fp=qq#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://381f7080-8f2c-49db-8321-dae85bee2115@9.247.34.134:8443?encryption=none&type=grpc&security=reality&sni=www.rutube.ru&pbk=KXrPtOUvDVBzcpniQ5Q9hLbuo99B0g5pz97oVJn0LGk&sid=50c503221adcb931&spx=%2F&serviceName=api.v1.Sync&fp=safari#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:8443?flow=xtls-rprx-vision&security=reality&sni=edge-fr.extazy.net&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&fp=chrome#🇩🇪 Германия | viarvpn_free.t.me
+vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:8443?flow=xtls-rprx-vision&security=reality&sni=edge-fr.extazy.net&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&fp=safari#🇩🇪 Германия | viarvpn_free.t.me
+vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.146.8:443?type=xhttp&security=reality&encryption=none&sni=max.ru&pbk=biyXF3Egpu0ul4Jyf04Vh1Zl6u3JGXJ2k5y5y7pDjgo&headerType=none&fp=android#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.146.8:443?type=xhttp&security=reality&encryption=none&sni=max.ru&pbk=biyXF3Egpu0ul4Jyf04Vh1Zl6u3JGXJ2k5y5y7pDjgo&headerType=none&fp=chrome#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.146.8:443?type=xhttp&security=reality&encryption=none&sni=max.ru&pbk=biyXF3Egpu0ul4Jyf04Vh1Zl6u3JGXJ2k5y5y7pDjgo&headerType=none&fp=ios#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.146.8:443?type=xhttp&security=reality&encryption=none&sni=max.ru&pbk=biyXF3Egpu0ul4Jyf04Vh1Zl6u3JGXJ2k5y5y7pDjgo&headerType=none&fp=safari#🇳🇱 Нидерланды | viarvpn_free.t.me
