@@ -1,16 +1,3 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://9ab9291e-fd72-4af9-b227-93419e90ff2e@185.76.241.186:443?encryption=none&flow=xtls-rprx-vision&pbk=NUjWUMNrcZKkvXmnK--E7wn_YyhEH6c-YOqjDMHWAxA&security=reality&sid=686b3e179573a80a&sni=ru-in-ind-4vp.movietop24.site&type=tcp&fp=firefox#🇮🇩 Индонезия | viarvpn_free.t.me
-vless://2f9107cb-9af0-4c94-a89d-50437218e5fa@87.228.71.195:443?encryption=none&security=tls&sni=ap2.directly.chat&type=ws&path=%2Fmd%2F1&host=ap2.directly.chat&fp=android#Other | viarvpn_free.t.me
-vless://2f9107cb-9af0-4c94-a89d-50437218e5fa@87.228.71.195:443?encryption=none&security=tls&sni=ap2.directly.chat&type=ws&path=%2Fmd%2F1&host=ap2.directly.chat&fp=chrome#Other | viarvpn_free.t.me
-vless://2f9107cb-9af0-4c94-a89d-50437218e5fa@87.228.71.195:443?encryption=none&security=tls&sni=ap2.directly.chat&type=ws&path=%2Fmd%2F1&host=ap2.directly.chat&fp=edge#Other | viarvpn_free.t.me
-vless://2f9107cb-9af0-4c94-a89d-50437218e5fa@87.228.71.195:443?encryption=none&security=tls&sni=ap2.directly.chat&type=ws&path=%2Fmd%2F1&host=ap2.directly.chat&fp=ios#Other | viarvpn_free.t.me
-vless://2f9107cb-9af0-4c94-a89d-50437218e5fa@87.228.71.195:443?encryption=none&security=tls&sni=ap2.directly.chat&type=ws&path=%2Fmd%2F1&host=ap2.directly.chat&fp=qq#Other | viarvpn_free.t.me
-vless://2f9107cb-9af0-4c94-a89d-50437218e5fa@87.228.71.195:443?encryption=none&security=tls&sni=ap2.directly.chat&type=ws&path=%2Fmd%2F1&host=ap2.directly.chat&fp=random#Other | viarvpn_free.t.me
-vless://2f9107cb-9af0-4c94-a89d-50437218e5fa@87.228.71.195:443?security=tls&sni=ap2.directly.chat&type=ws&host=ap2.directly.chat&path=%2Fmd%2F1&alpn=h2%2Chttp%2F1.1&allowInsecure=0&fp=chrome#Other | viarvpn_free.t.me
-vless://2f9107cb-9af0-4c94-a89d-50437218e5fa@87.228.71.195:443?security=tls&sni=ap2.directly.chat&type=ws&host=ap2.directly.chat&path=%2Fmd%2F1&alpn=h2%2Chttp%2F1.1&allowInsecure=0&fp=ios#Other | viarvpn_free.t.me
-vless://2f9107cb-9af0-4c94-a89d-50437218e5fa@87.228.71.196:443?encryption=none&security=tls&sni=ap2.directly.chat&type=ws&path=%2Fmd%2F1&host=ap2.directly.chat&fp=android#Other | viarvpn_free.t.me
-vless://2f9107cb-9af0-4c94-a89d-50437218e5fa@87.228.71.196:443?encryption=none&security=tls&sni=ap2.directly.chat&type=ws&path=%2Fmd%2F1&host=ap2.directly.chat&fp=chrome#Other | viarvpn_free.t.me
-vless://2f9107cb-9af0-4c94-a89d-50437218e5fa@87.228.71.196:443?encryption=none&security=tls&sni=ap2.directly.chat&type=ws&path=%2Fmd%2F1&host=ap2.directly.chat&fp=ios#Other | viarvpn_free.t.me
-vless://2f9107cb-9af0-4c94-a89d-50437218e5fa@87.228.71.196:443?encryption=none&security=tls&sni=ap2.directly.chat&type=ws&path=%2Fmd%2F1&host=ap2.directly.chat&fp=qq#Other | viarvpn_free.t.me
-vless://2f9107cb-9af0-4c94-a89d-50437218e5fa@87.228.71.196:443?encryption=none&security=tls&sni=ap2.directly.chat&type=ws&path=%2Fmd%2F1&host=ap2.directly.chat&fp=random#Other | viarvpn_free.t.me
+vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:8443?flow=xtls-rprx-vision&security=reality&sni=edge-fr.extazy.net&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&fp=firefox#Other | viarvpn_free.t.me
