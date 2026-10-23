@@ -1,5 +1,18 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://6258d81e-70ad-41f2-b15d-3e6ee8fb3009@subs.wildvf.esal.cl:443/?type=httpupgrade&encryption=none&flow=&path=%2Fvless%2F40004&security=tls&sni=subs.wildvf.esal.cl&fp=android#Other | viarvpn_free.t.me
-vless://6258d81e-70ad-41f2-b15d-3e6ee8fb3009@subs.wildvf.esal.cl:443/?type=httpupgrade&encryption=none&flow=&path=%2Fvless%2F40004&security=tls&sni=subs.wildvf.esal.cl&fp=chrome#Other | viarvpn_free.t.me
-vless://6258d81e-70ad-41f2-b15d-3e6ee8fb3009@subs.wildvf.esal.cl:443/?type=httpupgrade&encryption=none&flow=&path=%2Fvless%2F40004&security=tls&sni=subs.wildvf.esal.cl&fp=firefox#Other | viarvpn_free.t.me
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@113.30.154.229:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gb.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=edge#Other | viarvpn_free.t.me
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@113.30.154.229:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gb.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=ios#Other | viarvpn_free.t.me
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@113.30.154.229:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gb.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=qq#Other | viarvpn_free.t.me
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@113.30.154.229:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gb.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=safari#Other | viarvpn_free.t.me
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@147.45.46.153:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gb.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=android#Other | viarvpn_free.t.me
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@147.45.46.153:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gb.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=edge#Other | viarvpn_free.t.me
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@147.45.46.153:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gb.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=qq#Other | viarvpn_free.t.me
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@147.45.46.153:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gb.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=safari#Other | viarvpn_free.t.me
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@193.160.141.17:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gb.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=android#Other | viarvpn_free.t.me
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@193.160.141.17:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gb.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=ios#Other | viarvpn_free.t.me
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@193.160.141.17:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gb.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=qq#Other | viarvpn_free.t.me
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@193.160.141.17:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gb.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=safari#Other | viarvpn_free.t.me
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@193.223.104.143:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gb.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=android#Other | viarvpn_free.t.me
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@193.223.104.143:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gb.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome#Other | viarvpn_free.t.me
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@193.223.104.143:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gb.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=edge#Other | viarvpn_free.t.me
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@193.223.104.143:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gb.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=safari#Other | viarvpn_free.t.me
