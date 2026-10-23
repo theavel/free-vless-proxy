@@ -1,16 +1,9 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://f85af535-d0ff-437f-ad79-4be0e7c1f350@fast_s78.slopllex.app:443?security=tls&sni=fast_s78.slopllex.app&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none&fp=ios#🇫🇮 Финляндия | viarvpn_free.t.me
-vless://f85af535-d0ff-437f-ad79-4be0e7c1f350@fast_s78.slopllex.app:443?security=tls&sni=fast_s78.slopllex.app&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none&fp=edge#🇫🇮 Финляндия | viarvpn_free.t.me
-vless://f85af535-d0ff-437f-ad79-4be0e7c1f350@fast_s78.slopllex.app:443?security=tls&sni=fast_s78.slopllex.app&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none&fp=firefox#🇫🇮 Финляндия | viarvpn_free.t.me
-vless://f85af535-d0ff-437f-ad79-4be0e7c1f350@fast_s78.slopllex.app:443?security=tls&sni=fast_s78.slopllex.app&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none&fp=qq#🇫🇮 Финляндия | viarvpn_free.t.me
-vless://f85af535-d0ff-437f-ad79-4be0e7c1f350@fast_s78.slopllex.app:443?security=tls&sni=fast_s78.slopllex.app&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none&fp=safari#🇫🇮 Финляндия | viarvpn_free.t.me
-vless://21ffcccd-8fbe-43fb-9dd1-24452fdfa8ad@188.225.38.216:443/?type=grpc&encryption=none&flow=&serviceName=lalibobi.orbit.v3.Connect&security=tls&sni=lalibobi.online&fp=android#🇪🇪 Эстония | viarvpn_free.t.me
-vless://21ffcccd-8fbe-43fb-9dd1-24452fdfa8ad@188.225.38.216:443/?type=grpc&encryption=none&flow=&serviceName=lalibobi.orbit.v3.Connect&security=tls&sni=lalibobi.online&fp=chrome#🇪🇪 Эстония | viarvpn_free.t.me
-vless://21ffcccd-8fbe-43fb-9dd1-24452fdfa8ad@188.225.38.216:443/?type=grpc&encryption=none&flow=&serviceName=lalibobi.orbit.v3.Connect&security=tls&sni=lalibobi.online&fp=firefox#🇪🇪 Эстония | viarvpn_free.t.me
-vless://21ffcccd-8fbe-43fb-9dd1-24452fdfa8ad@188.225.38.216:443/?type=grpc&encryption=none&flow=&serviceName=lalibobi.orbit.v3.Connect&security=tls&sni=lalibobi.online&fp=ios#🇪🇪 Эстония | viarvpn_free.t.me
-vless://21ffcccd-8fbe-43fb-9dd1-24452fdfa8ad@188.225.38.216:443/?type=grpc&encryption=none&flow=&serviceName=lalibobi.orbit.v3.Connect&security=tls&sni=lalibobi.online&fp=safari#🇪🇪 Эстония | viarvpn_free.t.me
-vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.180.13:443?encryption=none&extra=null&host=api-maps.yandex.ru&pbk=DuxQy3KWEZTU_sBhXSfeo_1Q0-0lMcSnx21bWvUi5hQ&security=reality&sni=api-maps.yandex.ru&type=xhttp&fp=android#Other | viarvpn_free.t.me
-vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.180.13:443?encryption=none&extra=null&host=api-maps.yandex.ru&pbk=DuxQy3KWEZTU_sBhXSfeo_1Q0-0lMcSnx21bWvUi5hQ&security=reality&sni=api-maps.yandex.ru&type=xhttp&fp=ios#Other | viarvpn_free.t.me
-vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.180.13:443?encryption=none&extra=null&host=api-maps.yandex.ru&pbk=DuxQy3KWEZTU_sBhXSfeo_1Q0-0lMcSnx21bWvUi5hQ&security=reality&sni=api-maps.yandex.ru&type=xhttp&fp=safari#Other | viarvpn_free.t.me
-vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.180.13:443?type=xhttp&security=reality&encryption=none&sni=api-maps.yandex.ru&pbk=DuxQy3KWEZTU_sBhXSfeo_1Q0-0lMcSnx21bWvUi5hQ&headerType=none&fp=firefox#Other | viarvpn_free.t.me
+vless://6258d81e-70ad-41f2-b15d-3e6ee8fb3009@132.243.214.145:443?encryption=none&path=%2Fvless%2F40004&security=tls&sni=subs.wildvf.esal.cl&type=httpupgrade&fp=android#🇫🇮 Финляндия | viarvpn_free.t.me
+vless://6258d81e-70ad-41f2-b15d-3e6ee8fb3009@132.243.214.145:443?encryption=none&path=%2Fvless%2F40004&security=tls&sni=subs.wildvf.esal.cl&type=httpupgrade&fp=chrome#🇫🇮 Финляндия | viarvpn_free.t.me
+vless://6258d81e-70ad-41f2-b15d-3e6ee8fb3009@132.243.214.145:443?encryption=none&path=%2Fvless%2F40004&security=tls&sni=subs.wildvf.esal.cl&type=httpupgrade&fp=firefox#🇫🇮 Финляндия | viarvpn_free.t.me
+vless://6258d81e-70ad-41f2-b15d-3e6ee8fb3009@132.243.214.145:443?encryption=none&path=%2Fvless%2F40004&security=tls&sni=subs.wildvf.esal.cl&type=httpupgrade&fp=ios#🇫🇮 Финляндия | viarvpn_free.t.me
+vless://6258d81e-70ad-41f2-b15d-3e6ee8fb3009@132.243.214.145:443?encryption=none&path=%2Fvless%2F40004&security=tls&sni=subs.wildvf.esal.cl&type=httpupgrade&fp=safari#🇫🇮 Финляндия | viarvpn_free.t.me
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&headerType=&type=tcp&sni=www.samsung.com&sid=6c5c7900406a1ae7&fp=edge#🇳🇴 Норвегия | viarvpn_free.t.me
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&headerType=&type=tcp&sni=www.samsung.com&sid=6c5c7900406a1ae7&fp=ios#🇳🇴 Норвегия | viarvpn_free.t.me
