@@ -1,26 +1,21 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@3f8efdt.fi1.h1clayd.click:443?encryption=none&security=reality&sni=3f8efdt.fi1.h1clayd.click&pbk=1D_o1pqfVoReg9zLPKNy1wCL7aGWytbmbYPbbJGaozY&sid=023a1e6ffc32be10&type=tcp&headerType=none&fp=safari#🇫🇮 Финляндия | viarvpn_free.t.me
-vless://d9f72f92-484c-4fbc-87ad-b41a4e17a4da@data-hz32.crm.hourtley.com:443?security=tls&sni=data-hz32.crm.hourtley.com&type=ws&path=%2Forigin%2F190546791%2Ffetch&fp=firefox#🇱🇹 Литва | viarvpn_free.t.me
-vless://d9f72f92-484c-4fbc-87ad-b41a4e17a4da@data-hz32.crm.hourtley.com:443?security=tls&sni=data-hz32.crm.hourtley.com&type=ws&path=%2Forigin%2F190546791%2Ffetch&fp=qq#🇱🇹 Литва | viarvpn_free.t.me
-vless://69158986-cfae-4567-8391-0f96d9d985bd@router.hermit.pw:19133?security=reality&sni=music.apple.com&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&sid=10a59b0a94367ac2&type=xhttp&path=%2F&mode=auto&encryption=none&fp=chrome#🇨🇾 Кипр | viarvpn_free.t.me
+vless://69158986-cfae-4567-8391-0f96d9d985bd@89.208.210.53:19133?encryption=none&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&security=reality&sni=music.apple.com&type=xhttp&fp=qq#🇨🇾 Кипр | viarvpn_free.t.me
 vless://69158986-cfae-4567-8391-0f96d9d985bd@router.hermit.pw:19133?security=reality&sni=music.apple.com&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&sid=10a59b0a94367ac2&type=xhttp&path=%2F&mode=auto&encryption=none&fp=safari#🇨🇾 Кипр | viarvpn_free.t.me
 vless://69158986-cfae-4567-8391-0f96d9d985bd@router.hermit.pw:19133?security=reality&sni=music.apple.com&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&type=xhttp&path=%2F&mode=auto&fp=firefox#🇨🇾 Кипр | viarvpn_free.t.me
-vless://69158986-cfae-4567-8391-0f96d9d985bd@89.208.210.53:19133?encryption=none&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&security=reality&sni=music.apple.com&type=xhttp&fp=qq#🇨🇾 Кипр | viarvpn_free.t.me
-vless://69158986-cfae-4567-8391-0f96d9d985bd@89.208.210.53:19133?encryption=none&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&security=reality&sni=music.apple.com&type=xhttp&fp=safari#🇨🇾 Кипр | viarvpn_free.t.me
+vless://69158986-cfae-4567-8391-0f96d9d985bd@89.208.210.53:19133?encryption=none&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&security=reality&sni=music.apple.com&type=xhttp&fp=firefox#🇨🇾 Кипр | viarvpn_free.t.me
+vless://69158986-cfae-4567-8391-0f96d9d985bd@router.hermit.pw:19133?security=reality&sni=music.apple.com&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&sid=10a59b0a94367ac2&type=xhttp&path=%2F&mode=auto&encryption=none&fp=chrome#🇨🇾 Кипр | viarvpn_free.t.me
 vless://69158986-cfae-4567-8391-0f96d9d985bd@router.hermit.pw:19133?security=reality&sni=music.apple.com&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&type=xhttp&path=%2F&mode=auto&fp=chrome#🇨🇾 Кипр | viarvpn_free.t.me
-vless://69158986-cfae-4567-8391-0f96d9d985bd@router.hermit.pw:19133?security=reality&sni=music.apple.com&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&type=xhttp&path=%2F&mode=auto&fp=safari#🇨🇾 Кипр | viarvpn_free.t.me
+vless://c8b3c1d7-4294-4f30-9e5b-e4693b64d518@185.86.145.142:443?alpn=http%2F1.1&encryption=none&host=deliverya.online&path=%2Fadrws&security=tls&sni=deliverya.online&type=ws&fp=edge#Other | viarvpn_free.t.me
 vless://c8b3c1d7-4294-4f30-9e5b-e4693b64d518@185.86.145.142:443?host=deliverya.online&path=%2Fadrws&security=tls&sni=deliverya.online&type=ws&fp=firefox#Other | viarvpn_free.t.me
 vless://c8b3c1d7-4294-4f30-9e5b-e4693b64d518@185.86.145.142:443?host=deliverya.online&path=%2Fadrws&security=tls&sni=deliverya.online&type=ws&fp=ios#Other | viarvpn_free.t.me
 vless://c8b3c1d7-4294-4f30-9e5b-e4693b64d518@185.86.145.142:443?host=deliverya.online&path=%2Fadrws&security=tls&sni=deliverya.online&type=ws&fp=safari#Other | viarvpn_free.t.me
+vless://c8b3c1d7-4294-4f30-9e5b-e4693b64d518@185.86.145.142:443?security=tls&type=ws&sni=deliverya.online&path=%2Fadrws&fp=chrome#Other | viarvpn_free.t.me
+vless://c8b3c1d7-4294-4f30-9e5b-e4693b64d518@185.86.145.142:443?security=tls&type=ws&sni=deliverya.online&path=%2Fadrws&fp=edge#Other | viarvpn_free.t.me
+vless://c8b3c1d7-4294-4f30-9e5b-e4693b64d518@185.86.145.142:443?security=tls&type=ws&sni=deliverya.online&path=%2Fadrws&fp=qq#Other | viarvpn_free.t.me
 vless://c8b3c1d7-4294-4f30-9e5b-e4693b64d518@deliverya.online:443?type=ws&security=tls&path=%2Fadrws&sni=deliverya.online&fp=chrome#Other | viarvpn_free.t.me
-vless://c8b3c1d7-4294-4f30-9e5b-e4693b64d518@deliverya.online:443?type=ws&security=tls&path=%2Fadrws&sni=deliverya.online&fp=edge#Other | viarvpn_free.t.me
 vless://c8b3c1d7-4294-4f30-9e5b-e4693b64d518@185.86.145.142:443?alpn=http%2F1.1&encryption=none&host=deliverya.online&path=%2Fadrws&security=tls&sni=deliverya.online&type=ws&fp=android#Other | viarvpn_free.t.me
 vless://c8b3c1d7-4294-4f30-9e5b-e4693b64d518@185.86.145.142:443?alpn=http%2F1.1&encryption=none&host=deliverya.online&path=%2Fadrws&security=tls&sni=deliverya.online&type=ws&fp=chrome#Other | viarvpn_free.t.me
-vless://c8b3c1d7-4294-4f30-9e5b-e4693b64d518@185.86.145.142:443?alpn=http%2F1.1&encryption=none&host=deliverya.online&path=%2Fadrws&security=tls&sni=deliverya.online&type=ws&fp=edge#Other | viarvpn_free.t.me
 vless://c8b3c1d7-4294-4f30-9e5b-e4693b64d518@185.86.145.142:443?alpn=http%2F1.1&encryption=none&host=deliverya.online&path=%2Fadrws&security=tls&sni=deliverya.online&type=ws&fp=ios#Other | viarvpn_free.t.me
-vless://c8b3c1d7-4294-4f30-9e5b-e4693b64d518@185.86.145.142:443?type=ws&security=tls&path=%2Fadrws&sni=deliverya.online&fp=chrome#Other | viarvpn_free.t.me
-vless://c8b3c1d7-4294-4f30-9e5b-e4693b64d518@185.86.145.142:443?type=ws&security=tls&path=%2Fadrws&sni=deliverya.online&fp=edge#Other | viarvpn_free.t.me
-vless://c8b3c1d7-4294-4f30-9e5b-e4693b64d518@185.86.145.142:443?type=ws&security=tls&path=%2Fadrws&sni=deliverya.online&fp=qq#Other | viarvpn_free.t.me
 vless://c8b3c1d7-4294-4f30-9e5b-e4693b64d518@deliverya.online:443?encryption=none&type=ws&security=tls&sni=deliverya.online&alpn=http%2F1.1&path=%2Fadrws&host=deliverya.online&fp=android#Other | viarvpn_free.t.me
 vless://c8b3c1d7-4294-4f30-9e5b-e4693b64d518@deliverya.online:443?encryption=none&type=ws&security=tls&sni=deliverya.online&alpn=http%2F1.1&path=%2Fadrws&host=deliverya.online&fp=chrome#Other | viarvpn_free.t.me
