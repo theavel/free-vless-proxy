@@ -1,15 +1,8 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://073b7df7-5527-45a2-ba29-183b85c39071@194.55.239.89:443?encryption=none&path=%2Flive.stream.v1.Broadcast%2F&security=tls&sni=broadcast.liveflow.space&type=ws&fp=edge#🇪🇪 Эстония | viarvpn_free.t.me
-vless://073b7df7-5527-45a2-ba29-183b85c39071@194.55.239.89:443?encryption=none&path=%2Flive.stream.v1.Broadcast%2F&security=tls&sni=broadcast.liveflow.space&type=ws&fp=ios#🇪🇪 Эстония | viarvpn_free.t.me
-vless://073b7df7-5527-45a2-ba29-183b85c39071@194.55.239.89:443?security=tls&type=ws&sni=broadcast.liveflow.space&path=%2Flive.stream.v1.Broadcast%2F&host=broadcast.liveflow.space&fp=edge#🇪🇪 Эстония | viarvpn_free.t.me
-vless://f439e4fe-139b-4882-ad8b-a16176d09c88@94.183.195.113:20064?security=reality&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sni=94.183.195.113&fp=firefox#🇹🇷 Турция | viarvpn_free.t.me
-vless://f439e4fe-139b-4882-ad8b-a16176d09c88@94.183.195.113:20064?security=reality&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sni=94.183.195.113&fp=safari#🇹🇷 Турция | viarvpn_free.t.me
-vless://a2200b5e-bed4-4d5f-8b05-1daf12f4322d@83.166.251.25:43000?security=reality&encryption=none&pbk=ux8nnKsidZNSIvm54EQf2RdXVawMCwto2DZiUNU1UQg&headerType=none&spx=%2F&type=tcp&flow=xtls-rprx-vision&sid=2ab73e0b&fp=android#Other | viarvpn_free.t.me
-vless://a2200b5e-bed4-4d5f-8b05-1daf12f4322d@83.166.251.25:43000?security=reality&encryption=none&pbk=ux8nnKsidZNSIvm54EQf2RdXVawMCwto2DZiUNU1UQg&headerType=none&spx=%2F&type=tcp&flow=xtls-rprx-vision&sid=2ab73e0b&fp=chrome#Other | viarvpn_free.t.me
-vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru2.radiolumens.uk:9444?mode=auto&path=%2Fberu-uk&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=ru2.radiolumens.uk&allowInsecure=0&insecure=0&fp=chrome#Other | viarvpn_free.t.me
-vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru2.radiolumens.uk:9444?mode=auto&path=%2Fberu-uk&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=ru2.radiolumens.uk&allowInsecure=0&insecure=0&fp=edge#Other | viarvpn_free.t.me
-vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru2.radiolumens.uk:9444?mode=auto&path=%2Fberu-uk&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=ru2.radiolumens.uk&allowInsecure=0&insecure=0&fp=firefox#Other | viarvpn_free.t.me
-vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru2.radiolumens.uk:9444?mode=auto&path=%2Fberu-uk&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=ru2.radiolumens.uk&allowInsecure=0&insecure=0&fp=ios#Other | viarvpn_free.t.me
 vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru2.radiolumens.uk:9444?mode=auto&path=%2Fberu-uk&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=ru2.radiolumens.uk&allowInsecure=0&insecure=0&fp=qq#Other | viarvpn_free.t.me
 vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru2.radiolumens.uk:9444?mode=auto&path=%2Fberu-uk&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=ru2.radiolumens.uk&allowInsecure=0&insecure=0&fp=safari#Other | viarvpn_free.t.me
+vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru2.radiolumens.uk:9444?type=xhttp&security=tls&sni=ru2.radiolumens.uk&path=%2Fberu-uk&mode=auto&fp=chrome#Other | viarvpn_free.t.me
+vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru2.radiolumens.uk:9444?type=xhttp&security=tls&sni=ru2.radiolumens.uk&path=%2Fberu-uk&mode=auto&fp=firefox#Other | viarvpn_free.t.me
+vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru2.radiolumens.uk:9444?type=xhttp&security=tls&sni=ru2.radiolumens.uk&path=%2Fberu-uk&mode=auto&fp=ios#Other | viarvpn_free.t.me
+vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru2.radiolumens.uk:9444?type=xhttp&security=tls&sni=ru2.radiolumens.uk&path=%2Fberu-uk&mode=auto&fp=safari#Other | viarvpn_free.t.me
