@@ -1,14 +1,13 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252F1.1&fp=edge#🇱🇹 Литва | viarvpn_free.t.me
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252F1.1&fp=qq#🇱🇹 Литва | viarvpn_free.t.me
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2F1.1&fp=chrome#🇱🇹 Литва | viarvpn_free.t.me
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2F1.1&fp=firefox#🇱🇹 Литва | viarvpn_free.t.me
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2F1.1&fp=ios#🇱🇹 Литва | viarvpn_free.t.me
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2F1.1&fp=safari#🇱🇹 Литва | viarvpn_free.t.me
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=firefox#🇱🇹 Литва | viarvpn_free.t.me
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=qq#🇱🇹 Литва | viarvpn_free.t.me
-vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?alpn=http%2F1.1&encryption=none&host=bhjolq0d0l.flowersgood.top&insecure=0&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&security=tls&sni=bhjolq0d0l.flowersgood.top&type=ws&fp=android#Other | viarvpn_free.t.me
-vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?alpn=http%2F1.1&encryption=none&host=bhjolq0d0l.flowersgood.top&insecure=0&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&security=tls&sni=bhjolq0d0l.flowersgood.top&type=ws&fp=ios#Other | viarvpn_free.t.me
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@185.178.208.167:443?type=ws&security=tls&encryption=none&path=%2Fblog%2Fposts&host=lorettmay.top&sni=lorettmay.top&alpn=http%2F1.1&headerType=none&fp=edge#Other | viarvpn_free.t.me
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@185.178.208.167:443?type=ws&security=tls&encryption=none&path=%2Fblog%2Fposts&host=lorettmay.top&sni=lorettmay.top&alpn=http%2F1.1&headerType=none&fp=ios#Other | viarvpn_free.t.me
+vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?security=tls&type=ws&sni=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&host=bhjolq0d0l.flowersgood.top&alpn=http%2F1.1&allowInsecure=0&insecure=0&fp=chrome#Other | viarvpn_free.t.me
+vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?security=tls&type=ws&sni=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&host=bhjolq0d0l.flowersgood.top&alpn=http%2F1.1&allowInsecure=0&insecure=0&fp=firefox#Other | viarvpn_free.t.me
+vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?security=tls&type=ws&sni=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&host=bhjolq0d0l.flowersgood.top&alpn=http%2F1.1&allowInsecure=0&insecure=0&fp=ios#Other | viarvpn_free.t.me
+vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@87.242.102.214:443?security=reality&flow=xtls-rprx-vision&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&sni=poputal.belka.tv&fp=chrome#Other | viarvpn_free.t.me
+vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@87.242.102.214:443?security=reality&flow=xtls-rprx-vision&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&sni=poputal.belka.tv&fp=firefox#Other | viarvpn_free.t.me
+vless://90157e25-cee1-4217-921e-91f300bc1a24@31.177.111.121:443?security=tls&sni=100gramm.pro&alpn=http%2F1.1&type=ws&host=100gramm.pro&path=%2Fservice%2Ftelemetry%2F44fc835751aa%2F&fp=edge#Other | viarvpn_free.t.me
+vless://90157e25-cee1-4217-921e-91f300bc1a24@31.177.111.121:443?security=tls&sni=100gramm.pro&alpn=http%2F1.1&type=ws&host=100gramm.pro&path=%2Fservice%2Ftelemetry%2F44fc835751aa%2F&fp=firefox#Other | viarvpn_free.t.me
+vless://5159ee41-1fb8-42e9-8c09-160aa3fc3160@176.108.241.72:443?security=reality&flow=xtls-rprx-vision&pbk=mZjATY7nGyp_ikhe2PakXak5JWk2ORn9vl_lO2WpICs&sid=ad0cb77acd87a7ca&sni=ru-cdn.cdn-ozon.icu&fp=firefox#Other | viarvpn_free.t.me
+vless://5159ee41-1fb8-42e9-8c09-160aa3fc3160@176.108.241.72:443?security=reality&flow=xtls-rprx-vision&pbk=mZjATY7nGyp_ikhe2PakXak5JWk2ORn9vl_lO2WpICs&sid=ad0cb77acd87a7ca&sni=ru-cdn.cdn-ozon.icu&fp=qq#Other | viarvpn_free.t.me
