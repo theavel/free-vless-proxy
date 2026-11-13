@@ -1,5 +1,10 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%25252525252F1.1&fp=chrome#🇱🇹 Литва | viarvpn_free.t.me
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%25252525252F1.1&fp=qq#🇱🇹 Литва | viarvpn_free.t.me
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%25252525252F1.1&fp=safari#🇱🇹 Литва | viarvpn_free.t.me
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252525252F1.1&fp=firefox#🇱🇹 Литва | viarvpn_free.t.me
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252F1.1&fp=android#🇱🇹 Литва | viarvpn_free.t.me
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252F1.1&fp=chrome#🇱🇹 Литва | viarvpn_free.t.me
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252F1.1&fp=edge#🇱🇹 Литва | viarvpn_free.t.me
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252F1.1&fp=qq#🇱🇹 Литва | viarvpn_free.t.me
@@ -9,8 +14,4 @@ vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252F1.1&fp=android#🇱🇹 Литва | viarvpn_free.t.me
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252F1.1&fp=chrome#🇱🇹 Литва | viarvpn_free.t.me
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252F1.1&fp=edge#🇱🇹 Литва | viarvpn_free.t.me
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252F1.1&fp=qq#🇱🇹 Литва | viarvpn_free.t.me
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2F1.1&fp=chrome#🇱🇹 Литва | viarvpn_free.t.me
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2F1.1&fp=firefox#🇱🇹 Литва | viarvpn_free.t.me
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2F1.1&fp=ios#🇱🇹 Литва | viarvpn_free.t.me
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2F1.1&fp=safari#🇱🇹 Литва | viarvpn_free.t.me
