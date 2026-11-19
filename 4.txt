@@ -1,20 +1,7 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@willow.filnex.baby:443?encryption=none&type=ws&security=tls&sni=willowcroft.moltex.click&alpn=http%2F1.1&path=%2Fapi%2Fde1%2Fstream&fp=safari#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@willowbank.moltex.click:443?encryption=none&type=xhttp&security=tls&sni=daylily.moltex.click&alpn=h2%2Chttp%2F1.1&path=%2Fapi%2Fde2%2Fsync&host=willowbank.moltex.click&mode=auto&fp=android#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@willowbank.moltex.click:443?encryption=none&type=xhttp&security=tls&sni=daylily.moltex.click&alpn=h2%2Chttp%2F1.1&path=%2Fapi%2Fde2%2Fsync&host=willowbank.moltex.click&mode=auto&fp=chrome#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@willowbank.moltex.click:443?encryption=none&type=xhttp&security=tls&sni=daylily.moltex.click&alpn=h2%2Chttp%2F1.1&path=%2Fapi%2Fde2%2Fsync&host=willowbank.moltex.click&mode=auto&fp=firefox#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@willowbank.moltex.click:443?encryption=none&type=xhttp&security=tls&sni=daylily.moltex.click&alpn=h2%2Chttp%2F1.1&path=%2Fapi%2Fde2%2Fsync&host=willowbank.moltex.click&mode=auto&fp=ios#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@willowbank.moltex.click:443?encryption=none&type=xhttp&security=tls&sni=daylily.moltex.click&alpn=h2%2Chttp%2F1.1&path=%2Fapi%2Fde2%2Fsync&host=willowbank.moltex.click&mode=auto&fp=qq#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@woodgrain.filnex.baby:443?encryption=none&type=ws&security=tls&sni=birchshade.elvano.website&alpn=http%2F1.1&path=%2Fapi%2Fde2%2Fstream&fp=chrome#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@woodgrain.filnex.baby:443?encryption=none&type=ws&security=tls&sni=birchshade.elvano.website&alpn=http%2F1.1&path=%2Fapi%2Fde2%2Fstream&fp=edge#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@woodgrain.filnex.baby:443?encryption=none&type=ws&security=tls&sni=birchshade.elvano.website&alpn=http%2F1.1&path=%2Fapi%2Fde2%2Fstream&fp=firefox#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@woodgrain.filnex.baby:443?encryption=none&type=ws&security=tls&sni=birchshade.elvano.website&alpn=http%2F1.1&path=%2Fapi%2Fde2%2Fstream&fp=ios#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@woodgrain.filnex.baby:443?encryption=none&type=ws&security=tls&sni=birchshade.elvano.website&alpn=http%2F1.1&path=%2Fapi%2Fde2%2Fstream&fp=safari#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@ws3.falmero.store:443?encryption=none&type=ws&security=tls&sni=canvas.merlano.monster&alpn=http%2F1.1&path=%2Fapi%2Fde1%2Fstream&fp=android#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@ws3.falmero.store:443?encryption=none&type=ws&security=tls&sni=canvas.merlano.monster&alpn=http%2F1.1&path=%2Fapi%2Fde1%2Fstream&fp=chrome#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@ws3.falmero.store:443?encryption=none&type=ws&security=tls&sni=canvas.merlano.monster&alpn=http%2F1.1&path=%2Fapi%2Fde1%2Fstream&fp=firefox#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@ws3.falmero.store:443?encryption=none&type=ws&security=tls&sni=canvas.merlano.monster&alpn=http%2F1.1&path=%2Fapi%2Fde1%2Fstream&fp=ios#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@ws3.falmero.store:443?encryption=none&type=ws&security=tls&sni=canvas.merlano.monster&alpn=http%2F1.1&path=%2Fapi%2Fde1%2Fstream&fp=safari#🇩🇪 Германия | viarvpn_free.t.me
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@168.113.143.5:443?flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&fp=edge#Other | viarvpn_free.t.me
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@168.113.143.5:443?flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&fp=firefox#Other | viarvpn_free.t.me
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@168.113.143.5:443?flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&fp=random#Other | viarvpn_free.t.me
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@168.113.143.5:443?flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&fp=safari#Other | viarvpn_free.t.me
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@rsk3.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&type=tcp&fp=edge#Other | viarvpn_free.t.me
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@rsk3.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&type=tcp&fp=random#Other | viarvpn_free.t.me
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@rsk3.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&type=tcp&fp=chrome#Other | viarvpn_free.t.me

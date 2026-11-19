@@ -1,17 +1,6 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@168.113.143.5:443?flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&fp=ios#Other | viarvpn_free.t.me
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@168.113.143.5:443?flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&fp=qq#Other | viarvpn_free.t.me
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@168.113.143.5:443?flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&fp=random#Other | viarvpn_free.t.me
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@168.113.143.5:443?flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&fp=safari#Other | viarvpn_free.t.me
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@rsk3.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&type=tcp&fp=ios#Other | viarvpn_free.t.me
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@rsk3.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&type=tcp&fp=random#Other | viarvpn_free.t.me
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@rsk3.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&type=tcp&fp=safari#Other | viarvpn_free.t.me
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@rsk3.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&type=tcp&fp=chrome#Other | viarvpn_free.t.me
 vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@rsk3.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&type=tcp&fp=firefox#Other | viarvpn_free.t.me
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@rsk3.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&type=tcp&fp=ios#Other | viarvpn_free.t.me
 vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@rsk3.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&type=tcp&fp=qq#Other | viarvpn_free.t.me
-vless://b2744db0-1c64-4218-a93b-9eba0e5f811f@87.242.94.49:443?security=tls&sni=radio-prichal.online&alpn=http%2F1.1&type=ws&path=%2Fcheckout%2Fstep%2FTweBulkxumU_&fp=chrome#Other | viarvpn_free.t.me
-vless://b2744db0-1c64-4218-a93b-9eba0e5f811f@87.242.94.49:443?security=tls&sni=radio-prichal.online&alpn=http%2F1.1&type=ws&path=%2Fcheckout%2Fstep%2FTweBulkxumU_&fp=edge#Other | viarvpn_free.t.me
-vless://b2744db0-1c64-4218-a93b-9eba0e5f811f@87.242.94.49:443?security=tls&sni=radio-prichal.online&alpn=http%2F1.1&type=ws&path=%2Fcheckout%2Fstep%2FTweBulkxumU_&fp=firefox#Other | viarvpn_free.t.me
-vless://b2744db0-1c64-4218-a93b-9eba0e5f811f@87.242.94.49:443?security=tls&sni=radio-prichal.online&alpn=http%2F1.1&type=ws&path=%2Fcheckout%2Fstep%2FTweBulkxumU_&fp=ios#Other | viarvpn_free.t.me
-vless://b2744db0-1c64-4218-a93b-9eba0e5f811f@87.242.94.49:443?security=tls&sni=radio-prichal.online&alpn=http%2F1.1&type=ws&path=%2Fcheckout%2Fstep%2FTweBulkxumU_&fp=safari#Other | viarvpn_free.t.me
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@rsk3.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&type=tcp&fp=safari#Other | viarvpn_free.t.me

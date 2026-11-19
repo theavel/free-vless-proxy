@@ -1,20 +1,7 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@almanac.filnex.baby:443?encryption=none&type=grpc&security=tls&sni=morningfen.merlano.monster&alpn=h2&serviceName=glush.de1.v1&fp=qq#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@almanac.filnex.baby:443?encryption=none&type=grpc&security=tls&sni=morningfen.merlano.monster&alpn=h2&serviceName=glush.de1.v1&fp=safari#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@bookend.filnex.baby:443?encryption=none&type=ws&security=tls&sni=hollowreed.gerqix.online&alpn=http%2F1.1&path=%2Fapi%2Fde1%2Fstream&fp=android#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@bookend.filnex.baby:443?encryption=none&type=ws&security=tls&sni=hollowreed.gerqix.online&alpn=http%2F1.1&path=%2Fapi%2Fde1%2Fstream&fp=chrome#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@bookend.filnex.baby:443?encryption=none&type=ws&security=tls&sni=hollowreed.gerqix.online&alpn=http%2F1.1&path=%2Fapi%2Fde1%2Fstream&fp=firefox#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@bookend.filnex.baby:443?encryption=none&type=ws&security=tls&sni=hollowreed.gerqix.online&alpn=http%2F1.1&path=%2Fapi%2Fde1%2Fstream&fp=qq#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@bookend.filnex.baby:443?encryption=none&type=ws&security=tls&sni=hollowreed.gerqix.online&alpn=http%2F1.1&path=%2Fapi%2Fde1%2Fstream&fp=safari#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@ledger.filnex.baby:443?encryption=none&type=grpc&security=tls&sni=copperdell.merlano.monster&alpn=h2&serviceName=glush.de2.v1&fp=android#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@ledger.filnex.baby:443?encryption=none&type=grpc&security=tls&sni=copperdell.merlano.monster&alpn=h2&serviceName=glush.de2.v1&fp=chrome#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@ledger.filnex.baby:443?encryption=none&type=grpc&security=tls&sni=copperdell.merlano.monster&alpn=h2&serviceName=glush.de2.v1&fp=firefox#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@ledger.filnex.baby:443?encryption=none&type=grpc&security=tls&sni=copperdell.merlano.monster&alpn=h2&serviceName=glush.de2.v1&fp=qq#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@ledger.filnex.baby:443?encryption=none&type=grpc&security=tls&sni=copperdell.merlano.monster&alpn=h2&serviceName=glush.de2.v1&fp=safari#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@linen.filnex.baby:443?encryption=none&type=ws&security=tls&sni=cinderbrook.elvano.website&alpn=http%2F1.1&path=%2Fapi%2Fde2%2Fstream&fp=android#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@linen.filnex.baby:443?encryption=none&type=ws&security=tls&sni=cinderbrook.elvano.website&alpn=http%2F1.1&path=%2Fapi%2Fde2%2Fstream&fp=chrome#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@linen.filnex.baby:443?encryption=none&type=ws&security=tls&sni=cinderbrook.elvano.website&alpn=http%2F1.1&path=%2Fapi%2Fde2%2Fstream&fp=edge#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@linen.filnex.baby:443?encryption=none&type=ws&security=tls&sni=cinderbrook.elvano.website&alpn=http%2F1.1&path=%2Fapi%2Fde2%2Fstream&fp=firefox#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@linen.filnex.baby:443?encryption=none&type=ws&security=tls&sni=cinderbrook.elvano.website&alpn=http%2F1.1&path=%2Fapi%2Fde2%2Fstream&fp=qq#🇩🇪 Германия | viarvpn_free.t.me
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@marsh.moltex.click:443?encryption=none&type=xhttp&security=tls&sni=cotoneaster.moltex.click&alpn=h2%2Chttp%2F1.1&path=%2Fapi%2Fde1%2Fsync&host=marsh.moltex.click&mode=auto&fp=android#🇩🇪 Германия | viarvpn_free.t.me
+vless://f59f02e8-9d66-48e8-afc2-2ce7972d51bd@80.66.84.151:443?flow=xtls-rprx-vision&security=tls&sni=api-7c4e.deepl-dev.com&alpn=h2%2Chttp%2F1.1&fp=firefox#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://f59f02e8-9d66-48e8-afc2-2ce7972d51bd@80.66.84.151:443?flow=xtls-rprx-vision&security=tls&sni=api-7c4e.deepl-dev.com&alpn=h2%2Chttp%2F1.1&fp=android#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://f59f02e8-9d66-48e8-afc2-2ce7972d51bd@80.66.84.151:443?flow=xtls-rprx-vision&security=tls&sni=api-7c4e.deepl-dev.com&alpn=h2%2Chttp%2F1.1&fp=edge#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://f59f02e8-9d66-48e8-afc2-2ce7972d51bd@80.66.84.151:443?flow=xtls-rprx-vision&security=tls&sni=api-7c4e.deepl-dev.com&alpn=h2%2Chttp%2F1.1&fp=ios#🇳🇱 Нидерланды | viarvpn_free.t.me
+vless://f59f02e8-9d66-48e8-afc2-2ce7972d51bd@80.66.84.151:443?flow=xtls-rprx-vision&security=tls&sni=api-7c4e.deepl-dev.com&alpn=h2%2Chttp%2F1.1&fp=qq#🇳🇱 Нидерланды | viarvpn_free.t.me
