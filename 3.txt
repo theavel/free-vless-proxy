@@ -1,5 +1,6 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://bfce4086-02f9-4006-b579-472210753a63@83.166.254.97:11443?flow=xtls-rprx-vision&security=reality&sni=83.166.254.97&pbk=gaSpyUW0U3qs3kXSR8i_cpOKfl_vM6CdsEsUfSCJ9y4&sid=1280c0a31e883774&fp=edge#🇱🇻 Латвия | viarvpn_free.t.me
-vless://bfce4086-02f9-4006-b579-472210753a63@83.166.254.97:11443?flow=xtls-rprx-vision&security=reality&sni=83.166.254.97&pbk=gaSpyUW0U3qs3kXSR8i_cpOKfl_vM6CdsEsUfSCJ9y4&sid=1280c0a31e883774&fp=firefox#🇱🇻 Латвия | viarvpn_free.t.me
-vless://bfce4086-02f9-4006-b579-472210753a63@83.166.254.97:11443?flow=xtls-rprx-vision&security=reality&sni=83.166.254.97&pbk=gaSpyUW0U3qs3kXSR8i_cpOKfl_vM6CdsEsUfSCJ9y4&sid=1280c0a31e883774&fp=ios#🇱🇻 Латвия | viarvpn_free.t.me
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r1.pythonmakemigreat.wiki:8443?encryption=none&security=reality&sni=assets.study.golangwikito.cfd&type=xhttp&path=%2F&mode=packet-up&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&fp=ios#Other | viarvpn_free.t.me
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r1.pythonmakemigreat.wiki:8443?encryption=none&security=reality&sni=assets.study.golangwikito.cfd&type=xhttp&path=%2F&mode=packet-up&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&fp=qq#Other | viarvpn_free.t.me
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r7.pythonmakemigreat.wiki:8443?type=xhttp&headerType=none&security=reality&encryption=none&sni=cdn.study.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&sid=40a4b9403abe554c&path=%2F&mode=packet-up&extra=%7B%22xmux%22%3A&fp=android#Other | viarvpn_free.t.me
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r7.pythonmakemigreat.wiki:8443?type=xhttp&headerType=none&security=reality&encryption=none&sni=cdn.study.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&sid=40a4b9403abe554c&path=%2F&mode=packet-up&extra=%7B%22xmux%22%3A&fp=chrome#Other | viarvpn_free.t.me

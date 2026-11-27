@@ -1,5 +1,6 @@
 # profile-title: V I A R • VPN | Free
 # profile-update-interval: 1
-vless://bfce4086-02f9-4006-b579-472210753a63@87.242.102.222:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=pl.happofficial.store&pbk=WaU5vsybQPp-NZNXWSjUEVfbAG-hqDPipci1z1xkhiw&sid=b7d7a3622d85f30a&fp=firefox#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://bfce4086-02f9-4006-b579-472210753a63@87.242.102.222:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=pl.happofficial.store&pbk=WaU5vsybQPp-NZNXWSjUEVfbAG-hqDPipci1z1xkhiw&sid=b7d7a3622d85f30a&fp=qq#🇳🇱 Нидерланды | viarvpn_free.t.me
-vless://bfce4086-02f9-4006-b579-472210753a63@83.166.254.97:11443?flow=xtls-rprx-vision&security=reality&sni=83.166.254.97&pbk=gaSpyUW0U3qs3kXSR8i_cpOKfl_vM6CdsEsUfSCJ9y4&sid=1280c0a31e883774&fp=chrome#🇱🇻 Латвия | viarvpn_free.t.me
+vless://c9c219dc-50da-4135-8e5b-67020291f0ec@193.233.91.94:443?encryption=none&flow=xtls-rprx-vision&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&security=reality&sni=a93t3jdl.cachecore.space&type=tcp&fp=safari#🇱🇹 Литва | viarvpn_free.t.me
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r1.pythonmakemigreat.wiki:8443?encryption=none&security=reality&sni=assets.study.golangwikito.cfd&type=xhttp&path=%2F&mode=packet-up&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&fp=android#Other | viarvpn_free.t.me
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r1.pythonmakemigreat.wiki:8443?encryption=none&security=reality&sni=assets.study.golangwikito.cfd&type=xhttp&path=%2F&mode=packet-up&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&fp=chrome#Other | viarvpn_free.t.me
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r1.pythonmakemigreat.wiki:8443?encryption=none&security=reality&sni=assets.study.golangwikito.cfd&type=xhttp&path=%2F&mode=packet-up&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&fp=firefox#Other | viarvpn_free.t.me
